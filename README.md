@@ -4,12 +4,16 @@ For the SemEval 12: MultiCoNER-2 task
 
 #### Training the model:
 ```
-python train_model.py --train en-train90.conll --dev en-train10.conll --out_dir path/to/output/directory --iob_tagging multiconer2 --model_name any_name_works --gpus 1 --epochs 2 --encoder_model hugging-face-encoder-model --batch_size 64 --lr 0.0001
+python train_model.py --train en-train90.conll --dev en-train10.conll --out_dir path/to/output/directory \
+                      --iob_tagging multiconer2 --model_name any_name_works --gpus 1 --epochs 2 \
+                      --encoder_model hugging-face-encoder-model --batch_size 64 --lr 0.0001
 ```
 
 #### Evaluating the model:
 ```
-python evaluate.py --test en-dev.conll --out_dir path/to/output/directory/for/results --iob_tagging multiconer2 --gpus 1 --encoder_model hugging-face-encoder-model --model out_dir_path_from_training/model_name_from_trainign/lightning_logs/version_x --prefix any_prefix
+python evaluate.py --test en-dev.conll --out_dir path/to/output/directory/for/results --iob_tagging multiconer2 \
+                   --gpus 1 --encoder_model hugging-face-encoder-model  \
+                   --model out_dir_path_from_training/model_name_from_trainign/lightning_logs/version_x --prefix any_prefix
 ```
 
 #### Installing all dependencies:
