@@ -25,7 +25,17 @@ msra_iob = {'O': 0, 'S-NS': 1, 'B-NS': 2, 'E-NS': 3, 'B-NT': 4, 'M-NT': 5, 'E-NT
 ontonotes_iob = {'E-PER': 0, 'E-GPE': 1, 'E-LOC': 2, 'M-ORG': 3, 'E-ORG': 4, 'S-ORG': 5, 'B-GPE': 6, 'O': 7, 'M-PER': 8, 'M-LOC': 9, 'B-PER': 10, 'M-GPE': 11, 'S-LOC': 12, 'B-ORG': 13,
                  'S-PER': 14, 'B-LOC': 15, 'S-GPE': 16}
 
-multiconer2_iob = {'O' : 0, 'B-Medication/Vaccine' : 1, 'I-Medication/Vaccine' : 2, 'B-MedicalProcedure' : 3, 'I-MedicalProcedure' : 4, 'B-AnatomicalStructure' : 5, 'I-AnatomicalStructure' : 6, 'B-Symptom' : 7, 'I-Symptom' : 8,
+
+coarse_iob = {'O' : 0, 'B-Medication/Vaccine' : 1, 'I-Medication/Vaccine' : 2, 'B-MedicalProcedure' : 1, 'I-MedicalProcedure' : 2, 'B-AnatomicalStructure' : 1, 'I-AnatomicalStructure' : 2, 'B-Symptom' : 1, 'I-Symptom' : 2,
+                    'B-Disease' : 1, 'I-Disease' : 2, 'B-Facility' : 3, 'I-Facility' : 4, 'B-OtherLOC' : 3, 'I-OtherLOC' : 4, 'B-HumanSettlement' : 3, 'I-HumanSettlement' : 4, 'B-Station' : 3, 'I-Station' : 4, 
+                    'B-VisualWork' : 5, 'I-VisualWork' : 6, 'B-MusicalWork' : 5, 'I-MusicalWork' : 6, 'B-WrittenWork' : 5, 'I-WrittenWork' : 6, 'B-ArtWork' : 5, 'I-ArtWork' : 6, 'B-Software' : 5, 'I-Software' : 6,
+                    'B-OtherCW' : 5, 'I-OtherCW' : 6, 'B-MusicalGRP' : 7, 'I-MusicalGRP' : 8, 'B-PublicCORP' : 7, 'I-PublicCORP' : 8, 'B-PrivateCORP' : 7, 'I-PrivateCORP' : 8, 'B-OtherCORP' : 7, 'I-OtherCORP' : 8,
+                    'B-AerospaceManufacturer' : 7, 'I-AerospaceManufacturer' : 8, 'B-SportsGRP' : 7, 'I-SportsGRP' : 8, 'B-CarManufacturer' : 7, 'I-CarManufacturer' : 8, 'B-TechCORP' : 7, 'I-TechCORP' : 8, 'B-ORG' : 7,
+                    'I-ORG' : 8, 'B-OtherPER' : 9, 'I-OtherPER' : 10, 'B-SportsManager' : 9, 'I-SportsManager' : 10, 'B-Cleric' : 9, 'I-Cleric' : 10, 'B-Politician' : 9, 'I-Politician' : 10, 'B-Athlete' : 9, 'I-Athlete' : 10,
+                    'B-Artist' : 9, 'I-Artist' : 10, 'B-Scientist' : 9, 'I-Scientist' : 10, 'B-OtherPROD' : 11, 'I-OtherPROD' : 12, 'B-Drink' : 11, 'I-Drink' : 12, 'B-Food' : 11, 'I-Food' : 12, 'B-Vehicle' : 11, 'I-Vehicle' : 12,
+                    'B-Clothing' : 11, 'I-Clothing' : 12}
+
+finer_iob = {'O' : 0, 'B-Medication/Vaccine' : 1, 'I-Medication/Vaccine' : 2, 'B-MedicalProcedure' : 3, 'I-MedicalProcedure' : 4, 'B-AnatomicalStructure' : 5, 'I-AnatomicalStructure' : 6, 'B-Symptom' : 7, 'I-Symptom' : 8,
                     'B-Disease' : 9, 'I-Disease' : 10, 'B-Facility' : 11, 'I-Facility' : 12, 'B-OtherLOC' : 13, 'I-OtherLOC' : 14, 'B-HumanSettlement' : 15, 'I-HumanSettlement' : 16, 'B-Station' : 17, 'I-Station' : 18, 
                     'B-VisualWork' : 19, 'I-VisualWork' : 20, 'B-MusicalWork' : 21, 'I-MusicalWork' : 22, 'B-WrittenWork' : 23, 'I-WrittenWork' : 24, 'B-ArtWork' : 25, 'I-ArtWork' : 26, 'B-Software' : 27, 'I-Software' : 28,
                     'B-OtherCW' : 29, 'I-OtherCW' : 30, 'B-MusicalGRP' : 31, 'I-MusicalGRP' : 32, 'B-PublicCORP' : 33, 'I-PublicCORP' : 34, 'B-PrivateCORP' : 35, 'I-PrivateCORP' : 36, 'B-OtherCORP' : 37, 'I-OtherCORP' : 38,
@@ -70,8 +80,10 @@ def get_tagset(tagging_scheme):
         tags = {row['tag']: row['idx'] for idx, row in df.iterrows()}
         return tags
 
-    if 'multiconer2' in tagging_scheme:
-        return multiconer2_iob
+    if 'coarse' in tagging_scheme:
+        return coarse_iob
+    elif 'fine' in tagging_scheme:
+        return finer_iob
     elif 'conll' in tagging_scheme:
         return conll_iob
     elif 'wnut' in tagging_scheme:
