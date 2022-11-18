@@ -1,6 +1,22 @@
 import gzip
 import itertools
 
+def coarse_tag_generator(ner_tag):
+    if ner_tag[2:] == 'Medication/Vaccine' or ner_tag[2:] == 'MedicalProcedure' or ner_tag[2:] =='AnatomicalStructure' or ner_tag[2:] == 'Symptom' or ner_tag[2:] == 'Disease':
+        ner_tag = ner_tag[0] + ner_tag[1] + 'Medical'
+    elif ner_tag[2:] == 'Facility' or ner_tag[2:] == 'OtherLOC' or ner_tag[2:] == 'HumanSettlement' or ner_tag[2:] == 'Station':
+        ner_tag = ner_tag[0] + ner_tag[1] + 'Location'
+    elif ner_tag[2:] == 'VisualWork' or ner_tag[2:] == 'MusicalWork' or ner_tag[2:] == 'WrittenWork' or ner_tag[2:] == 'ArtWork' or ner_tag[2:] == 'Software' or ner_tag[2:] == 'OtherCW':
+        ner_tag = ner_tag[0] + ner_tag[1] + 'CreativeWorks'
+    elif ner_tag[2:] == 'MusicalGRP' or ner_tag[2:] == 'PublicCorp' or ner_tag[2:] == 'PrivateCorp' or ner_tag[2:] == 'OtherCorp' or ner_tag[2:] == 'AerospaceManufacturer' or ner_tag[2:] == 'SportsGRP' or ner_tag[2:] == 'CarManufacturer' or ner_tag[2:] == 'TechCORP' or ner_tag[2:] == 'ORG':
+        ner_tag = ner_tag[0] + ner_tag[1] + 'Group'
+    elif ner_tag[2:] == 'OtherPER' or ner_tag[2:] == 'SportsManager' or ner_tag[2:] == 'Cleric' or ner_tag[2:] == 'Politician' or ner_tag[2:] == 'Athlete' or ner_tag[2:] == 'Artist' or ner_tag[2:] == 'Scientist':
+        ner_tag = ner_tag[0] + ner_tag[1] +'Person'
+    elif ner_tag[2:] == 'OtherPROD' or ner_tag[2:] == 'Drink' or ner_tag[2:] == 'Food' or ner_tag[2:] == 'Vehicle' or ner_tag[2:] == 'Clothing':
+        ner_tag = ner_tag[0] + ner_tag[1] + 'Product'
+
+    return ner_tag
+
 
 def get_ner_reader(data):
     fin = gzip.open(data, 'rt') if data.endswith('.gz') else open(data, 'rt')
@@ -31,6 +47,8 @@ def _assign_ner_tags(ner_tag, rep_):
     if len(mask_):
         mask_[0] = True
 
+    ner_tag = coarse_tag_generator(ner_tag)
+
     if ner_tag[0] == 'B':
         in_tag = 'I' + ner_tag[1:]
 
@@ -54,6 +72,7 @@ def extract_spans(tags):
 
     # iterate over the tags
     for _id, nt in enumerate(tags):
+        nt = coarse_tag_generator(nt)
         indicator = nt[0]
         if indicator == 'B':
             gold_spans = _save_span(cur_tag, cur_start, _id, gold_spans)
