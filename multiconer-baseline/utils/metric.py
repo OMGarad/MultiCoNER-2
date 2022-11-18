@@ -1,15 +1,16 @@
 from collections import defaultdict
 from typing import Set
 from overrides import overrides
+import torch
 
 from allennlp.training.metrics.metric import Metric
 
 
 class SpanF1(Metric):
     def __init__(self, non_entity_labels=['O']) -> None:
-        self._num_gold_mentions = 0
-        self._num_recalled_mentions = 0
-        self._num_predicted_mentions = 0
+        self._num_gold_mentions = torch.tensor(0.0)
+        self._num_recalled_mentions = torch.tensor(0.0)
+        self._num_predicted_mentions = torch.tensor(0.0)
         self._TP, self._FP, self._GT = defaultdict(int), defaultdict(int), defaultdict(int)
         self.non_entity_labels = set(non_entity_labels)
 
@@ -90,9 +91,9 @@ class SpanF1(Metric):
 
     @overrides
     def reset(self):
-        self._num_gold_mentions = 0
-        self._num_recalled_mentions = 0
-        self._num_predicted_mentions = 0
+        self._num_gold_mentions = torch.tensor(0.0)
+        self._num_recalled_mentions = torch.tensor(0.0)
+        self._num_predicted_mentions = torch.tensor(0.0)
         self._TP.clear()
         self._FP.clear()
         self._GT.clear()
