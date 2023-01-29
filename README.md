@@ -2,6 +2,11 @@
 For the SemEval 12: MultiCoNER-2 task
 
 
+###Running the Final Submission File
+```
+python Final_Submission_File.py --test coarse-en-dev.conll --iob_tagging coarse --gpus 1 --encoder_model xlm-roberta-base --model /home/omkar/coarse_ner_baseline_models/XLMR_Base/xlmr_base_eng_coarse_ner_e10/lightning_logs/version_0  --max_length 500
+```
+
 #### Training the model:
 ```
 python train_model.py --train en-train90.conll --dev en-train10.conll --out_dir path/to/output/directory \
