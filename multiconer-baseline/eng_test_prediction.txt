@@ -1,0 +1,16805 @@
+eli	B-Person
+lilly	I-Person
+founder	O
+president	O
+of	O
+pharmaceutical	O
+company	O
+eli	B-Group
+lilly	I-Group
+and	O
+company	O
+
+	
+
+	
+christoph	B-Person
+haberland	I-Person
+designed	O
+a	O
+new	O
+marble	O
+pulpit	B-Product
+for	O
+the	O
+church	O
+which	O
+was	O
+built	O
+in	O
+italy	B-Location
+in	O
+1793	O
+.	O
+
+	
+
+	
+he	O
+was	O
+succeeded	O
+as	O
+chancellor	O
+by	O
+sir	B-Person
+frank	I-Person
+kitto	I-Person
+.	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+edward	B-Person
+meyrick	I-Person
+in	O
+1915	O
+.	O
+
+	
+
+	
+having	O
+suffered	O
+depredation	O
+of	O
+the	O
+more	O
+movable	O
+stones	O
+of	O
+the	O
+site	O
+the	O
+monument	O
+was	O
+excavated	O
+by	O
+w	B-Person
+j	I-Person
+hemp	I-Person
+in	O
+1928	O
+–	O
+29	O
+.	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+charles	B-Person
+joseph	I-Person
+gahan	I-Person
+in	O
+1894	O
+.	O
+
+	
+
+	
+two	O
+important	O
+voices	O
+who	O
+applied	O
+incommensurability	O
+to	O
+historical	O
+and	O
+philosophical	O
+notions	O
+of	O
+science	O
+in	O
+the	O
+1960s	O
+are	O
+thomas	B-Person
+kuhn	I-Person
+and	O
+paul	B-Person
+feyerabend	I-Person
+.	O
+
+	
+
+	
+the	O
+adoption	O
+of	O
+the	O
+(	O
+of	O
+charles	B-Person
+v	I-Person
+)	O
+in	O
+1532	O
+made	O
+inquisitional	O
+procedures	O
+empirical	O
+law	O
+.	O
+
+	
+
+	
+from	O
+1995	O
+to	O
+2011	O
+deal	B-Person
+hudson	I-Person
+was	O
+the	O
+magazine	O
+'s	O
+publisher	O
+.	O
+
+	
+
+	
+he	O
+inspired	O
+medical	O
+student	O
+alexander	B-Person
+rich	I-Person
+to	O
+pursue	O
+an	O
+academic	O
+career	O
+.	O
+
+	
+
+	
+it	O
+stars	O
+tomokazu	B-Person
+sugita	B-Person
+daisuke	B-Person
+sakaguchi	I-Person
+rie	B-Person
+kugimiya	I-Person
+among	O
+others	O
+.	O
+
+	
+
+	
+the	O
+main	O
+event	O
+featured	O
+thales	B-Person
+leites	I-Person
+taking	O
+on	O
+jesse	B-Person
+taylor	I-Person
+in	O
+a	O
+middleweight	O
+bout	O
+.	O
+
+	
+
+	
+bigtha	O
+is	O
+one	O
+of	O
+the	O
+eunuchs	O
+who	O
+served	O
+king	B-Person
+xerxes	I-Person
+in	O
+.	O
+
+	
+
+	
+báetán	B-Person
+mac	B-Person
+muirchertaig	I-Person
+and	O
+eochaid	B-Person
+mac	I-Person
+domnaill	I-Person
+569	O
+?	O
+–	O
+572	O
+/	O
+573	O
+
+	
+
+	
+in	O
+doing	O
+so	O
+he	O
+used	O
+various	O
+historiographical	O
+works	O
+by	O
+juraj	B-Person
+ratkaj	I-Person
+miklós	B-Person
+istvánffy	I-Person
+.	O
+
+	
+
+	
+he	O
+was	O
+accused	O
+of	O
+counter-revolutionary	B-Group
+activities	O
+and	O
+sentenced	O
+to	O
+death	O
+.	O
+
+	
+
+	
+when	O
+the	O
+project	O
+was	O
+initially	O
+announced	O
+in	O
+1986	O
+the	O
+course	O
+was	O
+to	O
+be	O
+designed	O
+by	O
+rees	B-Person
+jones	I-Person
+.	O
+
+	
+
+	
+four	O
+herms	O
+support	O
+the	O
+central	O
+balcony	O
+sculpted	O
+by	O
+françois-léon	B-Person
+sicard	I-Person
+.	O
+
+	
+
+	
+the	O
+physician	O
+and	O
+encyclopédiste	O
+jean-henri-nicolas	B-Person
+bouillet	I-Person
+was	O
+his	O
+son	O
+.	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+edward	B-Person
+meyrick	I-Person
+in	O
+1928	O
+.	O
+
+	
+
+	
+the	O
+pipe	O
+organ	O
+is	O
+a	O
+1762	O
+work	O
+by	O
+johann	B-Person
+andreas	I-Person
+silbermann	I-Person
+.	O
+
+	
+
+	
+bar	O
+:	O
+lynn	O
+from	O
+:	O
+2015	O
+till	O
+:	O
+2018	O
+color	O
+:	O
+joint	O
+text	O
+:	O
+alan	B-Person
+r.	I-Person
+lynn	I-Person
+
+	
+
+	
+it	O
+was	O
+built	O
+1851	O
+1855	O
+by	O
+benjamin	B-Person
+ferrey	I-Person
+who	O
+had	O
+been	O
+a	O
+pupil	O
+of	O
+pugin	B-Person
+.	O
+
+	
+
+	
+the	O
+next	O
+boss	O
+of	O
+vis	B-Person
+was	O
+his	O
+brother	O
+georgi	B-Person
+iliev	I-Person
+.	O
+
+	
+
+	
+akira	B-Person
+nishiguchi	I-Person
+:	O
+killed	O
+five	O
+people	O
+and	O
+engaged	O
+in	O
+fraud	O
+;	O
+executed	O
+in	O
+1970	O
+.	O
+
+	
+
+	
+bari	B-Person
+weiss	I-Person
+(	O
+born	O
+1984	O
+)	O
+opinion	O
+writer	O
+and	O
+editor	O
+
+	
+
+	
+it	O
+was	O
+designed	O
+by	O
+architect	O
+w.	B-Person
+h.	I-Person
+weeks	I-Person
+.	O
+
+	
+
+	
+2003	O
+:	O
+rossi	B-Person
+9	O
+biaggi	B-Person
+3	O
+sete	B-Person
+gibernau	I-Person
+1	O
+(	O
+13	O
+in	O
+total	O
+)	O
+
+	
+
+	
+edwin	B-Person
+borchard	I-Person
+(	O
+1884	O
+–	O
+1951	O
+)	O
+international	O
+legal	O
+scholar	O
+and	O
+jurist	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+strand	B-Person
+in	O
+1912	O
+.	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+johan	B-Person
+christian	I-Person
+fabricius	I-Person
+in	O
+1775	O
+.	O
+
+	
+
+	
+victor	O
+davis	B-Person
+hanson	I-Person
+military	O
+historian	O
+author	O
+and	O
+classicist	O
+
+	
+
+	
+his	O
+three	O
+daughters	O
+married	O
+prominent	O
+men	O
+one	O
+of	O
+whom	O
+was	O
+samuel	B-Person
+tudor	I-Person
+.	O
+
+	
+
+	
+his	O
+family	O
+was	O
+to	O
+include	O
+alfred	B-Person
+john	I-Person
+keene	I-Person
+who	O
+was	O
+a	O
+local	O
+painter	O
+whose	O
+work	O
+is	O
+displayed	O
+in	O
+the	O
+derby	B-Location
+art	I-Location
+gallery	I-Location
+.	O
+
+	
+
+	
+luigi	O
+became	O
+a	O
+pupil	O
+of	O
+lorenzo	B-Person
+bartolini	I-Person
+.	O
+
+	
+
+	
+he	O
+then	O
+decides	O
+to	O
+be	O
+born	O
+as	O
+the	O
+son	O
+of	O
+kausalyā	B-Person
+in	O
+ayodhyā	B-Location
+.	O
+300px	O
+
+	
+
+	
+phoebe	B-Person
+couzins	I-Person
+spoke	O
+before	O
+the	O
+legislature	O
+for	O
+women	O
+'s	O
+suffrage	O
+.	O
+
+	
+
+	
+their	O
+son	O
+rolf	B-Person
+jacobsen	I-Person
+became	O
+a	O
+jurist	O
+and	O
+national	O
+politician	O
+.	O
+
+	
+
+	
+in	O
+1928	O
+he	O
+began	O
+apprenticing	O
+under	O
+architect	O
+richard	B-Person
+neutra	I-Person
+with	O
+whom	O
+he	O
+was	O
+associated	O
+until	O
+1932	O
+.	O
+
+	
+
+	
+da	O
+yanlin	B-Location
+a	O
+distant	O
+relative	O
+of	O
+the	O
+defunct	O
+balhae	B-Group
+regime	O
+rebels	O
+;	O
+he	O
+is	O
+defeated	O
+
+	
+
+	
+john	B-Person
+sterling	I-Person
+(	O
+born	O
+1948	O
+)	O
+sportscaster	O
+for	O
+the	O
+new	B-Group
+york	I-Group
+yankees	I-Group
+
+	
+
+	
+the	O
+first	O
+committee	O
+included	O
+frances	B-Person
+power	I-Person
+cobbe	I-Person
+priscilla	B-Person
+bright	I-Person
+mclaren	B-Person
+lilias	B-Person
+ashworth	I-Person
+hallett	I-Person
+and	O
+agnes	B-Person
+garrett	I-Person
+.	O
+
+	
+
+	
+file	O
+:	O
+fbaracca	O
+1	O
+.	O
+jpg	O
+|	O
+count	O
+francesco	B-Person
+baracca	I-Person
+and	O
+his	O
+spad	B-Person
+s.vii	I-Person
+with	O
+the	O
+that	O
+inspired	O
+the	O
+ferrari	B-Group
+emblem	O
+
+	
+
+	
+she	O
+was	O
+a	O
+niece	O
+of	O
+the	O
+greek	B-Group
+prime	I-Group
+minister	I-Group
+eleftherios	B-Person
+venizelos	I-Person
+who	O
+married	O
+her	O
+aunt	O
+philanthropist	O
+helena	B-Person
+schilizzi	I-Person
+.	O
+
+	
+
+	
+the	O
+cup	O
+is	O
+named	O
+after	O
+joe	B-Person
+mcdonagh	I-Person
+.	O
+
+	
+
+	
+josephine	B-Person
+herrick	I-Person
+photographer	O
+humanitarian	O
+entrepreneur	O
+and	O
+teacher	O
+
+	
+
+	
+the	O
+music	O
+was	O
+composed	O
+by	O
+m.	B-Person
+s.	I-Person
+viswanathan	I-Person
+and	O
+lyrics	O
+were	O
+written	O
+by	O
+poovachal	B-Person
+khader	I-Person
+.	O
+
+	
+
+	
+narain	O
+pairs	O
+up	O
+with	O
+pooja	B-Person
+for	O
+the	O
+first	O
+time	O
+.	O
+
+	
+
+	
+they	O
+also	O
+worked	O
+as	O
+session	O
+musicians	O
+and	O
+recorded	O
+with	O
+a	O
+number	O
+of	O
+artists	O
+and	O
+recorded	O
+an	O
+album	O
+with	O
+oliver	B-Person
+nelson	I-Person
+.	O
+
+	
+
+	
+blackett	O
+apparently	O
+had	O
+many	O
+acquaintances	O
+including	O
+poet	O
+thomas	B-Person
+chatterton	I-Person
+.	O
+
+	
+
+	
+the	O
+track	O
+was	O
+given	O
+the	O
+working	O
+title	O
+sinatra	B-CreativeWorks
+in	O
+reference	O
+to	O
+the	O
+artist	O
+whose	O
+music	O
+inspired	O
+it	O
+.	O
+
+	
+
+	
+on	O
+the	O
+same	O
+day	O
+the	O
+album	O
+'s	O
+first	O
+single	O
+like	B-CreativeWorks
+me	I-CreativeWorks
+featuring	O
+jeremih	B-Person
+was	O
+released	O
+.	O
+
+	
+
+	
+everready	O
+(	O
+the	O
+religion	O
+)	O
+is	O
+the	O
+fifth	O
+studio	O
+album	O
+by	O
+rapper	O
+tech	B-Person
+n9ne	I-Person
+.	O
+
+	
+
+	
+stuckist	O
+artist	O
+mark	B-Person
+d	I-Person
+used	O
+on	O
+a	O
+protest	B-Product
+placard	I-Product
+.	O
+
+	
+
+	
+the	O
+game	O
+was	O
+not	O
+affiliated	O
+with	O
+the	O
+creators	O
+of	O
+the	O
+show	O
+itself	O
+dan	B-Person
+povenmire	I-Person
+and	O
+jeff	B-Person
+swampy	I-Person
+marsh	I-Person
+.	O
+
+	
+
+	
+the	O
+film	O
+'s	O
+score	O
+and	O
+songs	O
+were	O
+composed	O
+and	O
+conducted	O
+by	O
+dinesh	B-Person
+subasinghe	I-Person
+.	O
+
+	
+
+	
+jeff	B-Person
+lang	I-Person
+(	O
+born	O
+1969	O
+)	O
+songwriter	O
+singer	O
+and	O
+slide	O
+guitarist	O
+
+	
+
+	
+all	O
+songs	O
+by	O
+missing	B-Group
+persons	I-Group
+(	O
+dale	B-Person
+bozzio	I-Person
+terry	B-Person
+bozzio	I-Person
+warren	B-Person
+cuccurullo	I-Person
+and	O
+patrick	B-Person
+o'hearn	I-Person
+)	O
+except	O
+where	O
+noted	O
+.	O
+
+	
+
+	
+it	O
+was	O
+first	O
+conceptualized	O
+by	O
+erving	B-Person
+goffman	I-Person
+in	O
+1959	O
+in	O
+the	O
+presentation	O
+of	O
+self	O
+in	O
+everyday	O
+life	O
+and	O
+then	O
+was	O
+expanded	O
+upon	O
+in	O
+1967	O
+.	O
+
+	
+
+	
+the	O
+series	O
+stars	O
+sam	B-Person
+robards	I-Person
+brynn	B-Person
+thayer	I-Person
+leon	B-Person
+russom	I-Person
+and	O
+andrew	B-Person
+cassese	I-Person
+.	O
+
+	
+
+	
+his	O
+brief	O
+style	O
+influenced	O
+among	O
+others	O
+widukind	B-Person
+of	O
+corvey	B-Person
+and	O
+wipo	B-Person
+of	I-Person
+burgundy	I-Person
+.	O
+
+	
+
+	
+he	O
+cites	O
+kevin	B-Person
+aviance	I-Person
+phylicia	B-Person
+rashad	I-Person
+and	O
+beyoncé	B-Person
+as	O
+artistic	O
+inspirations	O
+.	O
+
+	
+
+	
+doris	B-Person
+day	I-Person
+included	O
+in	O
+the	O
+album	O
+billy	B-Group
+rose	I-Group
+'s	O
+jumbo	B-CreativeWorks
+
+	
+
+	
+a	O
+1978	O
+opera	B-CreativeWorks
+version	O
+was	O
+composed	O
+by	O
+zlata	B-Person
+tkach	I-Person
+with	O
+a	O
+libretto	B-CreativeWorks
+by	O
+poet	O
+grigore	B-Person
+vieru	I-Person
+.	O
+
+	
+
+	
+pat	B-Person
+flynn	I-Person
+–	O
+lead	O
+acoustic	O
+guitar	O
+background	O
+vocals	O
+
+	
+
+	
+william	B-Person
+john	I-Person
+fitzpatrick	I-Person
+in	O
+the	O
+dictionary	B-CreativeWorks
+of	I-CreativeWorks
+national	I-CreativeWorks
+biography	I-CreativeWorks
+stated	O
+that	O
+the	O
+book	O
+is	O
+mainly	O
+if	O
+not	O
+entirely	O
+the	O
+fruit	O
+of	O
+o	O
+connor	O
+s	O
+imagination	O
+.	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+william	B-Person
+chapman	I-Person
+hewitson	I-Person
+in	O
+1869	O
+.	O
+
+	
+
+	
+adapt	O
+is	O
+a	O
+2004	O
+studio	B-CreativeWorks
+album	I-CreativeWorks
+by	O
+trace	B-Person
+bundy	I-Person
+.	O
+
+	
+
+	
+chuck	B-Person
+ainlay	I-Person
+–	O
+overdub	O
+recording	O
+mixing	O
+
+	
+
+	
+frostrup	O
+was	O
+first	O
+married	O
+(	O
+1979	O
+–	O
+1984	O
+)	O
+to	O
+richard	B-Person
+jobson	I-Person
+lead	O
+singer	O
+with	O
+the	O
+punk	O
+rock	O
+group	O
+skids	B-Group
+.	O
+
+	
+
+	
+it	O
+was	O
+written	O
+by	O
+tom	B-Person
+johnston	I-Person
+.	O
+
+	
+
+	
+from	B-CreativeWorks
+a	I-CreativeWorks
+buick	I-CreativeWorks
+6	I-CreativeWorks
+a	O
+song	O
+by	O
+bob	B-Person
+dylan	I-Person
+that	O
+references	O
+the	O
+car	O
+in	O
+the	O
+title	O
+
+	
+
+	
+history	O
+later	O
+repeated	O
+itself	O
+with	O
+another	O
+film	O
+by	O
+sokurov	B-Person
+days	B-CreativeWorks
+of	I-CreativeWorks
+eclipse	I-CreativeWorks
+(	O
+dni	O
+zatmeniya	O
+)	O
+.	O
+
+	
+
+	
+the	O
+murders	O
+were	O
+the	O
+subject	O
+of	O
+beverly	B-Person
+lowry	I-Person
+'s	O
+2016	O
+nonfiction	O
+book	O
+who	B-CreativeWorks
+killed	I-CreativeWorks
+these	I-CreativeWorks
+girls	I-CreativeWorks
+?	I-CreativeWorks
+
+	
+
+	
+the	O
+music	O
+was	O
+written	O
+by	O
+johnny	B-Person
+marr	I-Person
+and	O
+the	O
+lyrics	O
+by	O
+morrissey	B-Group
+.	O
+
+	
+
+	
+une	O
+petite	O
+qui	O
+voit	O
+grand	O
+by	O
+germaine	B-Person
+acremant	I-Person
+
+	
+
+	
+gordon	B-Person
+hunt	I-Person
+returned	O
+as	O
+the	O
+game	O
+'s	O
+recording	O
+director	O
+with	O
+kris	B-Person
+zimmerman	I-Person
+as	O
+casting	O
+director	O
+.	O
+
+	
+
+	
+vocal	O
+artists	O
+included	O
+on	O
+the	O
+album	O
+included	O
+picasso	B-Group
+yuki	B-Person
+saito	B-Person
+sumi	B-Person
+shimamoto	I-Person
+and	O
+takao	B-Person
+kisugi	I-Person
+.	O
+
+	
+
+	
+boston	O
+based	O
+howie	B-Person
+carr	I-Person
+is	O
+heard	O
+on	O
+weekday	O
+afternoons	O
+.	O
+
+	
+
+	
+in	O
+the	O
+periodical	O
+christianity	O
+today	O
+the	O
+philosopher	O
+dallas	B-Person
+willard	I-Person
+wrote	O
+:	O
+
+	
+
+	
+jon	B-Person
+stewart	I-Person
+of	O
+the	B-CreativeWorks
+daily	I-CreativeWorks
+show	I-CreativeWorks
+praised	O
+moveon	B-Group
+.	O
+org	O
+for	O
+making	O
+even	O
+people	O
+who	O
+agree	O
+with	O
+you	O
+cringe	O
+.	O
+
+	
+
+	
+nicholson	O
+starred	O
+in	O
+five	B-CreativeWorks
+easy	I-CreativeWorks
+pieces	I-CreativeWorks
+alongside	O
+karen	B-Person
+black	I-Person
+in	O
+1970	O
+in	O
+what	O
+became	O
+his	O
+persona	O
+defining	O
+role	O
+.	O
+
+	
+
+	
+also	O
+in	O
+1997	O
+came	O
+the	O
+cult	O
+success	O
+of	O
+bent	B-CreativeWorks
+starring	O
+clive	B-Person
+owen	I-Person
+adapted	O
+from	O
+the	O
+play	O
+by	O
+martin	B-Person
+sherman	I-Person
+.	O
+
+	
+
+	
+the	O
+supporting	O
+cast	O
+features	O
+clu	B-Person
+gulager	I-Person
+claude	B-Person
+akins	I-Person
+and	O
+norman	B-Person
+fell	I-Person
+.	O
+
+	
+
+	
+spider-man	B-CreativeWorks
+a	O
+2002	O
+film	O
+directed	O
+by	O
+sam	B-Person
+raimi	I-Person
+
+	
+
+	
+production	O
+design	O
+was	O
+handled	O
+by	O
+t.	B-Person
+muthuraj	I-Person
+.	O
+
+	
+
+	
+isaac	B-Person
+ibn	I-Person
+al-ahdab	I-Person
+(	O
+1350	O
+–	O
+1430	O
+)	O
+mathematician	O
+astronomer	O
+and	O
+poet	O
+
+	
+
+	
+the	O
+album	O
+features	O
+guest	O
+contributions	O
+from	O
+guns	B-Group
+n'	I-Group
+roses	I-Group
+guitarist	O
+ron	B-Person
+bumblefoot	I-Person
+thal	I-Person
+.	O
+
+	
+
+	
+morning	B-CreativeWorks
+dew	I-CreativeWorks
+>	O
+(	O
+bonnie	B-Person
+dobson	I-Person
+tim	B-Person
+rose	I-Person
+)	O
+–	O
+12	O
+:	O
+24	O
+
+	
+
+	
+rakim	B-Person
+allen	I-Person
+–	O
+vocals	O
+songwriting	O
+composition	O
+director	O
+
+	
+
+	
+brad	B-Person
+shepherd	I-Person
+—	O
+guitar	O
+backing	O
+vocals	O
+harmonica	O
+
+	
+
+	
+m.	B-Person
+e.	I-Person
+clifton	I-Person
+james	O
+(	O
+montgomery	O
+'s	O
+double	O
+during	O
+the	O
+war	O
+)	O
+
+	
+
+	
+adolf	B-Person
+bernhard	I-Person
+marx	B-Person
+was	O
+influential	O
+in	O
+formalising	O
+concepts	O
+about	O
+composition	O
+and	O
+music	O
+understanding	O
+towards	O
+the	O
+second	O
+half	O
+of	O
+the	O
+19th	O
+century	O
+.	O
+
+	
+
+	
+anne	B-Person
+dudley	I-Person
+–	O
+organ	O
+piano	O
+conductor	O
+keyboards	O
+fender	O
+rhodes	O
+orchestral	O
+arrangements	O
+
+	
+
+	
+his	O
+most	O
+famous	O
+pupil	O
+was	O
+soprano	O
+růžena	B-Person
+maturová	I-Person
+.	O
+
+	
+
+	
+middelburg	O
+is	O
+also	O
+the	O
+birthplace	O
+of	O
+playwright	O
+athol	B-Person
+fugard	I-Person
+.	O
+
+	
+
+	
+journey	O
+is	O
+the	O
+second	O
+album	O
+released	O
+by	O
+record	O
+producer	O
+arif	B-Person
+mardin	I-Person
+as	O
+leader	O
+.	O
+
+	
+
+	
+with	O
+ron	B-Person
+carter	I-Person
+(	O
+bass	O
+)	O
+billy	B-Person
+cobham	I-Person
+(	O
+drums	O
+)	O
+airto	O
+moreira	O
+(	O
+percussion	O
+)	O
+string	O
+quartet	O
+
+	
+
+	
+she	O
+was	O
+known	O
+for	O
+her	O
+interpretations	O
+of	O
+the	O
+works	O
+of	O
+richard	B-Person
+wagner	I-Person
+and	O
+richard	B-Person
+strauss	I-Person
+.	O
+
+	
+
+	
+in	O
+2017	O
+she	O
+was	O
+seen	O
+in	O
+soundarya	B-Person
+rajnikanth	I-Person
+'s	O
+film	O
+velaiilla	B-CreativeWorks
+pattadhari	I-CreativeWorks
+2	I-CreativeWorks
+which	O
+was	O
+a	O
+profitable	O
+venture	O
+.	O
+
+	
+
+	
+jeff	B-Person
+gardner	I-Person
+actor	O
+producer	O
+theater	O
+manager	O
+
+	
+
+	
+in	O
+the	O
+audience	O
+a	O
+totally	O
+drunken	O
+jack	B-Person
+kerouac	I-Person
+refuses	O
+to	O
+read	O
+his	O
+own	O
+work	O
+but	O
+cheers	O
+on	O
+the	O
+others	O
+shouting	O
+yeah	O
+!	O
+
+	
+
+	
+later	O
+he	O
+played	O
+a	O
+cast	O
+role	O
+in	O
+the	O
+sitcom	O
+you	B-CreativeWorks
+again	I-CreativeWorks
+?	I-CreativeWorks
+with	O
+jack	B-Person
+klugman	I-Person
+.	O
+
+	
+
+	
+she	O
+also	O
+enjoyed	O
+hans	B-Person
+christian	I-Person
+andersen	I-Person
+'s	O
+fairytale	O
+the	B-CreativeWorks
+snow	I-CreativeWorks
+queen	I-CreativeWorks
+which	O
+influenced	O
+her	O
+writing	O
+.	O
+
+	
+
+	
+in	O
+2007	O
+it	O
+signed	O
+a	O
+two	O
+year	O
+exclusive	O
+contract	O
+with	O
+tory	B-Group
+lane	I-Group
+to	O
+perform	O
+in	O
+and	O
+direct	O
+films	O
+.	O
+
+	
+
+	
+1976	O
+:	O
+the	B-CreativeWorks
+man	I-CreativeWorks
+who	I-CreativeWorks
+fell	I-CreativeWorks
+to	I-CreativeWorks
+earth	I-CreativeWorks
+(	O
+producer	O
+with	O
+michael	B-Person
+deeley	I-Person
+)	O
+
+	
+
+	
+foreword	O
+by	O
+bryan	B-Person
+talbot	I-Person
+(	O
+may	O
+2009	O
+)	O
+
+	
+
+	
+he	O
+then	O
+spent	O
+five	O
+months	O
+rehearsing	O
+including	O
+working	O
+with	O
+producer	O
+hal	B-Person
+prince	I-Person
+.	O
+
+	
+
+	
+shortly	O
+after	O
+beginning	O
+her	O
+studies	O
+with	O
+balletmaster	O
+gaétan	B-Person
+vestris	I-Person
+she	O
+became	O
+his	O
+lover	O
+.	O
+
+	
+
+	
+the	O
+special	O
+also	O
+featured	O
+alice	B-Group
+in	I-Group
+chains	I-Group
+phil	B-Person
+anselmo	B-Person
+dave	I-Person
+navarro	B-Person
+rufus	B-Person
+wainwright	I-Person
+and	O
+carrie	B-Person
+underwood	I-Person
+.	O
+
+	
+
+	
+sixx	O
+dated	O
+tattoo	O
+artist	O
+kat	B-Person
+von	I-Person
+d	I-Person
+from	O
+2008	O
+to	O
+2010	O
+.	O
+
+	
+
+	
+when	B-CreativeWorks
+i	I-CreativeWorks
+paint	I-CreativeWorks
+my	I-CreativeWorks
+masterpiece	I-CreativeWorks
+(	O
+bob	B-Person
+dylan	I-Person
+)	O
+–	O
+5	O
+:	O
+00	O
+
+	
+
+	
+martija	O
+is	O
+a	O
+fan	O
+of	O
+justin	B-Person
+bieber	I-Person
+.	O
+
+	
+
+	
+she	O
+was	O
+replaced	O
+by	O
+julia	B-Person
+mckenzie	I-Person
+from	O
+the	O
+fourth	O
+series	O
+onwards	O
+.	O
+
+	
+
+	
+the	O
+critics	O
+emil	B-Person
+staiger	I-Person
+gaston	B-Person
+bachelard	I-Person
+and	O
+j.	B-Person
+hillis	I-Person
+miller	I-Person
+are	O
+also	O
+sometimes	O
+associated	O
+with	O
+this	O
+group	O
+.	O
+
+	
+
+	
+banks	B-CreativeWorks
+of	I-CreativeWorks
+the	I-CreativeWorks
+ohio	I-CreativeWorks
+(	O
+john	B-Person
+farrar	I-Person
+bruce	B-Person
+welch	O
+;	O
+arranged	O
+by	O
+peter	B-Person
+sullivan	I-Person
+)	O
+
+	
+
+	
+during	O
+development	O
+game	O
+producer	O
+tetsuya	B-Person
+mizuguchi	I-Person
+intended	O
+lumines	B-CreativeWorks
+live	I-CreativeWorks
+!	I-CreativeWorks
+to	O
+be	O
+customizable	O
+for	O
+players	O
+via	O
+downloadable	O
+content	O
+(	O
+dlc	O
+)	O
+.	O
+
+	
+
+	
+she	O
+was	O
+introduced	O
+to	O
+jim	B-Person
+peterik	I-Person
+who	O
+mentored	O
+her	O
+and	O
+helped	O
+with	O
+her	O
+first	O
+two	O
+albums	O
+.	O
+
+	
+
+	
+1968	O
+–	O
+gabriele	B-Person
+ferzetti	I-Person
+–	O
+we	B-CreativeWorks
+still	I-CreativeWorks
+kill	I-CreativeWorks
+the	I-CreativeWorks
+old	I-CreativeWorks
+way	I-CreativeWorks
+
+	
+
+	
+he	O
+was	O
+the	O
+fifth	O
+actor	O
+to	O
+reprise	O
+the	O
+role	O
+followed	O
+by	O
+ben	B-Person
+hardy	I-Person
+in	O
+2013	O
+.	O
+
+	
+
+	
+she	O
+was	O
+also	O
+a	O
+sister	O
+of	O
+the	O
+polymath	O
+sociologist	O
+franz	B-Person
+oppenheimer	I-Person
+(	O
+1864	O
+1943	O
+)	O
+.	O
+
+	
+
+	
+arguably	O
+her	O
+most	O
+memorable	O
+role	O
+was	O
+in	O
+meet	B-CreativeWorks
+me	I-CreativeWorks
+in	I-CreativeWorks
+st.	I-CreativeWorks
+louis	I-CreativeWorks
+opposite	O
+judy	B-Person
+garland	I-Person
+.	O
+
+	
+
+	
+františek	B-Person
+vláčil	I-Person
+(	O
+1924	O
+–	O
+1999	O
+)	O
+film	O
+director	O
+and	O
+screenwriter	O
+
+	
+
+	
+the	O
+tour	O
+was	O
+documented	O
+in	O
+the	O
+film	O
+one	B-CreativeWorks
+direction	I-CreativeWorks
+:	I-CreativeWorks
+this	I-CreativeWorks
+is	I-CreativeWorks
+us	I-CreativeWorks
+directed	O
+by	O
+morgan	B-Person
+spurlock	I-Person
+.	O
+
+	
+
+	
+this	O
+movie	O
+is	O
+famous	O
+for	O
+the	O
+erotic	O
+first	O
+night	O
+song	O
+picturised	B-CreativeWorks
+on	I-CreativeWorks
+nagma	I-CreativeWorks
+.	O
+
+	
+
+	
+caramoor	O
+also	O
+features	O
+a	O
+composer	O
+in	O
+residence	O
+with	O
+such	O
+composers	O
+as	O
+john	B-Person
+musto	I-Person
+and	O
+paquito	B-Person
+d'rivera	I-Person
+holding	O
+the	O
+post	O
+.	O
+
+	
+
+	
+the	O
+hospital	O
+was	O
+named	O
+after	O
+princess	B-Person
+margaret	I-Person
+sister	O
+of	O
+queen	B-Person
+elizabeth	I-Person
+ii	I-Person
+.	O
+
+	
+
+	
+honored	O
+guests	O
+:	O
+patrick	B-Person
+nielsen	I-Person
+hayden	I-Person
+teresa	B-Person
+nielsen	I-Person
+hayden	I-Person
+p.	B-Person
+c.	I-Person
+hodgell	I-Person
+larry	B-Person
+niven	I-Person
+john	B-Person
+sladek	I-Person
+
+	
+
+	
+hammond	O
+was	O
+drafted	O
+by	O
+the	O
+cincinnati	B-Group
+reds	I-Group
+in	O
+the	O
+sixth	O
+round	O
+of	O
+the	O
+amateur	O
+draft	O
+.	O
+
+	
+
+	
+spain	B-Group
+won	O
+the	O
+tournament	O
+and	O
+took	O
+its	O
+seventeenth	O
+title	O
+overall	O
+.	O
+
+	
+
+	
+in	O
+2019	O
+he	O
+joined	O
+the	O
+pittsburgh	B-Group
+pirates	I-Group
+organization	O
+and	O
+served	O
+as	O
+the	O
+hitting	O
+coach	O
+for	O
+the	O
+altoona	B-Group
+curve	I-Group
+.	O
+
+	
+
+	
+she	O
+was	O
+a	O
+member	O
+of	O
+sc	B-Group
+dhfk	I-Group
+leipzig	I-Group
+sports	I-Group
+club	I-Group
+.	O
+
+	
+
+	
+3rd	O
+place	O
+:	O
+metallurg	B-Person
+magnitogorsk	I-Person
+–	O
+avangard	B-Group
+omsk	I-Group
+1	O
+:	O
+1	O
+2	O
+:	O
+0	O
+
+	
+
+	
+howard	O
+played	O
+college	O
+baseball	O
+for	O
+the	O
+byu	B-Group
+cougars	I-Group
+.	O
+
+	
+
+	
+he	O
+has	O
+previously	O
+played	O
+for	O
+the	O
+st.	B-Group
+louis	I-Group
+blues	I-Group
+pittsburgh	B-Group
+penguins	I-Group
+and	O
+vegas	B-Group
+golden	I-Group
+knights	I-Group
+.	O
+
+	
+
+	
+reserve	O
+teams	O
+play	O
+in	O
+the	O
+same	O
+league	O
+system	O
+as	O
+their	O
+parent	O
+clubs	B-Group
+.	O
+
+	
+
+	
+baldur	B-Person
+bett	I-Person
+also	O
+left	O
+the	O
+squad	O
+at	O
+the	O
+end	O
+of	O
+the	O
+season	O
+and	O
+joined	O
+rivals	O
+valur	B-Person
+on	O
+a	O
+free	O
+transfer	O
+.	O
+
+	
+
+	
+the	O
+seattle	B-Group
+seahawks	I-Group
+had	O
+offered	O
+him	O
+comparable	O
+money	O
+but	O
+with	O
+an	O
+extra	O
+year	O
+and	O
+back	O
+loaded	O
+the	O
+whole	O
+deal	O
+.	O
+
+	
+
+	
+he	O
+played	O
+in	O
+9	O
+games	O
+for	O
+the	O
+1906	O
+st.	B-Group
+louis	I-Group
+cardinals	I-Group
+.	O
+
+	
+
+	
+he	O
+debuted	O
+for	O
+gloucestershire	B-Group
+in	O
+1887	O
+at	O
+the	O
+age	O
+of	O
+17	O
+.	O
+
+	
+
+	
+to	O
+san	B-Group
+jose	B-Person
+sharks	I-Person
+3rd	O
+round	O
+draft	O
+pick2	O
+(	O
+85	O
+tom	B-Person
+sestito	I-Person
+)	O
+
+	
+
+	
+west	O
+has	O
+also	O
+been	O
+a	O
+member	O
+of	O
+the	O
+cleveland	B-Group
+browns	I-Group
+.	O
+
+	
+
+	
+the	O
+race	O
+was	O
+won	O
+by	O
+primož	B-Person
+roglič	I-Person
+of	O
+slovenia	B-Location
+.	O
+
+	
+
+	
+the	O
+reigning	O
+national	O
+champions	O
+are	O
+the	O
+nc	B-Group
+state	I-Group
+wolfpack	I-Group
+.	O
+
+	
+
+	
+they	O
+were	O
+a	O
+member	O
+of	O
+the	O
+stade	B-Group
+français	I-Group
+sports	I-Group
+association	I-Group
+.	O
+
+	
+
+	
+romano	O
+played	O
+for	O
+the	O
+peterborough	B-Group
+petes	I-Group
+in	O
+the	O
+following	O
+season	O
+where	O
+he	O
+scored	O
+36	O
+goals	O
+in	O
+65	O
+games	O
+.	O
+
+	
+
+	
+he	O
+was	O
+held	O
+scoreless	O
+at	O
+right	O
+wing	O
+forward	O
+in	O
+the	O
+3	O
+21	O
+to	O
+0	O
+16	O
+defeat	O
+by	O
+kilkenny	B-Person
+.	O
+
+	
+
+	
+he	O
+is	O
+followed	O
+by	O
+wally	B-Person
+hammond	I-Person
+with	O
+905	O
+runs	O
+scored	O
+in	O
+the	O
+1928–29	O
+ashes	B-Group
+series	O
+.	O
+
+	
+
+	
+he	O
+is	O
+currently	O
+a	O
+wide	B-Group
+receivers	I-Group
+coach	O
+for	O
+the	O
+buffalo	B-Group
+bills	I-Group
+.	O
+
+	
+
+	
+she	O
+has	O
+11	O
+caps	B-Product
+in	O
+national	B-Group
+team	I-Group
+from	O
+2001	O
+to	O
+2008	O
+.	O
+
+	
+
+	
+they	O
+got	O
+off	O
+to	O
+another	O
+strong	O
+start	O
+in	O
+1989	O
+with	O
+road	O
+victories	O
+over	O
+the	O
+detroit	B-Group
+lions	I-Group
+and	O
+seattle	B-Group
+seahawks	I-Group
+then	O
+suffered	O
+a	O
+rash	O
+of	O
+injuries	O
+.	O
+
+	
+
+	
+depardieu	O
+in	O
+the	O
+role	O
+that	O
+gets	O
+him	O
+into	O
+a	O
+new	B-Group
+york	I-Group
+yankees	B-Group
+cap	O
+proves	O
+that	O
+he	O
+is	O
+nothing	O
+if	O
+not	O
+a	O
+sport	O
+.	O
+.	O
+.	O
+
+	
+
+	
+he	O
+played	O
+for	O
+the	O
+detroit	B-Group
+tigers	I-Group
+and	O
+cincinnati	B-Group
+reds	I-Group
+.	O
+
+	
+
+	
+the	O
+first	O
+four	O
+teams	O
+in	O
+each	O
+group	O
+(	O
+excluding	O
+reserve	B-Group
+teams	I-Group
+)	O
+took	O
+part	O
+in	O
+the	O
+play	O
+off	O
+.	O
+
+	
+
+	
+between	O
+2006	O
+and	O
+2008	O
+he	O
+played	O
+two	O
+seasons	O
+with	O
+the	O
+south	B-Group
+dragons	I-Group
+.	O
+
+	
+
+	
+his	O
+teammate	O
+mark	B-Person
+webber	I-Person
+finished	O
+second	O
+and	O
+ferrari	B-Group
+'s	O
+fernando	B-Person
+alonso	I-Person
+third	O
+.	O
+
+	
+
+	
+he	O
+was	O
+the	O
+captain	O
+of	O
+the	O
+pakistan	B-Group
+national	I-Group
+cricket	I-Group
+team	I-Group
+from	O
+2007	O
+to	O
+2009	O
+.	O
+
+	
+
+	
+he	O
+played	O
+briefly	O
+for	O
+the	O
+philadelphia	B-Group
+phillies	I-Group
+as	O
+an	O
+unsigned	O
+non	O
+roster	O
+invitee	O
+during	O
+spring	O
+training	O
+in	O
+1991	O
+.	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+pieter	B-Person
+cramer	I-Person
+in	O
+1780	O
+.	O
+
+	
+
+	
+the	O
+sitter	O
+is	O
+sir	B-Person
+thomas	I-Person
+lestrange	I-Person
+a	O
+minor	O
+courtier	O
+and	O
+wealthy	O
+landowner	O
+.	O
+
+	
+
+	
+she	O
+should	O
+not	O
+be	O
+confused	O
+with	O
+salome	B-Person
+whose	O
+mother	O
+was	O
+herodias	B-Person
+and	O
+who	O
+is	O
+alleged	O
+to	O
+have	O
+played	O
+a	O
+role	O
+in	O
+the	O
+death	O
+of	O
+john	B-Person
+the	I-Person
+baptist	I-Person
+.	O
+
+	
+
+	
+stéphane	B-Person
+houdet	I-Person
+/	O
+shingo	B-Person
+kunieda	I-Person
+defeated	O
+robin	B-Person
+ammerlaan	I-Person
+/	O
+stefan	B-Person
+olsson	I-Person
+6	O
+–	O
+0	O
+5	O
+–	O
+7	O
+[	O
+10	O
+–	O
+8	O
+]	O
+
+	
+
+	
+the	O
+standout	O
+match	O
+of	O
+this	O
+championship	O
+however	O
+was	O
+the	O
+quarter	O
+final	O
+between	O
+chris	B-Person
+mason	I-Person
+and	O
+martin	B-Person
+adams	I-Person
+.	O
+
+	
+
+	
+it	O
+was	O
+described	O
+by	O
+hervé	B-Person
+de	I-Person
+toulgoët	I-Person
+in	O
+1994	O
+.	O
+
+	
+
+	
+2011	O
+:	O
+1st	O
+round	O
+(	O
+lost	O
+to	O
+wayne	B-Person
+jones	I-Person
+1	O
+–	O
+3	O
+)	O
+
+	
+
+	
+its	O
+cathedral	B-Location
+dedicated	O
+to	O
+john	B-Person
+the	I-Person
+baptist	I-Person
+was	O
+first	O
+mentioned	O
+in	O
+1490	O
+.	O
+
+	
+
+	
+the	O
+genus	O
+was	O
+erected	O
+by	O
+alexey	B-Person
+diakonoff	I-Person
+in	O
+1960	O
+.	O
+
+	
+
+	
+rose	B-Person
+dugdale	I-Person
+political	O
+activist	O
+and	O
+prominent	O
+member	O
+of	O
+the	O
+provisional	O
+irish	B-Group
+republican	I-Group
+army	I-Group
+
+	
+
+	
+the	O
+quarter	O
+finals	O
+were	O
+prefaced	O
+by	O
+a	O
+women	O
+'s	O
+exhibition	O
+four	O
+player	O
+tournament	O
+won	O
+by	O
+reanne	B-Person
+evans	I-Person
+.	O
+
+	
+
+	
+however	O
+he	O
+defied	O
+expectations	O
+and	O
+reached	O
+the	O
+final	O
+again	O
+en	O
+route	O
+edging	O
+out	O
+a	O
+young	O
+stephen	B-Person
+hendry	I-Person
+13	O
+–	O
+12	O
+in	O
+a	O
+close	O
+quarter	O
+final	O
+.	O
+
+	
+
+	
+under	O
+consideration	O
+was	O
+mary	B-Person
+of	I-Person
+guise	I-Person
+widow	I-Person
+of	O
+louis	B-Person
+ii	I-Person
+d'orléans	I-Person
+,	I-Person
+duke	I-Person
+of	I-Person
+longueville	I-Person
+.	O
+
+	
+
+	
+reigning	O
+world	O
+champion	O
+judd	B-Person
+trump	I-Person
+was	O
+also	O
+defeated	O
+in	O
+the	O
+first	O
+round	O
+of	O
+qualifying	O
+losing	O
+3	O
+–	O
+5	O
+to	O
+ian	B-Person
+burns	I-Person
+.	O
+
+	
+
+	
+marco	O
+began	O
+to	O
+pull	O
+away	O
+as	O
+michael	B-Person
+now	O
+assumed	O
+a	O
+blocking	O
+role	O
+to	O
+protect	O
+his	O
+son	O
+'s	O
+lead	O
+.	O
+
+	
+
+	
+it	O
+is	O
+known	O
+almost	O
+exclusively	O
+from	O
+material	O
+collected	O
+by	O
+anton	B-Person
+hermann	I-Person
+fassl	I-Person
+in	O
+1907	O
+and	O
+1908	O
+in	O
+western	O
+colombia	B-Location
+.	O
+
+	
+
+	
+he	O
+became	O
+a	O
+close	O
+friend	O
+to	O
+ronald	B-Person
+de	I-Person
+boer	I-Person
+during	O
+his	O
+spell	O
+in	O
+amsterdam	B-Location
+.	O
+
+	
+
+	
+mclaughlin	O
+left	O
+the	O
+event	O
+continuing	O
+to	O
+hold	O
+his	O
+championship	O
+lead	O
+over	O
+jamie	B-Person
+whincup	I-Person
+by	O
+31	O
+points	O
+.	O
+
+	
+
+	
+mark	B-Person
+edmondson	I-Person
+won	O
+the	O
+title	O
+defeating	O
+roscoe	B-Person
+tanner	I-Person
+6	O
+–	O
+3	O
+5	O
+–	O
+7	O
+6	O
+–	O
+4	O
+in	O
+the	O
+final	O
+.	O
+
+	
+
+	
+qb	O
+marc	B-Person
+wilson	I-Person
+had	O
+undergone	O
+an	O
+emergency	O
+appendectomy	O
+and	O
+had	O
+lost	O
+weight	O
+during	O
+the	O
+week	O
+of	O
+the	O
+game	O
+.	O
+
+	
+
+	
+mariusz	O
+'s	O
+next	O
+opponent	O
+was	O
+bob	B-Person
+sapp	I-Person
+.	O
+
+	
+
+	
+colts	O
+linebacker	O
+shaquille	B-Person
+leonard	I-Person
+had	O
+9	O
+solo	O
+tackles	O
+and	O
+3	O
+assists	O
+.	O
+
+	
+
+	
+it	O
+is	O
+a	O
+sequel	O
+to	O
+the	O
+2002	O
+'s	O
+half	B-CreativeWorks
+past	I-CreativeWorks
+dead	I-CreativeWorks
+starring	O
+steven	B-Person
+seagal	I-Person
+and	O
+ja	B-Person
+rule	I-Person
+.	O
+
+	
+
+	
+producer	O
+avi	B-Person
+arad	I-Person
+director	O
+sam	B-Person
+raimi	I-Person
+and	O
+actor	O
+tobey	B-Person
+maguire	I-Person
+all	O
+make	O
+cameo	O
+appearances	O
+.	O
+
+	
+
+	
+mickey	B-Person
+redmond	I-Person
+(	O
+born	O
+1947	O
+)	O
+former	O
+professional	O
+hockey	O
+player	O
+
+	
+
+	
+lewis	B-Person
+hamilton	I-Person
+won	O
+the	O
+race	O
+ahead	O
+of	O
+his	O
+teammate	O
+valtteri	B-Person
+bottas	I-Person
+and	O
+ferrari	B-Group
+'s	O
+sebastian	B-Person
+vettel	I-Person
+.	O
+
+	
+
+	
+october	O
+8	O
+–	O
+raffi	B-Person
+torres	I-Person
+ice	O
+hockey	O
+player	O
+
+	
+
+	
+jimmy	B-Person
+connors	I-Person
+won	O
+the	O
+singles	O
+title	O
+and	O
+earned	O
+$	O
+8,000	O
+first	O
+prize	O
+money	O
+.	O
+
+	
+
+	
+this	O
+by	O
+election	O
+was	O
+caused	O
+by	O
+the	O
+resignation	O
+of	O
+bruce	B-Person
+pie	I-Person
+.	O
+
+	
+
+	
+fourth	O
+round	O
+lost	O
+to	O
+flavia	B-Person
+pennetta	I-Person
+[	O
+28	O
+]	O
+
+	
+
+	
+jana	B-Person
+fett	I-Person
+won	O
+the	O
+title	O
+defeating	O
+luksika	B-Person
+kumkhum	I-Person
+in	O
+the	O
+final	O
+6	O
+–	O
+4	O
+4	O
+–	O
+6	O
+6	O
+–	O
+4	O
+.	O
+
+	
+
+	
+andrew	B-Person
+cashner	I-Person
+20th	O
+round	O
+617th	O
+overall	O
+by	O
+the	O
+atlanta	B-Group
+braves	I-Group
+but	O
+did	O
+not	O
+sign	O
+
+	
+
+	
+she	O
+made	O
+some	O
+forays	O
+into	O
+the	O
+world	O
+of	O
+cinema	O
+and	O
+song	O
+to	O
+share	O
+the	O
+stage	O
+with	O
+julio	B-Person
+iglesias	I-Person
+.	O
+
+	
+
+	
+toivo	B-CreativeWorks
+salonen	I-CreativeWorks
+(	O
+cortina	O
+d	O
+ampezzo	O
+1956	O
+speed	O
+skating	O
+)	O
+
+	
+
+	
+hauger	O
+'s	O
+closest	O
+challenger	O
+gianluca	B-Person
+petecof	I-Person
+won	O
+four	O
+races	O
+and	O
+roman	B-Person
+staněk	I-Person
+joshua	B-Person
+dürksen	I-Person
+and	O
+giorgio	B-Person
+carrara	I-Person
+won	O
+one	O
+race	O
+each	O
+.	O
+
+	
+
+	
+however	O
+when	O
+autumn	O
+came	O
+the	O
+side	O
+lost	O
+him	O
+and	O
+his	O
+partner	O
+ronaldo	B-Person
+to	O
+heavy	O
+injuries	O
+.	O
+
+	
+
+	
+andré	B-Person
+lemoine	I-Person
+came	O
+closest	O
+with	O
+a	O
+fourth	O
+place	O
+finish	O
+in	O
+the	O
+parallel	O
+bars	O
+.	O
+
+	
+
+	
+he	O
+lost	O
+in	O
+the	O
+opening	O
+round	O
+to	O
+top	O
+seed	O
+ivan	B-Person
+lendl	I-Person
+in	O
+straight	O
+sets	O
+.	O
+
+	
+
+	
+they	O
+will	O
+be	O
+led	O
+by	O
+seventh	O
+year	O
+head	O
+coach	O
+todd	B-Person
+cooley	I-Person
+.	O
+
+	
+
+	
+he	O
+was	O
+replaced	O
+by	O
+pinch	B-Group
+runner	O
+terrance	B-Person
+gore	I-Person
+.	O
+
+	
+
+	
+sidney	B-Person
+rivera	I-Person
+(	O
+born	O
+1993	O
+)	O
+professional	O
+soccer	O
+player	O
+
+	
+
+	
+second	O
+seeded	O
+nick	B-Person
+kyrgios	I-Person
+won	O
+the	O
+singles	O
+title	O
+.	O
+
+	
+
+	
+men	O
+'s	O
+singles	O
+:	O
+novak	B-Person
+djokovic	I-Person
+def	O
+.	O
+nick	B-Person
+kyrgios	I-Person
+4	O
+–	O
+6	O
+6	O
+–	O
+3	O
+6	O
+–	O
+4	O
+7	O
+–	O
+6	O
+(	O
+7	O
+–	O
+3	O
+)	O
+.	O
+
+	
+
+	
+november	O
+9	O
+–	O
+alex	B-Person
+kirilloff	I-Person
+baseball	O
+outfielder	O
+
+	
+
+	
+2004	O
+–	O
+05	O
+eurelijus	B-Person
+žukauskas	I-Person
+(	O
+ülker	O
+)	O
+:	O
+1.82	O
+(	O
+in	O
+22	O
+games	O
+)	O
+
+	
+
+	
+anastasia	B-Person
+myskina	I-Person
+won	O
+the	O
+title	O
+defeating	O
+elena	B-Person
+likhovtseva	I-Person
+6	O
+–	O
+3	O
+6	O
+–	O
+1	O
+in	O
+an	O
+all	O
+russian	O
+final	O
+.	O
+
+	
+
+	
+the	O
+course	O
+was	O
+designed	O
+in	O
+1982	O
+by	O
+fellow	O
+founder	O
+arnold	B-Person
+palmer	I-Person
+.	O
+
+	
+
+	
+dale	B-Person
+earnhardt	I-Person
+of	O
+richard	B-Group
+childress	I-Group
+racing	I-Group
+won	O
+the	O
+pole	O
+and	O
+led	O
+all	O
+70	O
+laps	O
+to	O
+win	O
+the	O
+race	O
+and	O
+collect	O
+a	O
+total	O
+purse	O
+of	O
+.	O
+
+	
+
+	
+the	O
+winning	O
+point	O
+was	O
+gained	O
+by	O
+meg	B-Person
+mallon	I-Person
+in	O
+her	O
+win	O
+over	O
+karen	B-Person
+stupples	I-Person
+.	O
+
+	
+
+	
+angela	B-Person
+haynes	I-Person
+ahsha	B-Person
+rolle	I-Person
+6	O
+–	O
+3	O
+6	O
+–	O
+7	O
+[	O
+10	O
+–	O
+7	O
+]	O
+
+	
+
+	
+his	O
+voice	O
+has	O
+been	O
+favorably	O
+compared	O
+with	O
+singers	O
+bruce	B-Person
+dickinson	I-Person
+daniel	B-Person
+gildenlöw	I-Person
+and	O
+ronnie	B-Person
+james	I-Person
+dio	I-Person
+.	O
+
+	
+
+	
+teammate	O
+roberto	B-Person
+bonano	I-Person
+who	O
+stepped	O
+up	O
+in	O
+his	O
+defense	O
+was	O
+also	O
+suspended	O
+;	O
+both	O
+retired	O
+shortly	O
+afterwards	O
+.	O
+
+	
+
+	
+he	O
+held	O
+a	O
+co	O
+lead	O
+after	O
+the	O
+54	O
+hole	O
+stage	O
+with	O
+harris	B-Person
+english	I-Person
+but	O
+could	O
+only	O
+shoot	O
+a	O
+level	O
+par	O
+final	O
+round	O
+to	O
+enter	O
+the	O
+playoff	O
+.	O
+
+	
+
+	
+among	O
+the	O
+key	O
+players	O
+in	O
+the	O
+success	O
+were	O
+roy	B-Person
+makaay	I-Person
+and	O
+playmaker	O
+michael	B-Person
+ballack	I-Person
+.	O
+
+	
+
+	
+it	O
+published	O
+work	O
+by	O
+writers	O
+such	O
+as	O
+upton	B-Person
+sinclair	I-Person
+stephen	B-Person
+crane	I-Person
+and	O
+hamlin	B-Person
+garland	I-Person
+.	O
+
+	
+
+	
+the	O
+iron	B-Medical
+sheik	O
+(	O
+orange	O
+or	O
+yellow	O
+designs	O
+on	O
+tights	O
+)	O
+
+	
+
+	
+other	O
+poker	O
+sites	O
+namely	O
+pokerstars	B-Group
+tom	B-Person
+mcevoy	I-Person
+followed	O
+suit	O
+by	O
+pushing	O
+their	O
+own	O
+poker	O
+professionals	O
+.	O
+
+	
+
+	
+later	O
+in	O
+the	O
+race	O
+he	O
+suffered	O
+a	O
+damaged	O
+rear	O
+wing	O
+assembly	O
+after	O
+being	O
+hit	O
+by	O
+charlie	B-Person
+kimball	I-Person
+.	O
+
+	
+
+	
+facebook	O
+receives	O
+its	O
+first	O
+investment	O
+from	O
+peter	B-Person
+thiel	I-Person
+for	O
+us	O
+$	O
+500,000	O
+.	O
+
+	
+
+	
+his	O
+career	O
+was	O
+ended	O
+due	O
+to	O
+a	O
+broken	O
+leg	O
+suffered	O
+in	O
+a	O
+collision	O
+with	O
+william	B-Person
+foulke	I-Person
+.	O
+
+	
+
+	
+ernie	B-Person
+els	I-Person
+(	O
+11	O
+12	O
+13	O
+)	O
+lee	B-Person
+janzen	I-Person
+(	O
+9	O
+10	O
+12	O
+13	O
+)	O
+tom	B-Person
+kite	I-Person
+corey	B-Person
+pavin	I-Person
+(	O
+9	O
+10	O
+12	O
+13	O
+)	O
+payne	B-Person
+stewart	I-Person
+(	O
+12	O
+13	O
+)	O
+
+	
+
+	
+john	B-Person
+bromwich	I-Person
+/	O
+adrian	B-Person
+quist	I-Person
+defeated	O
+geoff	B-Person
+brown	I-Person
+/	O
+bill	B-Person
+sidwell	I-Person
+7	O
+–	O
+5	O
+3	O
+–	O
+6	O
+6	O
+–	O
+3	O
+3	O
+–	O
+6	O
+6	O
+–	O
+2	O
+
+	
+
+	
+his	O
+algorithm	O
+was	O
+improved	O
+by	O
+a.	B-Person
+o.	I-Person
+l.	I-Person
+atkin	I-Person
+and	O
+noam	B-Person
+elkies	I-Person
+.	O
+
+	
+
+	
+levinsky	O
+is	O
+best	O
+remembered	O
+for	O
+freezing	O
+in	O
+his	O
+fight	O
+with	O
+joe	B-Person
+louis	I-Person
+who	O
+knocked	O
+him	O
+out	O
+in	O
+the	O
+first	O
+round	O
+.	O
+
+	
+
+	
+blackjack	B-Person
+mulligan	I-Person
+professional	O
+wrestler	O
+(	O
+born	O
+1942	O
+)	O
+
+	
+
+	
+defending	O
+world	O
+champion	O
+sébastien	B-Person
+ogier	I-Person
+nosed	O
+his	O
+c3	O
+into	O
+the	O
+bank	O
+and	O
+lost	O
+about	O
+ten	O
+seconds	O
+.	O
+
+	
+
+	
+he	O
+was	O
+replaced	O
+in	O
+the	O
+team	O
+by	O
+julien	B-Person
+mertine	I-Person
+and	O
+went	O
+through	O
+a	O
+new	O
+dry	O
+spell	O
+.	O
+
+	
+
+	
+the	O
+group	O
+collected	O
+the	O
+set	O
+of	O
+climber	O
+'s	O
+points	O
+for	O
+the	O
+day	O
+with	O
+aitor	B-Person
+hernández	I-Person
+collecting	O
+the	O
+maximum	O
+to	O
+take	O
+the	O
+red	B-Group
+jersey	I-Group
+.	O
+
+	
+
+	
+postal	O
+privatization	O
+rebel	O
+in	O
+2005	O
+joined	O
+new	O
+party	O
+nippon	B-Group
+
+	
+
+	
+seven	O
+soldiers	O
+and	O
+a	O
+jeep	B-Product
+were	O
+used	O
+to	O
+dig	O
+down	O
+of	O
+cable	O
+.	O
+
+	
+
+	
+carlson	O
+who	O
+was	O
+on	O
+the	O
+nation	O
+'s	O
+most	O
+wanted	O
+list	O
+was	O
+killed	O
+by	O
+a	O
+single	O
+shot	O
+fired	O
+by	O
+an	O
+fbi	B-Group
+agent	O
+.	O
+
+	
+
+	
+it	O
+is	O
+the	O
+172nd	O
+entry	O
+in	O
+the	O
+series	O
+released	O
+by	O
+columbia	B-Group
+pictures	I-Group
+starring	O
+the	O
+comedians	O
+who	O
+released	O
+190	O
+shorts	O
+for	O
+the	O
+studio	O
+between	O
+1934	O
+and	O
+1959	O
+.	O
+
+	
+
+	
+bjp	O
+:	O
+25	O
+congress	B-Group
+:	O
+1	O
+jd(s)	O
+:	O
+1	O
+independent	O
+:	O
+1	O
+
+	
+
+	
+it	O
+was	O
+the	O
+first	O
+federal	O
+ministry	O
+formed	O
+by	O
+the	O
+australian	B-Group
+labor	I-Group
+party	I-Group
+.	O
+
+	
+
+	
+according	O
+to	O
+the	O
+australian	B-Group
+criminal	I-Group
+intelligence	I-Group
+commission	I-Group
+there	O
+are	O
+(	O
+at	O
+least	O
+)	O
+38	O
+outlaw	O
+motorcycle	O
+gangs	O
+operating	O
+across	O
+the	O
+nation	O
+as	O
+of	O
+2020	O
+.	O
+
+	
+
+	
+all	O
+were	O
+accused	O
+of	O
+being	O
+part	O
+of	O
+the	O
+ku	B-Group
+klux	I-Group
+klan	I-Group
+.	O
+
+	
+
+	
+during	O
+the	O
+late	O
+1980s	O
+gang	B-Group
+activity	O
+had	O
+caused	O
+the	O
+crime	O
+rate	O
+to	O
+soar	O
+at	O
+the	O
+tower	O
+and	O
+the	O
+surrounding	O
+neighbourhood	O
+.	O
+
+	
+
+	
+in	O
+2001	O
+the	O
+global	B-Group
+greens	I-Group
+were	O
+organized	O
+as	O
+an	O
+international	O
+green	O
+movement	O
+.	O
+
+	
+
+	
+in	O
+2012	O
+he	O
+was	O
+one	O
+of	O
+the	O
+founders	O
+of	O
+the	O
+union	B-Group
+of	I-Group
+democrats	I-Group
+and	I-Group
+independents	I-Group
+(	O
+udi	O
+)	O
+.	O
+
+	
+
+	
+incumbent	O
+rebecca	B-Person
+otto	I-Person
+of	O
+the	O
+minnesota	B-Group
+democratic–farmer–labor	I-Group
+party	I-Group
+(	O
+dfl	O
+)	O
+was	O
+re	O
+elected	O
+to	O
+a	O
+second	O
+term	O
+.	O
+
+	
+
+	
+in	O
+1998	O
+child	B-Group
+and	I-Group
+adolescent	I-Group
+mental	I-Group
+health	I-Group
+services	I-Group
+(	O
+camhs	O
+)	O
+began	O
+to	O
+be	O
+established	O
+taking	O
+over	O
+from	O
+an	O
+earlier	O
+multidisciplinary	O
+child	O
+guidance	O
+approach	O
+.	O
+
+	
+
+	
+due	O
+to	O
+its	O
+membership	O
+in	O
+the	O
+broad	B-Group
+front	I-Group
+the	O
+party	O
+has	O
+endorsed	O
+the	O
+candidates	O
+of	O
+other	O
+parties	O
+on	O
+several	O
+occasions	O
+.	O
+
+	
+
+	
+hercules	O
+is	O
+a	O
+character	O
+appearing	O
+in	O
+american	B-CreativeWorks
+comic	I-CreativeWorks
+books	I-CreativeWorks
+published	O
+by	O
+marvel	O
+comics	I-Group
+.	O
+
+	
+
+	
+she	O
+walked	O
+the	O
+runway	O
+for	O
+victoria	B-CreativeWorks
+'s	I-CreativeWorks
+secret	I-CreativeWorks
+s	O
+annual	O
+fashion	O
+show	O
+in	O
+2002	O
+and	O
+2003	O
+.	O
+
+	
+
+	
+durrington	O
+has	O
+had	O
+an	O
+active	O
+community	O
+of	O
+jehovah	B-Person
+'s	O
+witnesses	O
+since	O
+the	O
+1960s	O
+.	O
+
+	
+
+	
+after	O
+graduating	O
+from	O
+school	O
+he	O
+worked	O
+in	O
+the	O
+otaru	B-Location
+branch	O
+of	O
+the	O
+hokkaido	B-Group
+takushoku	I-Group
+bank	I-Group
+.	O
+
+	
+
+	
+kiswe	O
+is	O
+a	O
+startup	O
+company	O
+that	O
+makes	O
+live	O
+streaming	O
+technology	O
+for	O
+live	O
+sports	O
+entertainment	O
+and	O
+video	O
+.	O
+
+	
+
+	
+the	O
+development	O
+of	O
+the	O
+hydrogen	O
+powered	O
+rickshaw	O
+happened	O
+with	O
+support	O
+from	O
+the	O
+international	B-Group
+centre	I-Group
+for	I-Group
+hydrogen	I-Group
+energy	I-Group
+technologies	I-Group
+.	O
+
+	
+
+	
+it	O
+earned	O
+a	O
+ratings	O
+share	O
+of	O
+1.1	O
+among	O
+adults	O
+aged	O
+18	O
+to	O
+49	O
+a	O
+tie	O
+with	O
+the	O
+series	O
+premiere	O
+of	O
+the	O
+cbs	B-Group
+show	O
+made	O
+in	O
+jersey	B-Location
+.	O
+
+	
+
+	
+the	O
+association	O
+was	O
+recognized	O
+by	O
+the	O
+world	B-Group
+organization	I-Group
+of	I-Group
+the	I-Group
+scout	I-Group
+movement	I-Group
+from	O
+1957	O
+to	O
+1975	O
+.	O
+
+	
+
+	
+arthur	B-Person
+scargill	I-Person
+b	O
+.	O
+1938	O
+trade	O
+union	O
+was	O
+born	O
+and	O
+went	O
+to	O
+school	O
+here	O
+.	O
+
+	
+
+	
+according	O
+to	O
+the	O
+united	B-Group
+states	I-Group
+census	I-Group
+bureau	I-Group
+the	O
+village	O
+has	O
+a	O
+total	O
+area	O
+of	O
+all	O
+land	O
+.	O
+
+	
+
+	
+kumar	O
+was	O
+the	O
+deputy	O
+leader	O
+of	O
+a	O
+nine	O
+member	O
+indian	B-Group
+everest	I-Group
+expedition	I-Group
+in	O
+1965	O
+that	O
+successfully	O
+summited	O
+the	O
+mountain	O
+.	O
+
+	
+
+	
+a	O
+republican	B-Group
+he	O
+was	O
+chairman	O
+of	O
+the	O
+state	B-Group
+party	I-Group
+and	O
+national	O
+convention	O
+delegate	O
+in	O
+1892	O
+.	O
+
+	
+
+	
+purina	B-Product
+one	O
+a	O
+line	O
+of	O
+pet	O
+food	O
+products	O
+
+	
+
+	
+his	O
+collections	O
+were	O
+sent	O
+to	O
+kew	B-Person
+some	O
+of	O
+the	O
+contents	O
+being	O
+shared	O
+amongst	O
+his	O
+scientific	O
+friends	O
+.	O
+
+	
+
+	
+after	O
+completing	O
+his	O
+studies	O
+he	O
+did	O
+his	O
+military	O
+service	O
+in	O
+the	O
+austrian	B-Group
+armed	I-Group
+forces	I-Group
+.	O
+
+	
+
+	
+produced	O
+by	O
+ekta	B-Group
+kapoor	I-Group
+under	O
+the	O
+production	O
+company	O
+name	O
+balaji	B-Group
+telefilms	I-Group
+.	O
+
+	
+
+	
+according	O
+to	O
+the	O
+united	B-Group
+states	I-Group
+census	I-Group
+bureau	I-Group
+the	O
+township	O
+has	O
+a	O
+total	O
+area	O
+of	O
+all	O
+land	O
+.	O
+
+	
+
+	
+the	O
+game	O
+was	O
+televised	O
+nationally	O
+by	O
+cbs	B-Group
+with	O
+jim	B-Person
+nantz	I-Person
+handling	O
+play	O
+by	O
+play	B-Group
+duties	I-Group
+.	O
+
+	
+
+	
+between	O
+2016	O
+and	O
+2018	O
+the	O
+number	O
+of	O
+12	O
+to	O
+15	O
+year	O
+olds	O
+who	O
+reported	O
+being	O
+bullied	O
+over	O
+social	O
+media	O
+rose	B-CreativeWorks
+from	O
+6	O
+%	O
+to	O
+11	O
+%	O
+in	O
+the	O
+region	O
+covered	O
+by	O
+ofcom	B-Group
+.	O
+
+	
+
+	
+today	O
+the	O
+peace	B-Group
+corps	I-Group
+religious	O
+groups	O
+and	O
+charities	O
+feed	O
+hungry	O
+people	O
+all	O
+over	O
+the	O
+world	O
+especially	O
+in	O
+countries	O
+hardest	O
+hit	O
+by	O
+famine	B-Medical
+.	O
+
+	
+
+	
+she	O
+became	O
+leader	O
+of	O
+the	O
+liberal	B-Group
+democrat	I-Group
+group	I-Group
+in	O
+1997	O
+with	O
+a	O
+break	O
+from	O
+2007	O
+to	O
+2008	O
+.	O
+
+	
+
+	
+he	O
+became	O
+a	O
+member	O
+of	O
+the	O
+underground	B-Group
+romanian	I-Group
+communist	I-Group
+party	I-Group
+in	O
+1936	O
+.	O
+
+	
+
+	
+the	O
+party	B-Group
+breakdown	O
+of	O
+the	O
+final	O
+municipal	O
+council	O
+was	O
+as	O
+follows	O
+:	O
+
+	
+
+	
+all	O
+teams	O
+had	O
+to	O
+utilize	O
+toyota	B-Group
+engines	O
+.	O
+
+	
+
+	
+according	O
+to	O
+the	O
+united	B-Group
+states	I-Group
+census	I-Group
+bureau	I-Group
+the	O
+township	O
+has	O
+a	O
+total	O
+area	O
+of	O
+of	O
+which	O
+is	O
+land	O
+and	O
+(	O
+1.63	O
+%	O
+)	O
+is	O
+water	O
+.	O
+
+	
+
+	
+bawag	O
+p.s.k.	O
+(	O
+)	O
+is	O
+the	O
+fourth	O
+largest	O
+bank	O
+in	O
+austria	B-Location
+.	O
+
+	
+
+	
+from	O
+2011	O
+to	O
+2014	O
+he	O
+attended	O
+university	B-Group
+college	I-Group
+london	I-Group
+where	O
+he	O
+studied	O
+urbanisation	O
+.	O
+
+	
+
+	
+all	O
+stations	O
+are	O
+within	O
+kumamoto	B-Group
+prefecture	I-Group
+.	O
+
+	
+
+	
+regimental	B-Location
+museum	I-Location
+for	O
+the	O
+48th	O
+highlanders	O
+of	O
+canada	B-Location
+.	O
+
+	
+
+	
+democrats	B-Group
+still	O
+lead	O
+in	O
+registrants	B-Group
+with	O
+28,181	O
+;	O
+republicans	B-Group
+follow	O
+with	O
+16,218	O
+.	O
+
+	
+
+	
+this	O
+idea	O
+however	O
+was	O
+reincarnated	O
+ten	O
+years	O
+later	O
+into	O
+dreamworks'	B-CreativeWorks
+antz	B-CreativeWorks
+and	O
+pixar	B-Group
+'s	O
+a	B-CreativeWorks
+bug	I-CreativeWorks
+'s	I-CreativeWorks
+life	I-CreativeWorks
+.	O
+
+	
+
+	
+bjerkmann	O
+chaired	O
+the	O
+publishing	O
+house	O
+pax	B-Group
+forlag	I-Group
+during	O
+its	O
+first	O
+eight	O
+years	O
+from	O
+1964	O
+to	O
+1972	O
+.	O
+
+	
+
+	
+according	O
+to	O
+the	O
+united	B-Group
+states	I-Group
+census	I-Group
+bureau	I-Group
+the	O
+village	O
+has	O
+a	O
+total	O
+area	O
+of	O
+of	O
+which	O
+of	O
+it	O
+is	O
+land	O
+and	O
+is	O
+water	O
+.	O
+
+	
+
+	
+mitrović	O
+became	O
+a	O
+member	O
+of	O
+the	O
+alliance	B-Group
+of	I-Group
+independent	I-Group
+social	I-Group
+democrats	I-Group
+(	O
+snsd	O
+)	O
+in	O
+2005	O
+but	O
+left	O
+the	O
+party	O
+in	O
+2012	O
+.	O
+
+	
+
+	
+in	O
+1849	O
+he	O
+served	O
+in	O
+the	O
+massachusetts	B-Group
+senate	I-Group
+.	O
+
+	
+
+	
+whang	O
+peng	O
+was	O
+honored	O
+by	O
+the	O
+lions	B-Group
+clubs	I-Group
+international	I-Group
+and	O
+the	O
+china	B-CreativeWorks
+daily	I-CreativeWorks
+news	I-CreativeWorks
+.	O
+
+	
+
+	
+indian	O
+national	B-Group
+congress	I-Group
+has	O
+swept	O
+the	O
+elections	O
+by	O
+bagging	B-Group
+37	O
+seats	O
+.	O
+
+	
+
+	
+both	O
+countries	O
+are	O
+members	O
+of	O
+nato	B-Group
+.	O
+
+	
+
+	
+particulate	O
+matter	O
+in	O
+polluted	O
+air	O
+and	O
+chemicals	O
+such	O
+as	O
+chlorine	B-Medical
+and	O
+detergents	O
+which	O
+can	O
+normally	O
+be	O
+tolerated	O
+can	O
+greatly	O
+aggravate	O
+the	O
+condition	O
+.	O
+
+	
+
+	
+without	O
+oxygen	O
+pyruvate	O
+(	O
+pyruvic	B-Medical
+acid	I-Medical
+)	O
+is	O
+not	O
+metabolized	O
+by	O
+cellular	B-Medical
+respiration	I-Medical
+but	O
+undergoes	O
+a	O
+process	O
+of	O
+fermentation	O
+.	O
+
+	
+
+	
+potent	O
+pure	O
+opioid	O
+antagonists	O
+such	O
+as	O
+naltrexone	B-Medical
+or	O
+nalmefene	B-Medical
+are	O
+recommended	O
+in	O
+the	O
+event	O
+of	O
+accidental	O
+human	O
+exposure	O
+to	O
+thiafentanil	O
+.	O
+
+	
+
+	
+hormone	O
+a	O
+chemical	O
+that	O
+sends	O
+messages	O
+in	O
+a	O
+plant	O
+or	O
+animal	O
+
+	
+
+	
+the	O
+chosen	O
+methods	O
+were	O
+pharmacological	O
+(	O
+often	O
+mifepristone	B-Medical
+and	O
+misoprostol	B-Medical
+79	O
+%	O
+)	O
+the	O
+rest	O
+being	O
+surgical	O
+.	O
+
+	
+
+	
+treatment	O
+usually	O
+involves	O
+amphotericin	B-Medical
+b	I-Medical
+and	O
+surgery	O
+.	O
+
+	
+
+	
+liniments	B-Product
+are	O
+sometimes	O
+used	O
+to	O
+increase	O
+heat	O
+to	O
+an	O
+area	O
+.	O
+
+	
+
+	
+its	O
+primary	O
+uses	O
+are	O
+as	O
+a	O
+diuretic	B-Medical
+(	O
+or	O
+water	B-Medical
+pill	I-Medical
+)	O
+and	O
+to	O
+treat	O
+symptoms	O
+of	O
+the	O
+common	O
+cold	O
+.	O
+
+	
+
+	
+in	O
+the	O
+experiments	O
+the	O
+subjects	O
+were	O
+exposed	O
+to	O
+additional	O
+burning	O
+experimental	O
+antibiotic	B-Medical
+treatment	O
+and	O
+injections	O
+of	O
+radioactive	O
+isotopes	O
+.	O
+
+	
+
+	
+these	O
+are	O
+popular	O
+for	O
+administration	O
+of	O
+opioids	O
+such	O
+as	O
+fentanyl	B-Medical
+or	O
+local	O
+anesthetics	O
+such	O
+as	O
+lidocaine	B-Medical
+.	O
+
+	
+
+	
+gregory	B-Person
+goodwin	I-Person
+pincus	I-Person
+(	O
+1903	O
+–	O
+1967	O
+)	O
+together	O
+with	O
+min	B-Person
+chueh	I-Person
+chang	I-Person
+(	O
+1908	O
+–	O
+1991	O
+)	O
+u.s.	O
+/	O
+china	O
+–	O
+combined	O
+oral	O
+contraceptive	O
+pill	O
+
+	
+
+	
+it	O
+has	O
+greater	O
+efficacy	O
+at	O
+the	O
+5	O
+ht1a	O
+receptors	O
+than	O
+other	O
+antipsychotics	O
+such	O
+as	O
+clozapine	B-Medical
+aripiprazole	B-Medical
+and	O
+ziprasidone	B-Medical
+.	O
+
+	
+
+	
+the	O
+protein	O
+sequence	O
+contains	O
+mixed	O
+positive	O
+and	O
+negative	O
+charge	O
+clusters	O
+one	O
+of	O
+each	O
+which	O
+are	O
+high	O
+in	O
+glutamine	B-Medical
+(	O
+glu	O
+)	O
+.	O
+
+	
+
+	
+telangiectasia	O
+in	O
+the	O
+legs	O
+is	O
+often	O
+related	O
+to	O
+the	O
+presence	O
+of	O
+venous	B-Medical
+reflux	I-Medical
+within	O
+underlying	O
+varicose	B-Medical
+veins	I-Medical
+.	O
+
+	
+
+	
+a	O
+defect	O
+in	O
+the	O
+degradation	O
+of	O
+glucocerebrosides	O
+is	O
+gaucher	B-Medical
+'s	I-Medical
+disease	I-Medical
+.	O
+
+	
+
+	
+in	O
+particular	O
+he	O
+worked	O
+on	O
+the	O
+laser	O
+photocoagulation	O
+of	O
+threshold	B-Medical
+retinopathy	I-Medical
+of	I-Medical
+prematurity	I-Medical
+.	O
+
+	
+
+	
+the	O
+species	O
+has	O
+undergone	O
+catastrophic	O
+declines	O
+due	O
+to	O
+the	O
+amphibian	B-Medical
+disease	I-Medical
+chytridiomycosis	B-Medical
+and	O
+the	O
+volcanic	O
+eruption	O
+in	O
+1997	O
+.	O
+
+	
+
+	
+when	O
+niacin	B-Medical
+is	O
+used	O
+as	O
+a	O
+medicine	O
+to	O
+treat	O
+elevated	O
+cholesterol	O
+and	O
+triglycerides	O
+daily	O
+doses	O
+range	O
+from	O
+500	O
+to	O
+3,000	O
+mg	O
+/	O
+day	O
+.	O
+
+	
+
+	
+in	O
+addition	O
+to	O
+schizophrenia	B-Medical
+ulotaront	I-Medical
+is	O
+also	O
+being	O
+studied	O
+for	O
+the	O
+treatment	O
+of	O
+psychosis	O
+associated	O
+with	O
+parkinson	B-Medical
+'s	I-Medical
+disease	O
+.	O
+
+	
+
+	
+in	O
+fungal	B-Medical
+rhinosinusitis	I-Medical
+the	O
+organism	O
+has	O
+predilection	O
+for	O
+internal	O
+elastic	O
+lamina	O
+during	O
+phase	O
+of	O
+spread	O
+.	O
+
+	
+
+	
+cardiovascular	O
+autonomic	O
+dysfunction	O
+such	O
+as	O
+postural	O
+orthostatic	B-Medical
+tachycardia	I-Medical
+syndrome	I-Medical
+
+	
+
+	
+she	O
+died	O
+of	O
+pneumonia	B-Medical
+at	O
+the	O
+beginning	O
+of	O
+the	O
+20th	O
+century	O
+issue	O
+14	O
+had	O
+more	O
+of	O
+her	O
+origin	O
+revealed	O
+.	O
+
+	
+
+	
+the	O
+use	O
+of	O
+pesticides	O
+to	O
+self-poison	B-Medical
+is	O
+the	O
+most	O
+common	O
+method	O
+used	O
+in	O
+some	O
+countries	O
+.	O
+
+	
+
+	
+sarno	O
+considers	O
+spinal	B-Medical
+disc	I-Medical
+herniations	I-Medical
+to	O
+generally	O
+be	O
+harmless	O
+because	O
+he	O
+says	O
+the	O
+symptom	O
+location	O
+does	O
+not	O
+even	O
+correlate	O
+to	O
+the	O
+herniation	O
+location	O
+.	O
+
+	
+
+	
+lumbar	O
+spinal	O
+stenosis	O
+may	O
+be	O
+overlooked	O
+especially	O
+when	O
+it	O
+is	O
+associated	O
+with	O
+disc	B-Medical
+protrusion	O
+or	O
+herniation	O
+.	O
+
+	
+
+	
+polydactyly	B-Medical
+is	O
+the	O
+presence	O
+of	O
+more	O
+than	O
+the	O
+usual	O
+number	O
+of	O
+fingers	B-Medical
+.	O
+
+	
+
+	
+polio	B-Medical
+has	O
+also	O
+been	O
+put	O
+forward	O
+as	O
+a	O
+cause	O
+by	O
+some	O
+sources	O
+.	O
+
+	
+
+	
+smith	O
+says	O
+she	O
+experiences	O
+stage	B-Medical
+fright	I-Medical
+.	O
+
+	
+
+	
+he	O
+later	O
+moved	O
+to	O
+cologne	B-Location
+to	O
+continue	O
+his	O
+career	O
+as	O
+a	O
+model	O
+.	O
+
+	
+
+	
+in	O
+bosnia	B-Location
+and	I-Location
+herzegovina	I-Location
+it	O
+was	O
+partially	O
+introduced	O
+after	O
+1878	O
+and	O
+some	O
+parts	O
+are	O
+still	O
+in	O
+use	O
+even	O
+after	O
+this	O
+country	O
+'s	O
+independence	O
+.	O
+
+	
+
+	
+it	O
+was	O
+built	O
+from	O
+donated	O
+lumber	O
+from	O
+nome	B-Group
+.	O
+
+	
+
+	
+traffic	O
+is	O
+usually	O
+heavy	O
+between	O
+hickory	B-Location
+and	O
+lenoir	B-Location
+.	O
+
+	
+
+	
+its	O
+current	O
+county	O
+seat	O
+is	O
+yerington	B-Location
+.	O
+
+	
+
+	
+it	O
+is	O
+said	O
+that	O
+he	O
+afterwards	O
+made	O
+a	O
+fortune	B-Medical
+out	O
+of	O
+broken	O
+hill	O
+mining	O
+speculations	O
+.	O
+
+	
+
+	
+he	O
+completed	O
+five	O
+high	O
+school	O
+classes	O
+in	O
+bonn	B-Location
+and	O
+received	O
+numerous	O
+awards	O
+.	O
+
+	
+
+	
+ahwaz	O
+was	O
+devastated	O
+in	O
+the	O
+mongol	B-Location
+invasions	O
+of	O
+the	O
+13th	O
+and	O
+14th	O
+centuries	O
+and	O
+subsequently	O
+declined	O
+into	O
+a	O
+village	O
+.	O
+
+	
+
+	
+it	O
+was	O
+one	O
+of	O
+the	O
+successor	O
+states	B-Location
+of	I-Location
+the	I-Location
+golden	I-Location
+horde	I-Location
+(	O
+kipchak	O
+khanate	O
+)	O
+and	O
+it	O
+came	O
+to	O
+an	O
+end	O
+when	O
+it	O
+was	O
+conquered	O
+by	O
+the	O
+tsardom	B-Group
+of	I-Group
+russia	I-Group
+.	O
+
+	
+
+	
+he	O
+is	O
+a	O
+resident	O
+of	O
+tavares	B-Location
+,	I-Location
+florida	I-Location
+.	O
+
+	
+
+	
+members	O
+of	O
+the	O
+family	O
+now	O
+live	O
+primarily	O
+in	O
+norway	B-Location
+.	O
+
+	
+
+	
+anthony	O
+'s	O
+love	O
+interest	O
+is	O
+played	O
+by	O
+australia	B-Location
+model	O
+kristy	B-Person
+hinze	I-Person
+.	O
+
+	
+
+	
+it	O
+also	O
+used	O
+the	O
+same	O
+technology	O
+against	O
+a	O
+purported	O
+chemical	O
+weapons	O
+facility	O
+in	O
+sudan	B-Location
+.	O
+
+	
+
+	
+he	O
+died	O
+in	O
+rotterdam	B-Location
+aged	O
+66	O
+.	O
+
+	
+
+	
+muhsal	O
+was	O
+raised	O
+in	O
+münster	B-Location
+and	O
+bad	B-Location
+salzuflen	I-Location
+.	O
+
+	
+
+	
+she	O
+was	O
+commissioned	O
+in	O
+1921	O
+and	O
+operated	O
+in	O
+the	O
+waters	O
+of	O
+japan	B-Location
+.	O
+
+	
+
+	
+this	O
+allowed	O
+the	O
+population	O
+to	O
+rebound	O
+strongly	O
+;	O
+over	O
+the	O
+next	O
+few	O
+decades	O
+it	O
+became	O
+increasingly	O
+common	O
+in	O
+western	O
+france	B-Location
+and	O
+later	O
+on	O
+the	O
+north	O
+coast	O
+.	O
+
+	
+
+	
+they	O
+moved	O
+to	O
+kozhikode	B-Location
+and	O
+then	O
+to	O
+bangalore	B-Location
+and	O
+canada	B-Location
+after	O
+marriage	O
+.	O
+
+	
+
+	
+crosby	O
+moved	O
+to	O
+wausau	B-Location
+,	I-Location
+wisconsin	I-Location
+where	O
+he	O
+practiced	O
+law	O
+.	O
+
+	
+
+	
+its	O
+administrative	O
+centre	O
+was	O
+tobolsk	B-Location
+.	O
+
+	
+
+	
+the	O
+amnesty	B-Group
+of	O
+1859	O
+permitted	O
+him	O
+to	O
+return	O
+to	O
+paris	B-Location
+where	O
+he	O
+soon	O
+drew	O
+the	O
+attention	O
+of	O
+the	O
+police	O
+to	O
+his	O
+presence	O
+by	O
+his	O
+violent	O
+articles	O
+.	O
+
+	
+
+	
+it	O
+was	O
+first	B-CreativeWorks
+described	O
+by	O
+paolo	B-Person
+marcello	I-Person
+brignoli	I-Person
+in	O
+1979	O
+and	O
+has	O
+been	O
+found	O
+only	O
+in	O
+greece	B-Location
+.	O
+
+	
+
+	
+they	O
+played	O
+home	O
+games	O
+at	O
+the	O
+redwood	B-Location
+bowl	I-Location
+in	O
+arcata	B-Location
+,	I-Location
+california	I-Location
+.	O
+
+	
+
+	
+beard	O
+later	O
+ran	O
+a	O
+washington	B-Location
+,	I-Location
+d.c.	I-Location
+based	O
+import	O
+export	O
+business	O
+and	O
+was	O
+at	O
+one	O
+time	O
+a	O
+resident	O
+of	O
+alexandria	B-Location
+,	I-Location
+virginia	I-Location
+.	O
+
+	
+
+	
+doellingeria	O
+infirma	O
+is	O
+widely	O
+distributed	O
+in	O
+the	O
+eastern	O
+united	B-Location
+states	I-Location
+although	O
+local	O
+distribution	O
+may	O
+be	O
+spotty	O
+.	O
+
+	
+
+	
+eastside	O
+is	O
+a	O
+neighborhood	O
+in	O
+paterson	B-Location
+,	I-Location
+new	I-Location
+jersey	I-Location
+united	B-Location
+states	I-Location
+.	O
+
+	
+
+	
+at	O
+the	O
+age	O
+of	O
+23	O
+he	O
+opened	O
+his	O
+own	O
+law	O
+firm	O
+in	O
+caguas	B-Location
+working	O
+as	O
+a	O
+criminal	O
+lawyer	O
+.	O
+
+	
+
+	
+after	O
+22	O
+boats	O
+started	O
+in	O
+1923	O
+at	O
+new	B-Location
+london	I-Location
+,	I-Location
+connecticut	I-Location
+and	O
+every	O
+boat	O
+finished	O
+.	O
+
+	
+
+	
+the	O
+supporters	O
+of	O
+the	O
+club	O
+are	O
+mainly	O
+from	O
+the	O
+city	O
+of	O
+győr	B-Location
+and	O
+the	O
+neighbouring	O
+area	O
+.	O
+
+	
+
+	
+they	O
+played	O
+their	O
+home	O
+games	O
+at	O
+alfred	B-Location
+a.	I-Location
+mckethan	I-Location
+stadium	I-Location
+on	O
+the	O
+university	O
+'s	O
+gainesville	B-Location
+,	I-Location
+florida	I-Location
+campus	O
+.	O
+
+	
+
+	
+the	O
+following	O
+notable	O
+businesses	O
+and	O
+organizations	O
+can	O
+be	O
+found	O
+in	O
+the	O
+jacksonville	B-Location
+,	I-Location
+florida	I-Location
+area	O
+.	O
+
+	
+
+	
+most	O
+of	O
+the	O
+town	O
+'s	O
+land	O
+is	O
+currently	O
+a	O
+part	O
+of	O
+the	O
+jurisdiction	O
+of	O
+the	O
+city	O
+of	O
+petah	B-Location
+tikva	I-Location
+.	O
+
+	
+
+	
+siliana	O
+(	O
+)	O
+is	O
+a	O
+modern	O
+farming	O
+town	O
+in	O
+northern	O
+tunisia	B-Location
+.	O
+
+	
+
+	
+they	O
+decide	O
+to	O
+marry	O
+and	O
+after	O
+their	O
+tryst	O
+take	O
+leave	O
+of	O
+the	O
+brothel	O
+leader	O
+then	O
+drive	O
+away	O
+for	O
+surabaya	B-Location
+.	O
+
+	
+
+	
+these	O
+areas	O
+were	O
+lost	O
+to	O
+the	O
+kingdom	B-Location
+of	I-Location
+mercia	I-Location
+.	O
+
+	
+
+	
+it	O
+lies	O
+approximately	O
+west	O
+of	O
+chorzele	B-Location
+north	O
+of	O
+przasnysz	B-Location
+and	O
+north	O
+of	O
+warsaw	B-Location
+.	O
+
+	
+
+	
+moravec	O
+was	O
+born	O
+in	O
+buffalo	B-Location
+,	I-Location
+new	I-Location
+york	I-Location
+and	O
+subsequently	O
+attended	O
+the	O
+lawrenceville	B-Location
+school	I-Location
+graduating	O
+in	O
+1975	O
+.	O
+
+	
+
+	
+in	O
+the	O
+middle	O
+of	O
+the	O
+medal	O
+there	O
+was	O
+a	O
+taegeuk	O
+symbol	O
+of	O
+the	O
+korean	B-Location
+empire	I-Location
+in	O
+the	O
+middle	O
+.	O
+
+	
+
+	
+the	O
+previous	O
+year	O
+he	O
+gave	O
+a	O
+recital	O
+on	O
+the	O
+wanamaker	B-Product
+organ	I-Product
+in	O
+philadelphia	B-Location
+the	O
+largest	O
+functioning	O
+musical	O
+instrument	O
+in	O
+the	O
+world	O
+.	O
+
+	
+
+	
+torossanguéhi	O
+is	O
+a	O
+village	O
+in	O
+northeastern	O
+ivory	B-Location
+coast	I-Location
+.	O
+
+	
+
+	
+kōshō	O
+ji	O
+is	O
+the	O
+name	O
+of	O
+numerous	O
+buddhist	B-Location
+temples	I-Location
+in	O
+japan	B-Location
+.	O
+
+	
+
+	
+in	O
+1850	O
+at	O
+age	O
+22	O
+he	O
+moved	O
+to	O
+san	B-Location
+jose	I-Location
+,	I-Location
+california	I-Location
+.	O
+
+	
+
+	
+he	O
+was	O
+born	O
+in	O
+san	B-Location
+francisco	I-Location
+and	O
+learned	O
+to	O
+play	O
+saxophone	O
+before	O
+the	O
+age	O
+of	O
+ten	O
+.	O
+
+	
+
+	
+in	O
+barbados	B-Product
+a	O
+loud	O
+cricket	O
+means	O
+money	O
+is	O
+coming	O
+in	O
+;	O
+hence	O
+a	O
+cricket	O
+must	O
+not	O
+be	O
+killed	O
+or	O
+evicted	O
+if	O
+it	O
+chirps	O
+inside	O
+a	O
+house	O
+.	O
+
+	
+
+	
+declared	O
+in	O
+a	O
+symbolic	O
+top	O
+five	O
+of	O
+the	O
+tournament	O
+(	O
+magnitogorsk	B-Location
+2012	O
+)	O
+.	O
+
+	
+
+	
+it	O
+was	O
+shot	O
+in	O
+jerusalem	B-Location
+in	O
+2006	O
+.	O
+
+	
+
+	
+decebalus	B-Person
+king	O
+of	O
+dacia	B-Group
+(	O
+suicide	O
+being	O
+pursued	O
+by	O
+the	O
+romans	O
+)	O
+(	O
+b	O
+.	O
+
+	
+
+	
+the	O
+ming	B-Location
+dynasty	I-Location
+abolished	O
+the	O
+prime	O
+minister	O
+and	O
+divided	O
+the	O
+power	O
+into	O
+six	O
+parts	O
+.	O
+
+	
+
+	
+a	O
+schooner	B-Product
+that	O
+was	O
+wrecked	O
+near	O
+ocean	O
+shores	O
+.	O
+
+	
+
+	
+under	O
+napoleon	B-Group
+and	I-Group
+the	O
+consulate	O
+(	O
+1799	O
+–	O
+1804	O
+)	O
+the	O
+law	O
+was	O
+soon	O
+repealed	O
+.	O
+
+	
+
+	
+a	O
+chaebol	B-Location
+(	O
+;	O
+)	O
+is	O
+a	O
+large	O
+industrial	O
+south	B-Location
+korean	I-Location
+conglomerate	O
+run	O
+and	O
+controlled	O
+by	O
+an	O
+individual	O
+or	O
+family	O
+.	O
+
+	
+
+	
+it	O
+is	O
+endemic	O
+to	O
+australia	B-Location
+.	O
+
+	
+
+	
+eevee	O
+is	O
+a	O
+4	O
+piece	O
+band	O
+from	O
+davao	B-Location
+city	I-Location
+.	O
+
+	
+
+	
+heinrich	O
+'s	O
+father	O
+was	O
+the	O
+german	B-Location
+publisher	O
+friedrich	B-Person
+arnold	I-Person
+brockhaus	I-Person
+(	O
+1772	O
+1823	O
+)	O
+.	O
+
+	
+
+	
+the	O
+album	O
+moved	O
+15,000	O
+copies	O
+within	O
+the	O
+united	B-Location
+states	I-Location
+during	O
+its	O
+first	O
+week	O
+.	O
+
+	
+
+	
+kuba	O
+art	O
+comprises	O
+a	O
+diverse	O
+array	O
+of	O
+media	O
+much	O
+of	O
+which	O
+was	O
+created	O
+for	O
+the	O
+courts	O
+of	O
+chiefs	O
+and	O
+kings	O
+of	O
+the	O
+kuba	B-Location
+kingdom	I-Location
+.	O
+
+	
+
+	
+it	O
+is	O
+a	O
+document	O
+of	O
+the	O
+pair	O
+'s	O
+second	O
+tour	O
+as	O
+headliners	B-Product
+which	O
+took	O
+them	O
+through	O
+the	O
+united	B-Location
+kingdom	I-Location
+during	O
+the	O
+autumn	O
+of	O
+1975	O
+.	O
+
+	
+
+	
+marks	O
+was	O
+born	O
+in	O
+mount	B-Location
+vernon	I-Location
+,	I-Location
+new	I-Location
+york	I-Location
+.	O
+
+	
+
+	
+lusaka	B-Location
+has	O
+been	O
+considered	O
+a	O
+poorly	O
+planned	O
+city	O
+which	O
+grew	O
+slowly	O
+and	O
+in	O
+ways	O
+its	O
+planners	O
+failed	O
+to	O
+anticipate	O
+.	O
+
+	
+
+	
+in	O
+1314	O
+a	O
+complaint	O
+was	O
+lodged	O
+about	O
+two	O
+brothers	O
+misappropriating	O
+property	O
+at	O
+shoreditch	B-Location
+.	O
+
+	
+
+	
+he	O
+was	O
+interred	O
+in	O
+the	O
+congressional	B-Location
+cemetery	I-Location
+washington	I-Location
+,	I-Location
+d.c.	I-Location
+
+	
+
+	
+prince	O
+william	B-Person
+,	I-Person
+duke	I-Person
+of	I-Person
+cumberland	I-Person
+(	O
+1721	O
+–	O
+1765	O
+)	O
+:	O
+statue	O
+in	O
+cavendish	B-Location
+square	I-Location
+london	B-Location
+erected	O
+1770	O
+removed	O
+1868	O
+
+	
+
+	
+kokomian	O
+(	O
+also	O
+spelled	O
+kokomia	O
+)	O
+is	O
+a	O
+town	O
+in	O
+the	O
+far	O
+east	O
+of	O
+ivory	B-Location
+coast	I-Location
+.	O
+
+	
+
+	
+he	O
+was	O
+later	O
+in	O
+dublin	B-Location
+as	O
+part	O
+of	O
+the	O
+smock	B-Group
+alley	I-Group
+theatre	I-Group
+organisation	O
+.	O
+
+	
+
+	
+in	O
+sweden	B-Location
+brass	O
+knuckles	O
+are	O
+legal	O
+to	O
+purchase	O
+and	O
+own	O
+(	O
+for	O
+people	O
+21	O
+years	O
+of	O
+age	O
+)	O
+but	O
+are	O
+not	O
+legal	O
+to	O
+sell	O
+in	O
+stores	O
+or	O
+carry	O
+in	O
+public	O
+.	O
+
+	
+
+	
+boat	O
+trips	O
+from	O
+nearby	O
+port	B-Location
+townsend	I-Location
+,	I-Location
+washington	I-Location
+provide	O
+ecotourism	B-Product
+visits	O
+for	O
+viewing	O
+wildlife	O
+from	O
+the	O
+adjacent	O
+waters	O
+.	O
+
+	
+
+	
+slovac	O
+is	O
+a	O
+village	O
+situated	O
+in	O
+lajkovac	B-Location
+municipality	O
+in	O
+serbia	B-Location
+.	O
+
+	
+
+	
+his	O
+more	O
+recent	O
+years	O
+have	O
+been	O
+taken	O
+up	O
+as	O
+a	O
+freelance	O
+director	O
+and	O
+drama	O
+practitioner	O
+and	O
+he	O
+currently	O
+lives	O
+in	O
+spain	B-Location
+.	O
+
+	
+
+	
+this	O
+album	O
+tackled	O
+the	O
+serious	O
+water	O
+shortage	O
+that	O
+the	O
+singer	O
+'s	O
+home	O
+city	O
+cape	B-Location
+town	I-Location
+faced	O
+during	O
+that	O
+time	O
+.	O
+
+	
+
+	
+habiger	O
+was	O
+born	O
+in	O
+joliet	B-Location
+,	I-Location
+illinois	I-Location
+.	O
+
+	
+
+	
+tauron	O
+polska	O
+energia	O
+s.a.	O
+is	O
+an	O
+energy	O
+holding	O
+company	O
+in	O
+poland	B-Location
+.	O
+
+	
+
+	
+she	O
+is	O
+a	O
+native	O
+of	O
+prince	B-Location
+albert	I-Location
+,	I-Location
+saskatchewan	I-Location
+where	O
+she	O
+also	O
+works	O
+as	O
+a	O
+music	O
+teacher	O
+.	O
+
+	
+
+	
+williams	O
+was	O
+elected	O
+portland	B-Location
+'s	O
+mayor	O
+serving	O
+from	O
+1902	O
+to	O
+1905	O
+.	O
+
+	
+
+	
+he	O
+died	O
+in	O
+burbank	B-Location
+,	I-Location
+california	I-Location
+of	O
+emphysema	B-Medical
+at	O
+age	O
+seventy	O
+eight	O
+.	O
+
+	
+
+	
+in	O
+the	O
+18th	O
+century	O
+the	O
+village	O
+was	O
+annexed	O
+by	O
+prussia	B-Location
+and	O
+from	O
+1871	O
+to	O
+1945	O
+it	O
+also	O
+formed	O
+part	O
+of	O
+germany	B-Location
+.	O
+
+	
+
+	
+found	O
+in	O
+venezuela	B-Location
+it	O
+was	O
+described	O
+as	O
+new	O
+to	O
+science	O
+in	O
+1983	O
+by	O
+mycologist	O
+rolf	B-Person
+singer	O
+.	O
+
+	
+
+	
+it	O
+is	O
+found	O
+on	O
+madagascar	B-Location
+.	O
+
+	
+
+	
+due	O
+to	O
+controversy	O
+in	O
+2016	O
+the	O
+statue	O
+was	O
+moved	O
+from	O
+its	O
+original	O
+location	O
+to	O
+brandenburg	B-Location
+,	I-Location
+kentucky	I-Location
+.	O
+
+	
+
+	
+shills	O
+are	O
+primarily	O
+for	O
+message	O
+delivery	O
+but	O
+they	O
+can	O
+also	O
+be	O
+used	O
+to	O
+drive	O
+up	O
+prices	O
+in	O
+auctions	O
+such	O
+as	O
+ebay	B-Group
+auctions	O
+.	O
+
+	
+
+	
+the	O
+song	O
+inspired	O
+the	O
+album	O
+'s	O
+cover	O
+art	O
+which	O
+featured	O
+a	O
+woolworths	B-Group
+store	O
+front	O
+.	O
+
+	
+
+	
+daniel	B-Person
+a.	I-Person
+d'aniello	I-Person
+billionaire	O
+businessman	O
+cofounder	O
+and	O
+chairman	O
+of	O
+the	O
+carlyle	B-Group
+group	I-Group
+
+	
+
+	
+the	O
+fund	O
+was	O
+founded	O
+in	O
+2007	O
+by	O
+the	O
+president	O
+and	O
+co	O
+owner	O
+of	O
+the	O
+oil	O
+company	O
+lukoil	B-Group
+vagit	I-Group
+alekperov	I-Group
+.	O
+
+	
+
+	
+social	O
+media	O
+sites	O
+and	O
+search	O
+engines	O
+such	O
+as	O
+facebook	B-CreativeWorks
+and	O
+google	B-CreativeWorks
+received	O
+criticism	O
+for	O
+facilitating	O
+the	O
+spread	O
+of	O
+fake	O
+news	O
+.	O
+
+	
+
+	
+in	O
+2009	O
+the	O
+company	O
+was	O
+acquired	O
+by	O
+alstom	B-Group
+for	O
+€	O
+350million	O
+.	O
+
+	
+
+	
+after	O
+the	O
+completion	O
+of	O
+his	O
+education	O
+he	O
+worked	O
+on	O
+the	O
+construction	O
+of	O
+the	O
+novolipetsk	B-Group
+metallurgical	I-Group
+combine	I-Group
+.	O
+
+	
+
+	
+george	B-Person
+kaiser	I-Person
+chairman	O
+of	O
+bok	B-Group
+financial	I-Group
+corporation	I-Group
+philanthropist	O
+ranked	O
+as	O
+one	O
+of	O
+the	O
+richest	O
+people	O
+in	O
+the	O
+world	O
+
+	
+
+	
+the	O
+station	O
+was	O
+owned	O
+by	O
+iheartmedia	B-Group
+.	O
+
+	
+
+	
+it	O
+is	O
+part	O
+of	O
+uralvagonzavod	B-Group
+.	O
+
+	
+
+	
+finnair	B-Group
+and	O
+norwegian	B-Group
+air	I-Group
+shuttle	I-Group
+provide	O
+frequent	O
+service	O
+over	O
+the	O
+day	O
+between	O
+helsinki	B-Location
+airport	I-Location
+and	O
+oulu	B-Location
+airport	I-Location
+.	O
+
+	
+
+	
+the	O
+payment	O
+system	O
+is	O
+protected	O
+by	O
+symantec	B-Group
+'s	O
+verisign	B-CreativeWorks
+security	O
+.	O
+
+	
+
+	
+ziegler	O
+is	O
+featured	O
+in	O
+a	O
+2017	O
+dance	O
+advertisement	O
+for	O
+general	B-Group
+electric	I-Group
+.	O
+
+	
+
+	
+b	O
+/	O
+e	O
+benefits	O
+from	O
+rival	O
+zodiac	B-Group
+aerospace	I-Group
+'s	O
+delivery	O
+troubles	O
+.	O
+
+	
+
+	
+it	O
+is	O
+owned	O
+by	O
+bure	B-Group
+equity	I-Group
+.	O
+
+	
+
+	
+it	O
+is	O
+partially	O
+owned	O
+by	O
+the	O
+west	B-Group
+japan	I-Group
+railway	I-Group
+company	I-Group
+.	O
+
+	
+
+	
+the	O
+station	O
+is	O
+owned	O
+by	O
+cumulus	B-Group
+media	I-Group
+.	O
+
+	
+
+	
+since	O
+then	O
+she	O
+has	O
+turned	O
+to	O
+acting	O
+and	O
+was	O
+in	O
+the	O
+lead	O
+role	O
+in	O
+apgujeong	B-CreativeWorks
+midnight	I-CreativeWorks
+sun	I-CreativeWorks
+.	O
+
+	
+
+	
+the	O
+cast	O
+of	O
+heroes	B-Group
+(	O
+multiple	O
+covers	O
+)	O
+
+	
+
+	
+bobcat	B-Person
+goldthwait	I-Person
+'s	O
+misfits	B-CreativeWorks
+&	I-CreativeWorks
+monsters	I-CreativeWorks
+(	O
+misfits	O
+&	O
+monsters	O
+)	O
+(	O
+2018	O
+–	O
+present	O
+)	O
+
+	
+
+	
+it	O
+was	O
+followed	O
+by	O
+another	O
+sequel	O
+topper	B-CreativeWorks
+returns	I-CreativeWorks
+.	O
+
+	
+
+	
+the	B-CreativeWorks
+starlost	I-CreativeWorks
+a	O
+canada	B-Location
+/	O
+us	O
+tv	O
+series	O
+from	O
+1973	O
+has	O
+a	O
+similar	O
+premise	O
+
+	
+
+	
+the	O
+race	O
+was	O
+broadcast	O
+on	O
+cbs	B-Group
+
+	
+
+	
+atheist	O
+was	O
+later	O
+adapted	O
+into	O
+a	O
+1974	O
+film	O
+which	O
+was	O
+directed	O
+by	O
+sjumandjaja	B-Group
+and	O
+co	O
+starred	O
+christine	B-Person
+hakim	I-Person
+and	O
+.	O
+
+	
+
+	
+3.13	O
+–	O
+the	B-CreativeWorks
+man	I-CreativeWorks
+from	O
+tallahassee	B-Location
+(	O
+with	O
+pinkner	B-Person
+)	O
+
+	
+
+	
+millson	O
+met	O
+his	O
+second	O
+wife	O
+sarah-jane	B-Person
+potts	I-Person
+in	O
+2011	O
+while	O
+they	O
+were	O
+cast	O
+members	O
+on	O
+holby	B-CreativeWorks
+city	I-CreativeWorks
+a	O
+medical	O
+drama	O
+television	O
+series	O
+.	O
+
+	
+
+	
+wes	B-Person
+anderson	I-Person
+'s	O
+film	O
+the	O
+grand	B-CreativeWorks
+budapest	I-CreativeWorks
+hotel	I-CreativeWorks
+opened	O
+the	O
+festival	O
+.	O
+
+	
+
+	
+the	O
+1932	O
+film	O
+scarface	B-CreativeWorks
+was	O
+based	O
+on	O
+it	O
+.	O
+
+	
+
+	
+she	O
+undertook	O
+television	O
+roles	O
+including	O
+the	O
+eponymous	O
+role	O
+on	O
+the	O
+abc	B-Group
+comedy	O
+drama	O
+ugly	B-CreativeWorks
+betty	I-CreativeWorks
+(	O
+2006	O
+–	O
+2010	O
+)	O
+.	O
+
+	
+
+	
+scheider	O
+starred	O
+in	O
+last	B-CreativeWorks
+embrace	I-CreativeWorks
+a	O
+thriller	O
+directed	O
+by	O
+jonathan	B-Person
+demme	I-Person
+.	O
+
+	
+
+	
+ginuwine	O
+was	O
+originally	O
+cast	O
+in	O
+the	O
+2004	O
+film	O
+you	B-CreativeWorks
+got	I-CreativeWorks
+served	I-CreativeWorks
+.	O
+
+	
+
+	
+others	O
+like	O
+bless	B-CreativeWorks
+the	I-CreativeWorks
+harts	I-CreativeWorks
+and	O
+clone	B-CreativeWorks
+high	I-CreativeWorks
+have	O
+more	O
+tame	O
+themes	O
+but	O
+still	O
+are	O
+nt	O
+meant	O
+for	O
+children	O
+.	O
+
+	
+
+	
+another	O
+important	O
+stylistic	O
+influence	O
+was	O
+the	O
+experimental	O
+oeuvre	O
+of	O
+kenneth	B-Person
+anger	I-Person
+and	O
+in	O
+particular	O
+inauguration	O
+of	O
+the	O
+pleasure	B-Location
+dome	I-Location
+.	O
+
+	
+
+	
+he	O
+also	O
+produced	O
+the	O
+soundtrack	O
+for	O
+its	O
+sequel	O
+the	B-CreativeWorks
+bitch	I-CreativeWorks
+in	O
+1979	O
+.	O
+
+	
+
+	
+the	O
+same	O
+year	O
+she	O
+portrayed	O
+beatrice	B-Person
+hastings	I-Person
+in	O
+modigliani	B-CreativeWorks
+which	O
+starred	O
+andy	B-Person
+garcía	I-Person
+.	O
+
+	
+
+	
+he	O
+wrote	O
+the	O
+last	O
+run	O
+which	O
+he	O
+called	O
+an	O
+attempt	O
+to	O
+use	O
+the	O
+melodramatic	O
+crime	O
+chase	O
+to	O
+deal	O
+with	O
+whatever	O
+the	O
+hero	O
+'s	O
+preoccupations	O
+might	O
+be	O
+.	O
+
+	
+
+	
+the	O
+soap	O
+has	O
+also	O
+produced	O
+a	O
+number	O
+of	O
+charity	O
+specials	O
+for	O
+children	B-Group
+in	I-Group
+need	I-Group
+.	O
+
+	
+
+	
+short	O
+cutscenes	B-Product
+appear	O
+at	O
+the	O
+beginning	O
+and	O
+end	O
+of	O
+the	O
+game	O
+as	O
+well	O
+as	O
+after	O
+certain	O
+levels	O
+.	O
+
+	
+
+	
+isis	O
+was	O
+voiced	O
+by	O
+frank	B-Person
+welker	I-Person
+for	O
+most	O
+of	O
+the	O
+character	O
+'s	O
+appearances	O
+and	O
+by	O
+dee	B-Person
+bradley	I-Person
+baker	I-Person
+for	O
+the	O
+animated	O
+web	O
+series	O
+gotham	B-CreativeWorks
+girls	I-CreativeWorks
+.	O
+
+	
+
+	
+he	O
+had	O
+a	O
+leading	O
+role	O
+in	O
+the	O
+well	O
+received	O
+1929	O
+musical	O
+film	O
+hallelujah	B-CreativeWorks
+.	O
+
+	
+
+	
+she	O
+joined	O
+the	O
+daytime	B-CreativeWorks
+talk	I-CreativeWorks
+show	O
+the	B-CreativeWorks
+view	I-CreativeWorks
+shortly	I-CreativeWorks
+thereafter	O
+co	O
+hosting	O
+it	O
+until	O
+2021	O
+.	O
+
+	
+
+	
+malachovská	O
+functioned	O
+as	O
+co	O
+producer	O
+on	O
+the	O
+2008	O
+václav	B-Person
+marhoul	I-Person
+film	O
+tobruk	B-CreativeWorks
+.	O
+
+	
+
+	
+it	O
+is	O
+not	O
+known	O
+whether	O
+the	O
+film	B-CreativeWorks
+currently	O
+survives	O
+in	O
+its	O
+entirety	O
+.	O
+
+	
+
+	
+huber	O
+began	O
+working	O
+in	O
+animation	O
+in	O
+1969	O
+as	O
+an	O
+assistant	O
+to	O
+hanna-barbera	B-Person
+on	O
+the	O
+perils	O
+of	O
+penelope	B-Person
+pitstop	I-Person
+.	O
+
+	
+
+	
+1998	B-CreativeWorks
+one	I-CreativeWorks
+true	I-CreativeWorks
+thing	I-CreativeWorks
+still	O
+photographer	O
+directed	O
+by	O
+carl	B-Person
+franklin	I-Person
+
+	
+
+	
+in	O
+2010	O
+he	O
+composed	O
+the	O
+music	O
+for	O
+the	O
+movie	O
+london	B-CreativeWorks
+boulevard	I-CreativeWorks
+starring	O
+colin	B-Person
+farrell	I-Person
+ray	B-Person
+winstone	I-Person
+and	O
+keira	B-Person
+knightley	I-Person
+.	O
+
+	
+
+	
+sinfonia	B-CreativeWorks
+antartica	I-CreativeWorks
+(	O
+symphony	O
+no	O
+.	O
+7	O
+)	O
+(	O
+1949	O
+–	O
+52	O
+)	O
+(	O
+partly	O
+based	O
+on	O
+his	O
+music	O
+for	O
+the	O
+film	O
+scott	B-CreativeWorks
+of	I-CreativeWorks
+the	I-CreativeWorks
+antarctic	I-CreativeWorks
+)	O
+
+	
+
+	
+his	O
+best	O
+known	O
+film	O
+is	O
+on	B-CreativeWorks
+foot	I-CreativeWorks
+,	I-CreativeWorks
+on	I-CreativeWorks
+horse	I-CreativeWorks
+,	I-CreativeWorks
+and	I-CreativeWorks
+on	I-CreativeWorks
+wheels	I-CreativeWorks
+.	O
+
+	
+
+	
+surprise	O
+was	O
+used	O
+in	O
+the	O
+film	O
+master	B-CreativeWorks
+and	I-CreativeWorks
+commander	I-CreativeWorks
+:	I-CreativeWorks
+the	I-CreativeWorks
+far	I-CreativeWorks
+side	I-CreativeWorks
+of	I-CreativeWorks
+the	I-CreativeWorks
+world	I-CreativeWorks
+.	O
+
+	
+
+	
+pitch	B-CreativeWorks
+perfect	I-CreativeWorks
+2	I-CreativeWorks
+director	O
+elizabeth	B-Person
+banks	I-Person
+was	O
+in	O
+talks	O
+with	O
+the	O
+studio	O
+to	O
+direct	O
+and	O
+produce	O
+the	O
+project	O
+.	O
+
+	
+
+	
+in	O
+films	O
+o	O
+neal	O
+appeared	O
+in	O
+pinky	B-CreativeWorks
+no	I-CreativeWorks
+way	I-CreativeWorks
+out	I-CreativeWorks
+and	O
+something	B-CreativeWorks
+of	I-CreativeWorks
+value	I-CreativeWorks
+.	O
+
+	
+
+	
+madventures	O
+in	O
+over	O
+150	O
+countries	O
+
+	
+
+	
+a	O
+musical	B-CreativeWorks
+film	I-CreativeWorks
+was	O
+produced	O
+based	O
+on	O
+the	O
+novel	O
+in	O
+1969	O
+.	O
+
+	
+
+	
+he	O
+is	O
+the	O
+main	O
+character	O
+in	O
+the	O
+black	B-CreativeWorks
+jack	I-CreativeWorks
+manga	I-CreativeWorks
+franchise	O
+.	O
+
+	
+
+	
+his	O
+first	O
+film	O
+was	O
+on	B-CreativeWorks
+the	B-CreativeWorks
+waterfront	I-CreativeWorks
+in	O
+1954	O
+.	O
+
+	
+
+	
+the	O
+film	O
+was	O
+followed	O
+by	O
+a	B-CreativeWorks
+nightmare	I-CreativeWorks
+on	I-CreativeWorks
+elm	B-CreativeWorks
+street	I-CreativeWorks
+2	I-CreativeWorks
+:	I-CreativeWorks
+freddy	I-CreativeWorks
+'s	I-CreativeWorks
+revenge	I-CreativeWorks
+.	O
+
+	
+
+	
+it	O
+was	O
+the	O
+studio	O
+'s	O
+second	O
+short	O
+film	O
+after	O
+the	B-CreativeWorks
+chubbchubbs	I-CreativeWorks
+!	I-CreativeWorks
+.	O
+
+	
+
+	
+in	O
+1991	O
+he	O
+played	O
+julie	B-Person
+andrews	I-Person
+gay	O
+son	O
+in	O
+the	O
+abc	B-Group
+made	O
+for	O
+television	O
+film	O
+our	B-CreativeWorks
+sons	I-CreativeWorks
+.	O
+
+	
+
+	
+mrs.	B-CreativeWorks
+soffel	I-CreativeWorks
+directed	O
+by	O
+gillian	B-Person
+armstrong	I-Person
+starring	O
+diane	B-Person
+keaton	I-Person
+and	O
+mel	B-Person
+gibson	I-Person
+
+	
+
+	
+she	O
+is	O
+known	O
+for	O
+her	O
+roles	O
+in	O
+temper	B-CreativeWorks
+and	O
+jyothi	B-CreativeWorks
+lakshmi	I-CreativeWorks
+.	O
+
+	
+
+	
+use	O
+as	O
+a	O
+target	B-Product
+ship	I-Product
+for	O
+training	O
+or	O
+testing	O
+weapons	O
+
+	
+
+	
+she	O
+was	O
+chased	O
+and	O
+intercepted	O
+by	O
+german	B-Location
+submarine	B-Product
+u-17	I-Product
+.	O
+
+	
+
+	
+solar	O
+powered	O
+cars	O
+boats	O
+and	O
+airplanes	O
+have	O
+been	O
+demonstrated	O
+with	O
+the	O
+most	O
+practical	O
+and	O
+likely	O
+of	O
+these	O
+being	O
+solar	B-Product
+cars	I-Product
+.	O
+
+	
+
+	
+was	O
+an	O
+wooden	O
+screw	B-Product
+gunboat	B-Product
+launched	O
+in	O
+1856	O
+and	O
+sold	O
+in	O
+1875	O
+.	O
+
+	
+
+	
+launched	O
+1883	O
+was	O
+a	O
+protected	B-Product
+cruiser	I-Product
+.	O
+
+	
+
+	
+although	O
+the	O
+airport	O
+was	O
+capable	O
+of	O
+handling	O
+boeing	B-Product
+767	I-Product
+aircraft	O
+for	O
+large	O
+numbers	O
+of	O
+these	O
+aircraft	O
+significant	O
+investment	O
+would	O
+have	O
+been	O
+needed	O
+.	O
+
+	
+
+	
+the	O
+design	O
+derived	O
+from	O
+the	O
+earlier	O
+lms	B-Product
+ivatt	I-Product
+class	I-Product
+2	I-Product
+2-6-2t	I-Product
+.	O
+
+	
+
+	
+the	O
+first	O
+bridge	O
+replaced	O
+an	O
+earlier	O
+ferry	B-Product
+service	O
+consisting	O
+of	O
+rowing	O
+boats	O
+across	O
+the	O
+narrowest	O
+section	O
+of	O
+water	O
+.	O
+
+	
+
+	
+another	O
+class	O
+47	O
+this	O
+time	O
+47815	O
+had	O
+the	O
+name	O
+bestowed	O
+on	O
+it	O
+in	O
+2005	O
+;	O
+it	O
+is	O
+currently	O
+in	O
+operation	O
+with	O
+riviera	B-Product
+trains	O
+.	O
+
+	
+
+	
+beep	B-Product
+a	O
+locomotive	B-Product
+built	O
+in	O
+1970	O
+
+	
+
+	
+diesel	O
+locomotives	B-Product
+will	O
+run	O
+on	O
+the	O
+line	O
+initially	O
+but	O
+the	O
+plans	O
+will	O
+provide	O
+an	O
+option	O
+for	O
+future	O
+electrification	O
+.	O
+
+	
+
+	
+uss	B-Product
+san	I-Product
+marcos	I-Product
+(lsd-25)	I-Product
+casa	I-Product
+grande	O
+class	O
+dock	O
+landing	O
+ship	O
+
+	
+
+	
+the	O
+rope	O
+available	O
+at	O
+the	O
+time	O
+proved	O
+too	O
+susceptible	O
+to	O
+wear	O
+and	O
+the	O
+system	O
+was	O
+abandoned	O
+in	O
+favour	O
+of	O
+steam	B-Product
+locomotives	I-Product
+after	O
+eight	O
+years	O
+.	O
+
+	
+
+	
+lead	O
+boat	B-Product
+of	O
+a	O
+class	O
+of	O
+27	O
+
+	
+
+	
+in	O
+the	O
+same	O
+year	O
+he	O
+constructed	O
+his	O
+first	O
+plane	O
+czajka	B-Product
+a	O
+trainer	O
+glider	O
+that	O
+was	O
+later	O
+put	O
+into	O
+serialized	O
+production	O
+in	O
+several	O
+designs	O
+.	O
+
+	
+
+	
+the	O
+brand	O
+was	O
+subsequently	O
+used	O
+for	O
+the	O
+mg	B-Product
+xpower	I-Product
+sv	I-Product
+sports	O
+car	O
+in	O
+2002	O
+.	O
+
+	
+
+	
+hôtel-dieu	B-Location
+de	I-Location
+lyon	I-Location
+(	O
+17th	O
+and	O
+18th	O
+century	O
+)	O
+historical	O
+hospital	O
+with	O
+a	O
+baroque	O
+chapel	O
+;	O
+
+	
+
+	
+the	O
+redevelopment	O
+of	O
+changi	B-Location
+prison	I-Location
+starts	O
+eventually	O
+having	O
+consolidated	O
+clusters	O
+and	O
+facilities	O
+to	O
+optimise	O
+land	O
+use	O
+.	O
+
+	
+
+	
+premises	O
+where	O
+goods	O
+for	O
+sale	O
+are	O
+displayed	O
+(	O
+a	O
+showroom	B-Location
+)	O
+
+	
+
+	
+the	O
+school	O
+is	O
+now	O
+currently	O
+named	O
+as	O
+santragachi	B-Location
+kedarnath	I-Location
+institution	I-Location
+,	I-Location
+howrah	I-Location
+.	O
+
+	
+
+	
+nevertheless	O
+debtors'	B-Location
+prison	I-Location
+was	O
+a	O
+common	O
+end	O
+.	O
+
+	
+
+	
+the	O
+episode	O
+2	O
+scenes	O
+within	O
+the	O
+cinema	O
+were	O
+filmed	O
+at	O
+penistone	B-Group
+paramount	I-Group
+cinema	I-Group
+.	O
+
+	
+
+	
+this	O
+river	O
+route	O
+allowed	O
+the	O
+monks	O
+to	O
+travel	O
+to	O
+the	O
+solovetsky	B-Location
+monastery	I-Location
+and	O
+other	O
+centres	O
+of	O
+spiritual	O
+life	O
+.	O
+
+	
+
+	
+wusab	B-Location
+'s	I-Location
+mosques	B-Location
+which	O
+mostly	O
+date	O
+from	O
+the	O
+14th	O
+century	O
+are	O
+typically	O
+small	O
+cube	O
+shaped	O
+and	O
+windowless	O
+.	O
+
+	
+
+	
+the	O
+most	O
+recent	O
+excavations	O
+uncovered	O
+a	O
+large	O
+dormitory	B-Location
+for	O
+poor	O
+pilgrims	O
+with	O
+separate	O
+wings	O
+for	O
+men	O
+and	O
+for	O
+women	O
+and	O
+children	O
+.	O
+
+	
+
+	
+it	O
+replaced	O
+a	O
+barn	B-Location
+church	I-Location
+built	O
+in	O
+1846	O
+(	O
+now	O
+a	O
+garage	B-Location
+)	O
+.	O
+
+	
+
+	
+the	O
+palatial	O
+residence	O
+style	O
+was	O
+exemplified	O
+by	O
+the	O
+wilanów	B-Location
+palace	I-Location
+constructed	O
+between	O
+1677	O
+and	O
+1696	O
+.	O
+
+	
+
+	
+basel	O
+played	O
+their	O
+home	O
+games	O
+in	O
+the	O
+st.	B-Location
+jakob	I-Location
+stadium	I-Location
+.	O
+
+	
+
+	
+they	O
+built	O
+a	O
+monastery	B-Location
+and	O
+developed	O
+a	O
+combined	O
+defense	O
+system	O
+.	O
+
+	
+
+	
+this	O
+terminal	O
+includes	O
+a	O
+small	O
+food	O
+court	O
+serving	O
+passengers	O
+dishes	O
+from	O
+pei	B-Product
+wei	I-Product
+asian	B-Product
+diner	I-Product
+steak	B-Product
+'n	I-Product
+shake	I-Product
+and	O
+einstein	B-Group
+bros.	I-Group
+bagels	O
+.	O
+
+	
+
+	
+when	O
+this	O
+occurs	O
+the	O
+exhausted	O
+mines	O
+are	O
+sometimes	O
+converted	O
+to	O
+landfills	B-Location
+for	O
+disposal	O
+of	O
+solid	O
+wastes	O
+.	O
+
+	
+
+	
+the	O
+village	O
+still	O
+has	O
+one	O
+inn	O
+(	O
+at	O
+the	O
+sulzhof	B-Location
+)	O
+.	O
+
+	
+
+	
+smith	O
+'s	O
+body	O
+was	O
+found	O
+12	O
+days	O
+later	O
+in	O
+washington	B-Location
+,	I-Location
+pennsylvania	I-Location
+.	O
+
+	
+
+	
+he	O
+played	O
+six	O
+games	O
+at	O
+the	O
+new	B-Location
+recreation	I-Location
+ground	I-Location
+.	O
+
+	
+
+	
+he	O
+also	O
+took	O
+painting	O
+classes	O
+at	O
+fernand	B-Location
+léger	I-Location
+’s	O
+school	O
+and	O
+geography	O
+and	O
+philosophy	O
+at	O
+the	O
+sorbonne	B-Location
+.	O
+
+	
+
+	
+the	O
+team	O
+played	O
+their	O
+home	O
+games	O
+at	O
+wvu	B-Location
+coliseum	I-Location
+in	O
+morgantown	B-Location
+,	I-Location
+west	I-Location
+virginia	I-Location
+.	O
+
+	
+
+	
+in	O
+1937	O
+he	O
+opened	O
+his	O
+magnificent	O
+art	O
+collection	O
+to	O
+the	O
+public	O
+and	O
+in	O
+1943	O
+donated	O
+some	O
+of	O
+his	O
+works	O
+to	O
+the	O
+detroit	B-Location
+institute	I-Location
+of	I-Location
+arts	I-Location
+.	O
+
+	
+
+	
+three	O
+of	O
+them	O
+were	O
+kept	O
+at	O
+the	O
+lomnica	B-Location
+monastery	I-Location
+located	O
+near	O
+his	O
+home	O
+village	O
+.	O
+
+	
+
+	
+after	O
+her	O
+father	O
+acquired	O
+nysø	B-Location
+manor	I-Location
+in	O
+1876	O
+she	O
+lived	O
+there	O
+from	O
+1877	O
+to	O
+1879	O
+and	O
+built	O
+a	O
+library	O
+for	O
+the	O
+use	O
+of	O
+her	O
+daughters	O
+and	O
+the	O
+local	O
+population	O
+.	O
+
+	
+
+	
+1	O
+mile	O
+long	O
+heritage	B-Location
+railway	I-Location
+with	O
+fully	O
+reconstructed	O
+station	O
+signal	O
+box	O
+and	O
+railway	O
+yard	O
+.	O
+
+	
+
+	
+he	O
+made	O
+four	O
+starts	O
+that	O
+season	O
+with	O
+a	O
+best	O
+finish	O
+of	O
+fifth	O
+at	O
+oschersleben	B-Location
+.	O
+
+	
+
+	
+in	O
+2016	O
+he	O
+joined	O
+the	O
+mikhailovsky	B-Group
+ballet	I-Group
+as	O
+a	O
+second	O
+soloist	O
+where	O
+he	O
+later	O
+reached	O
+the	O
+rank	O
+of	O
+first	O
+soloist	O
+.	O
+
+	
+
+	
+from	O
+1985	O
+to	O
+2004	O
+he	O
+joined	O
+ibm	B-Group
+'s	O
+thomas	B-Location
+j.	I-Location
+watson	I-Location
+research	I-Location
+center	I-Location
+.	O
+
+	
+
+	
+there	O
+are	O
+several	O
+“	O
+biłgoraj	B-Location
+style	O
+”	O
+houses	O
+and	O
+in	O
+the	O
+area	O
+numerous	O
+wayside	O
+shrines	O
+can	O
+be	O
+found	O
+.	O
+
+	
+
+	
+castle	B-Location
+cornet	I-Location
+the	O
+historic	O
+fortress	O
+that	O
+guarded	O
+the	O
+strategic	O
+entrance	O
+to	O
+the	O
+port	O
+.	O
+
+	
+
+	
+he	O
+was	O
+always	O
+a	O
+reserve	O
+keeper	O
+at	O
+vale	B-Location
+park	I-Location
+though	O
+behind	O
+first	O
+alan	B-Person
+boswell	I-Person
+and	O
+when	O
+he	O
+left	O
+john	B-Person
+connaughton	I-Person
+.	O
+
+	
+
+	
+nearby	O
+st.	B-Location
+luke	I-Location
+'s	I-Location
+church	I-Location
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1987	O
+.	O
+
+	
+
+	
+keystone	O
+on	O
+the	O
+main	O
+entrance	O
+to	O
+the	O
+palazzo	B-Location
+giusti	B-Person
+verona	I-Person
+]	O
+]	O
+
+	
+
+	
+the	O
+metropolitan	B-Location
+museum	I-Location
+of	I-Location
+art	I-Location
+has	O
+a	O
+number	O
+of	O
+blue	O
+faience	O
+vases	O
+and	O
+chalices	O
+from	O
+ancient	B-Location
+egypt	I-Location
+in	O
+its	O
+collection	O
+.	O
+
+	
+
+	
+in	O
+the	O
+middle	O
+of	O
+the	O
+arch	O
+there	O
+is	O
+a	O
+zarih	B-Product
+which	O
+is	O
+3.4	O
+m	O
+long	O
+and	O
+2	O
+m	O
+wide	O
+.	O
+
+	
+
+	
+cubbon	B-Location
+park	I-Location
+is	O
+located	O
+in	O
+the	O
+heart	O
+of	O
+the	O
+city	O
+and	O
+spreads	O
+over	O
+300	O
+acres	O
+(	O
+1.2	O
+km2	O
+)	O
+.	O
+
+	
+
+	
+this	O
+included	O
+a	O
+trail	O
+near	O
+what	O
+was	O
+then	O
+the	O
+newly	O
+opened	O
+crabtree	B-Location
+valley	I-Location
+mall	I-Location
+that	O
+regularly	O
+flooded	O
+during	O
+heavy	O
+rain	O
+.	O
+
+	
+
+	
+in	O
+1975	O
+the	O
+series	O
+moved	O
+to	O
+make	O
+way	O
+for	O
+a	O
+nightclub	B-Location
+that	O
+became	O
+known	O
+as	O
+studio	B-Location
+54	I-Location
+.	O
+
+	
+
+	
+the	O
+resulting	O
+plastic	O
+sheets	O
+are	O
+now	O
+in	O
+the	O
+collection	O
+of	O
+the	O
+tate	B-Product
+.	O
+
+	
+
+	
+fort	O
+margherita	B-Location
+also	O
+in	O
+kuching	B-Location
+was	O
+named	O
+after	O
+her	O
+.	O
+
+	
+
+	
+she	O
+also	O
+teaches	O
+voice	O
+at	O
+the	O
+new	B-Group
+england	I-Group
+conservatory	I-Group
+.	O
+
+	
+
+	
+it	O
+is	O
+cooked	O
+on	O
+a	O
+large	O
+flat	O
+griddle	B-Product
+.	O
+
+	
+
+	
+elevators	B-Product
+were	O
+installed	O
+in	O
+the	O
+building	O
+in	O
+1922	O
+.	O
+
+	
+
+	
+christoffer	B-Person
+lundquist	I-Person
+–	O
+background	O
+vocals	O
+bass	O
+guitar	O
+zither	B-Person
+tambourine	O
+and	O
+additional	O
+snare	O
+drum	O
+
+	
+
+	
+possibly	O
+the	O
+same	O
+sword	O
+as	O
+szczerbiec	B-Person
+which	O
+is	O
+preserved	O
+.	O
+
+	
+
+	
+the	O
+production	O
+version	O
+differed	O
+from	O
+the	O
+prototype	O
+by	O
+having	O
+a	O
+more	O
+powerful	O
+snecma	B-Product
+atar	I-Product
+101	I-Product
+engine	O
+.	O
+
+	
+
+	
+it	O
+is	O
+a	O
+hawken	B-Product
+style	O
+with	O
+a	O
+snail	O
+breech	O
+and	O
+double	O
+set	O
+trigger	O
+in	O
+a	O
+scroll	B-Product
+guard	I-Product
+.	O
+
+	
+
+	
+although	O
+motorcycles	O
+such	O
+as	O
+the	O
+honda	B-Product
+cb750	I-Product
+feature	O
+a	O
+dry	O
+sump	O
+engine	O
+modern	O
+motorcycles	O
+tend	O
+to	O
+use	O
+a	O
+wet	O
+sump	O
+design	O
+.	O
+
+	
+
+	
+op	O
+.	O
+5	O
+viviane	B-Person
+symphonic	I-Person
+poem	O
+on	B-CreativeWorks
+a	I-CreativeWorks
+legend	I-CreativeWorks
+of	I-CreativeWorks
+the	I-CreativeWorks
+round	I-CreativeWorks
+table	I-CreativeWorks
+(	O
+1882	O
+rev	O
+.	O
+1887	O
+)	O
+
+	
+
+	
+its	O
+poor	O
+sales	O
+are	O
+generally	O
+attributed	O
+to	O
+its	O
+late	O
+release	O
+on	O
+the	O
+game	B-CreativeWorks
+boy	I-CreativeWorks
+color	I-CreativeWorks
+which	O
+at	O
+the	O
+time	O
+had	O
+been	O
+succeeded	O
+by	O
+the	O
+game	B-CreativeWorks
+boy	I-CreativeWorks
+advance	O
+.	O
+
+	
+
+	
+packard	B-Product
+super	I-Product
+eight	I-Product
+(	O
+1939	O
+–	O
+1951	O
+)	O
+(	O
+rear	O
+door	O
+on	O
+4	O
+door	O
+sedans	O
+)	O
+
+	
+
+	
+ucsd	O
+p	O
+system	O
+was	O
+used	O
+on	O
+ibm	B-Product
+personal	B-Product
+computer	I-Product
+apple	B-Product
+ii	I-Product
+and	O
+other	O
+zilog	B-Product
+z80	I-Product
+mos	I-Product
+technology	O
+6502	O
+motorola	O
+68000	O
+based	O
+machines	O
+.	O
+
+	
+
+	
+the	O
+aircraft	B-Product
+controls	I-Product
+are	O
+completely	O
+fly-by-wire	B-Product
+with	O
+no	O
+mechanical	O
+control	O
+between	O
+pilot	O
+and	O
+flight	O
+surfaces	O
+.	O
+
+	
+
+	
+it	O
+disappeared	O
+from	O
+nearly	O
+all	O
+cars	O
+in	O
+the	O
+1920s	O
+although	O
+total	O
+loss	O
+continued	O
+in	O
+small	O
+low	O
+power	O
+stationary	B-Product
+engines	I-Product
+into	O
+the	O
+1950s	O
+.	O
+
+	
+
+	
+akon	O
+learned	O
+to	O
+play	O
+five	O
+instruments	O
+including	O
+drums	B-Product
+guitar	I-Product
+and	O
+djembe	B-Product
+.	O
+
+	
+
+	
+hybrid	O
+vehicles	O
+differ	O
+from	O
+dual	B-Product
+mode	I-Product
+vehicles	I-Product
+because	O
+they	O
+may	O
+not	O
+be	O
+fed	O
+by	O
+another	O
+energy	O
+source	O
+during	O
+operation	O
+.	O
+
+	
+
+	
+efficiency	O
+is	O
+reached	O
+with	O
+a	O
+robust	O
+and	O
+environmentally	O
+responsible	O
+mechanical	O
+system	O
+.	O
+
+	
+
+	
+protesters	O
+responded	O
+by	O
+throwing	O
+molotov	O
+cocktails	O
+swords	O
+knives	O
+rocks	O
+poisoned	B-Product
+darts	I-Product
+and	O
+bicycle	O
+spokes	O
+.	O
+
+	
+
+	
+the	O
+original	O
+atari	B-Product
+8-bit	I-Product
+family	O
+version	O
+is	O
+16k	O
+in	O
+size	O
+and	O
+was	O
+released	O
+on	O
+disk	O
+and	O
+tape	O
+in	O
+1982	O
+.	O
+
+	
+
+	
+it	O
+utilised	O
+the	O
+wing	O
+design	O
+of	O
+the	O
+carmam	B-Product
+aiglon	I-Product
+but	O
+had	O
+an	O
+all	O
+new	O
+fuselage	O
+.	O
+
+	
+
+	
+the	O
+vehicle	O
+'s	O
+reusable	O
+first	O
+stage	O
+will	O
+use	O
+a	O
+battery	O
+powered	O
+steam	B-Product
+rocket	I-Product
+to	O
+propel	O
+a	O
+small	O
+second	O
+stage	O
+to	O
+an	O
+altitude	O
+of	O
+7	O
+kilometers	O
+.	O
+
+	
+
+	
+mark	O
+39	O
+nuclear	B-Product
+bomb	I-Product
+(	O
+1958	O
+1962	O
+)	O
+laydown	O
+delivery	O
+and	O
+ground	O
+burst	O
+
+	
+
+	
+alignment	O
+required	O
+a	O
+special	O
+alignment	O
+pack	O
+an	O
+oscilloscope	B-Product
+an	O
+alignment	O
+tool	O
+that	O
+moved	O
+the	O
+read	O
+/	O
+write	O
+heads	O
+and	O
+patience	O
+.	O
+
+	
+
+	
+a	O
+siphon	B-Product
+makes	O
+use	O
+of	O
+the	O
+difference	O
+in	O
+the	O
+height	O
+between	O
+the	O
+intake	O
+and	O
+the	O
+outlet	O
+to	O
+create	O
+a	O
+pressure	O
+difference	O
+needed	O
+to	O
+remove	O
+excess	O
+water	O
+.	O
+
+	
+
+	
+r.	B-Person
+daneel	I-Person
+olivaw	I-Person
+'s	O
+role	O
+in	O
+the	O
+events	O
+of	O
+that	O
+novel	O
+would	O
+later	O
+be	O
+described	O
+in	O
+the	O
+prequels	O
+.	O
+
+	
+
+	
+:	O
+pulse	B-CreativeWorks
+jet	O
+(	O
+argus	O
+as	O
+014	O
+)	O
+powered	O
+interceptor	O
+project	O
+.	O
+
+	
+
+	
+china	B-Location
+'s	O
+electric	B-Product
+motor	I-Product
+industry	O
+has	O
+been	O
+developed	O
+for	O
+60	O
+years	O
+.	O
+
+	
+
+	
+some	O
+250	O
+high	O
+speed	O
+shinkansen	B-Product
+trains	O
+connect	O
+major	O
+cities	O
+.	O
+
+	
+
+	
+censer	B-Product
+a	O
+small	O
+metal	O
+or	O
+stone	O
+dish	O
+used	O
+for	O
+burning	O
+incense	O
+
+	
+
+	
+by	O
+1966	O
+the	O
+train	O
+lost	O
+its	O
+dining	O
+car	O
+which	O
+in	O
+the	O
+early	O
+1960s	O
+had	O
+been	O
+downgraded	O
+to	O
+a	O
+dinette	B-Product
+.	O
+
+	
+
+	
+charles	B-Person
+francis	I-Person
+adams	I-Person
+sr.	I-Person
+won	O
+the	O
+party	O
+'s	O
+vice	O
+presidential	O
+election	O
+.	O
+
+	
+
+	
+morrison	O
+indicated	O
+that	O
+he	O
+did	O
+not	O
+spend	O
+any	O
+money	O
+on	O
+this	O
+campaign	O
+and	O
+finished	O
+well	O
+behind	O
+glen	B-Person
+murray	I-Person
+the	O
+winning	O
+candidate	O
+.	O
+
+	
+
+	
+some	O
+sources	O
+claim	O
+that	O
+the	O
+marriage	O
+was	O
+planned	O
+by	O
+manggūltai	B-Person
+as	O
+the	O
+rehabilitation	O
+of	O
+his	O
+crimes	O
+.	O
+
+	
+
+	
+it	O
+stars	O
+mithun	B-Person
+chakraborty	I-Person
+moushumi	B-Person
+shabnur	B-Person
+ferdous	I-Person
+ahmed	B-Person
+prabir	I-Person
+mitra	I-Person
+and	O
+ahmed	B-Person
+sharif	I-Person
+.	O
+
+	
+
+	
+92	O
+)	O
+frans	B-Person
+van	I-Person
+cauwelaert	I-Person
+(	O
+1880	O
+–	O
+1961	O
+)	O
+politician	O
+and	O
+activist	O
+.	O
+
+	
+
+	
+gołymin	O
+is	O
+the	O
+birthplace	O
+of	O
+politician	O
+tomasz	B-Person
+nałęcz	I-Person
+.	O
+
+	
+
+	
+passors	O
+was	O
+subsequently	O
+inherited	O
+by	O
+sir	B-Person
+henry	I-Person
+cromwell	I-Person
+grandfather	O
+of	O
+oliver	B-Person
+cromwell	I-Person
+.	O
+
+	
+
+	
+bullock	O
+declined	O
+to	O
+run	O
+for	O
+reelection	O
+in	O
+1868	O
+promoting	O
+henry	B-Person
+l.	I-Person
+dawes	I-Person
+as	O
+his	O
+successor	O
+.	O
+
+	
+
+	
+mojs	O
+belonged	O
+to	O
+the	O
+entourage	O
+of	O
+duke	B-Person
+béla	I-Person
+who	O
+had	O
+long	O
+opposed	O
+his	O
+father	O
+'s	O
+useless	O
+and	O
+superfluous	O
+perpetual	O
+grants	O
+.	O
+
+	
+
+	
+he	O
+had	O
+been	O
+imprisoned	O
+in	O
+the	O
+1960s	O
+due	O
+to	O
+his	O
+association	O
+with	O
+peng	B-Person
+ming-min	I-Person
+and	O
+roger	B-Person
+hsieh	I-Person
+.	O
+
+	
+
+	
+szapáry	O
+'s	O
+project	O
+was	O
+resubmitted	O
+with	O
+sweeping	O
+amendments	O
+by	O
+his	O
+successor	O
+kálmán	B-Person
+tisza	I-Person
+.	O
+
+	
+
+	
+joseph	B-Person
+lyons	I-Person
+became	O
+the	O
+new	O
+prime	B-Group
+minister	I-Group
+of	I-Group
+australia	I-Group
+as	O
+james	B-Person
+scullin	I-Person
+resigned	O
+in	O
+the	O
+wake	O
+of	O
+the	O
+election	O
+results	O
+.	O
+
+	
+
+	
+may	O
+18	O
+–	O
+edoardo	B-Person
+sanguineti	I-Person
+79	O
+poet	O
+and	O
+writer	O
+
+	
+
+	
+he	O
+was	O
+the	O
+great	O
+great	O
+grandson	O
+of	O
+henry	B-Person
+iii	I-Person
+of	I-Person
+england	I-Person
+.	O
+
+	
+
+	
+cătărău	O
+infiltrated	O
+the	O
+democratic	B-Group
+nationalist	I-Group
+party	I-Group
+(	O
+pnd	O
+)	O
+of	O
+nicolae	B-Person
+iorga	I-Person
+and	O
+a.	B-Person
+c.	I-Person
+cuza	I-Person
+.	O
+
+	
+
+	
+the	O
+film	O
+stars	O
+mukesh	B-Person
+suma	I-Person
+sukumari	B-Person
+kalabhavan	B-Person
+mani	I-Person
+and	O
+adoor	B-Person
+bhavani	I-Person
+in	O
+the	O
+lead	O
+roles	O
+.	O
+
+	
+
+	
+:	O
+6	O
+walter	B-Person
+johnson	I-Person
+(	O
+1913	O
+–	O
+1916	O
+1918	O
+1924	O
+)	O
+
+	
+
+	
+bar	O
+:	O
+oo	O
+from	O
+:	O
+1974	O
+till	O
+:	O
+1976	O
+color	O
+:	O
+red	O
+text	O
+:	O
+tin	B-Person
+oo	I-Person
+
+	
+
+	
+the	O
+title	O
+track	O
+was	O
+inspired	O
+in	O
+part	O
+by	O
+the	O
+alarming	O
+rise	O
+of	O
+david	B-Person
+duke	I-Person
+.	O
+
+	
+
+	
+the	O
+10th	O
+century	O
+patria	B-Location
+of	I-Location
+constantinople	I-Location
+refer	O
+to	O
+two	O
+under	O
+theodosius	B-Person
+ii	I-Person
+(	O
+)	O
+but	O
+this	O
+is	O
+most	O
+likely	O
+an	O
+anachronism	O
+.	O
+
+	
+
+	
+prime	O
+minister	O
+david	B-Person
+cameron	I-Person
+insisted	O
+that	O
+it	O
+was	O
+a	O
+lawful	O
+act	O
+of	O
+self	O
+defense	O
+.	O
+
+	
+
+	
+lord	B-Person
+clanricarde	I-Person
+had	O
+evicted	O
+many	O
+tenants	O
+and	O
+became	O
+the	O
+main	O
+target	O
+.	O
+
+	
+
+	
+from	O
+:	O
+1959	O
+till	O
+:	O
+1974	O
+color	O
+:	O
+alliance	O
+text	O
+:	O
+fatimah	B-Person
+hashim	I-Person
+(	O
+1959	O
+–	O
+1974	O
+)	O
+
+	
+
+	
+judith	B-Person
+schwentner	I-Person
+will	O
+become	O
+vice	O
+mayor	O
+and	O
+councillor	O
+for	O
+transit	O
+and	O
+planning	O
+.	O
+
+	
+
+	
+admiral	B-Person
+hood	I-Person
+'s	O
+share	O
+was	O
+£	O
+50,000	O
+(	O
+equivalent	O
+to	O
+£	O
+in	O
+)	O
+.	O
+
+	
+
+	
+his	O
+six	O
+wives	O
+are	O
+portrayed	O
+by	O
+different	O
+actresses	O
+among	O
+them	O
+frances	B-Person
+cuka	I-Person
+as	O
+catherine	B-Person
+of	I-Person
+aragon	I-Person
+and	O
+jane	B-Person
+asher	I-Person
+as	O
+jane	B-Person
+seymour	I-Person
+.	O
+
+	
+
+	
+he	O
+became	O
+the	O
+first	O
+privy	O
+counselor	O
+of	O
+the	O
+ruling	B-Group
+ch'oe	I-Group
+family	O
+.	O
+
+	
+
+	
+claudius	O
+enlightened	O
+reign	O
+is	O
+marred	O
+by	O
+the	O
+betrayals	O
+of	O
+his	O
+adulterous	O
+wife	O
+messalina	B-Person
+and	O
+his	O
+boyhood	O
+friend	O
+herod	B-Person
+agrippa	I-Person
+.	O
+
+	
+
+	
+josé	B-Person
+antonio	I-Person
+abreu	I-Person
+classical	O
+musician	O
+and	O
+founder	O
+of	O
+el	B-Group
+sistema	I-Group
+
+	
+
+	
+in	O
+1933	O
+he	O
+inherited	O
+his	O
+nephew	O
+'s	O
+titles	O
+and	O
+on	O
+his	O
+own	O
+death	O
+in	O
+1936	O
+was	O
+succeeded	O
+by	O
+his	O
+eldest	O
+son	O
+geoffrey	B-Person
+.	O
+
+	
+
+	
+in	O
+1826	O
+he	O
+sold	O
+it	O
+to	O
+his	O
+elder	O
+brother	O
+peder	B-Person
+brønnum	I-Person
+scavenius	I-Person
+.	O
+
+	
+
+	
+sometimes	O
+another	O
+figure	O
+who	O
+may	O
+be	O
+herod	B-Medical
+is	O
+present	O
+.	O
+
+	
+
+	
+george	B-Person
+bernard	I-Person
+shaw	I-Person
+douglas	B-Person
+fairbanks	I-Person
+mary	B-Person
+pickford	I-Person
+and	O
+margaret	B-Person
+thatcher	I-Person
+are	O
+some	O
+of	O
+the	O
+famous	O
+guests	O
+who	O
+stayed	O
+at	O
+the	O
+hotel	O
+.	O
+
+	
+
+	
+in	O
+past	O
+the	O
+location	O
+was	O
+a	O
+transient	O
+for	O
+migrating	O
+nomads	O
+of	O
+mohammad	B-Person
+khanlu	I-Person
+tribe	O
+.	O
+
+	
+
+	
+but	O
+it	O
+was	O
+the	O
+archaeologist	O
+paolo	B-Person
+orsi	I-Person
+who	O
+first	O
+investigated	O
+its	O
+possible	O
+functions	O
+.	O
+
+	
+
+	
+from	O
+:	O
+02	O
+/	O
+03	O
+/	O
+1995	O
+till	O
+:	O
+18	O
+/	O
+10	O
+/	O
+2000	O
+color	O
+:	O
+li	O
+text	O
+:	O
+kate	B-Person
+carnell	I-Person
+(	O
+1995	O
+–	O
+2000	O
+)	O
+
+	
+
+	
+he	O
+finished	O
+third	O
+against	O
+progressive	B-Group
+conservative	I-Group
+gilbert	B-Person
+chartrand	I-Person
+.	O
+
+	
+
+	
+raskova	O
+is	O
+credited	O
+with	O
+using	O
+her	O
+personal	O
+connections	O
+with	O
+joseph	B-Person
+stalin	I-Person
+to	O
+convince	O
+the	O
+military	O
+to	O
+form	O
+three	O
+combat	O
+regiments	O
+for	O
+women	O
+.	O
+
+	
+
+	
+in	O
+1972	O
+the	O
+home	O
+was	O
+added	O
+to	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+.	O
+
+	
+
+	
+yasunari	B-Person
+kawabata	I-Person
+(	O
+川端	O
+康成	O
+)	O
+–	O
+snow	B-CreativeWorks
+country	I-CreativeWorks
+(	O
+雪国	O
+yukiguni	O
+)	O
+
+	
+
+	
+handel	O
+'s	O
+1742	O
+oratorio	B-CreativeWorks
+messiah	I-CreativeWorks
+(	O
+hwv	O
+56	O
+)	O
+cites	O
+verses	O
+1	O
+and	O
+18	O
+according	O
+to	O
+the	O
+king	B-Person
+james	I-Person
+version	O
+.	O
+
+	
+
+	
+hudgens	O
+is	O
+also	O
+featured	O
+in	O
+maxim	B-Group
+s	I-Group
+lists	O
+.	O
+
+	
+
+	
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1983	O
+.	O
+
+	
+
+	
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1980	O
+.	O
+
+	
+
+	
+it	O
+was	O
+first	B-CreativeWorks
+described	I-CreativeWorks
+by	O
+johannes	B-Person
+winnertz	I-Person
+in	O
+1853	O
+.	O
+
+	
+
+	
+walker	O
+had	O
+also	O
+submitted	O
+poems	O
+to	O
+the	O
+new	B-CreativeWorks
+yorker	I-CreativeWorks
+where	O
+howard	B-Person
+moss	I-Person
+made	O
+his	O
+work	O
+welcome	O
+.	O
+
+	
+
+	
+for	O
+the	O
+kansas	B-CreativeWorks
+city	I-CreativeWorks
+star	I-CreativeWorks
+it	O
+offered	O
+straight	O
+c&w	O
+minus	O
+the	O
+show	O
+biz	O
+pretension	O
+.	O
+
+	
+
+	
+the	B-Person
+avengers	I-Person
+vol	O
+.	O
+3	O
+61	O
+–	O
+62	O
+
+	
+
+	
+he	O
+was	O
+a	O
+parliamentary	O
+sketch	O
+writer	O
+for	O
+punch	B-Group
+from	O
+1881	O
+.	O
+
+	
+
+	
+he	O
+worked	O
+as	O
+a	O
+journalist	O
+and	O
+was	O
+a	O
+collaborator	O
+for	O
+the	O
+newspaper	O
+dagens	B-CreativeWorks
+nyheter	I-CreativeWorks
+.	O
+
+	
+
+	
+baldauf	O
+was	O
+selected	O
+as	O
+the	O
+most	O
+influential	O
+female	O
+executive	O
+in	O
+the	O
+year	O
+1998	O
+by	O
+fortune	B-Group
+.	O
+
+	
+
+	
+he	O
+was	O
+also	O
+the	O
+founding	O
+editor	O
+of	O
+the	O
+popular	O
+daily	O
+amader	B-CreativeWorks
+shomoy	I-CreativeWorks
+in	O
+2003	O
+.	O
+
+	
+
+	
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1995	O
+.	O
+
+	
+
+	
+joseph	B-Person
+sattler	I-Person
+was	O
+another	O
+graphic	O
+artist	O
+who	O
+contributed	O
+to	O
+the	O
+style	O
+through	O
+another	O
+artistic	O
+journal	O
+called	O
+pan	B-CreativeWorks
+.	O
+
+	
+
+	
+roger	B-Person
+ebert	I-Person
+of	O
+the	O
+chicago	B-CreativeWorks
+sun-times	B-CreativeWorks
+likewise	O
+rated	O
+the	O
+film	O
+one	O
+star	O
+calling	O
+it	O
+a	O
+realistic	O
+drama	O
+of	O
+appalling	O
+banality	O
+.	O
+
+	
+
+	
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1999	O
+.	O
+
+	
+
+	
+it	O
+was	O
+added	O
+to	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1978	O
+.	O
+
+	
+
+	
+march	O
+29	O
+–	O
+gustavus	B-Person
+franklin	I-Person
+swift	I-Person
+businessman	O
+(	O
+born	O
+1839	B-CreativeWorks
+)	O
+
+	
+
+	
+the	O
+hindustan	B-CreativeWorks
+times	I-CreativeWorks
+said	O
+the	O
+film	O
+had	O
+a	O
+ludicrous	O
+script	O
+and	O
+wooden	O
+acting	O
+.	O
+
+	
+
+	
+a	B-CreativeWorks
+rolling	I-CreativeWorks
+stone	I-CreativeWorks
+review	O
+described	O
+the	O
+guitar	O
+lines	O
+as	O
+composed	O
+of	O
+elementary	O
+riffs	O
+.	O
+
+	
+
+	
+alexander	B-Person
+shulgin	I-Person
+devoted	O
+his	O
+entire	O
+career	O
+to	O
+self	O
+experimentation	O
+publishing	O
+his	O
+results	O
+in	O
+the	O
+widely	O
+acclaimed	O
+books	O
+pihkal	B-CreativeWorks
+and	I-CreativeWorks
+tihkal	I-CreativeWorks
+.	O
+
+	
+
+	
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+2005	O
+.	O
+
+	
+
+	
+gambaccini	O
+claims	O
+to	O
+have	O
+invented	O
+the	O
+term	O
+brand	O
+echh	O
+which	O
+later	O
+became	O
+widely	O
+used	O
+by	O
+stan	B-Person
+lee	I-Person
+.	O
+
+	
+
+	
+flight	O
+testing	O
+was	O
+not	O
+complete	O
+until	O
+1991	O
+.	O
+
+	
+
+	
+however	O
+the	O
+anchorage	B-CreativeWorks
+daily	I-CreativeWorks
+news	O
+was	O
+unable	O
+to	O
+find	O
+any	O
+conclusive	O
+information	O
+to	O
+support	O
+this	O
+claim	O
+.	O
+
+	
+
+	
+1946	O
+kölnische	B-CreativeWorks
+rundschau	I-CreativeWorks
+begins	O
+publication	O
+.	O
+
+	
+
+	
+december	O
+13	O
+–	O
+chester	B-Person
+ronning	I-Person
+diplomat	O
+and	O
+politician	O
+(	O
+d	O
+.	O
+1984	B-CreativeWorks
+)	O
+
+	
+
+	
+another	O
+country	O
+is	O
+also	O
+the	O
+title	O
+of	O
+a	O
+1962	O
+novel	O
+by	O
+james	B-Person
+baldwin	I-Person
+which	O
+includes	O
+gay	O
+and	O
+bisexual	O
+characters	O
+.	O
+
+	
+
+	
+the	O
+building	O
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1982	O
+.	O
+
+	
+
+	
+w.	B-Person
+b.	I-Person
+yeats	I-Person
+irish	I-Person
+poet	O
+published	O
+in	O
+the	O
+united	B-Location
+kingdom	I-Location
+:	O
+
+	
+
+	
+the	O
+building	O
+was	O
+added	O
+to	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+1986	O
+.	O
+
+	
+
+	
+alexander	O
+takes	O
+control	O
+of	O
+the	O
+guard	O
+setting	O
+himself	O
+in	O
+position	O
+to	O
+claim	O
+the	O
+throne	O
+by	O
+the	O
+next	O
+novel	O
+in	O
+the	O
+series	O
+the	B-CreativeWorks
+persian	I-CreativeWorks
+boy	I-CreativeWorks
+.	O
+
+	
+
+	
+the	O
+game	O
+received	O
+5	O
+out	O
+of	O
+5	O
+stars	O
+in	O
+1992	O
+in	O
+dragon	B-CreativeWorks
+.	O
+
+	
+
+	
+the	O
+battle	O
+was	O
+celebrated	O
+by	O
+the	O
+doggerel	B-Location
+poet	O
+william	B-Person
+mcgonagall	I-Person
+:	O
+
+	
+
+	
+the	O
+violence	O
+was	O
+often	O
+exaggerated	O
+in	O
+dime	B-Group
+novels	O
+.	O
+
+	
+
+	
+it	O
+was	O
+because	O
+of	O
+this	O
+dual	O
+significance	O
+that	O
+the	O
+property	O
+was	O
+listed	O
+on	O
+the	O
+national	B-CreativeWorks
+register	I-CreativeWorks
+of	I-CreativeWorks
+historic	I-CreativeWorks
+places	I-CreativeWorks
+in	O
+2006	O
+.	O
+
+	
+
+	
+a	O
+show	O
+spokesperson	O
+told	O
+the	O
+daily	B-CreativeWorks
+mirror	O
+that	O
+the	O
+appearance	O
+would	O
+be	O
+emotional	O
+and	O
+incredibly	O
+moving	O
+.	O
+
+	
+
+	
+the	O
+species	O
+was	O
+first	B-CreativeWorks
+described	I-CreativeWorks
+by	O
+augustus	B-Person
+radcliffe	I-Person
+grote	I-Person
+in	O
+1878	O
+.	O
+
+	
+
+	
+publishers	B-CreativeWorks
+weekly	I-CreativeWorks
+says	O
+the	O
+big	O
+concepts	O
+and	O
+complex	O
+story	O
+effectively	O
+pull	O
+readers	O
+into	O
+intriguing	O
+speculation	O
+about	O
+human	O
+identity	O
+and	O
+potential	O
+.	O
+
+	
+
+	
+broken	B-CreativeWorks
+sword	I-CreativeWorks
+:	I-CreativeWorks
+the	I-CreativeWorks
+angel	I-CreativeWorks
+of	I-CreativeWorks
+death	I-CreativeWorks
+the	O
+fourth	O
+instalment	O
+in	O
+the	O
+series	O
+
+	
+
+	
+cards	O
+are	O
+obtained	O
+through	O
+quests	O
+or	O
+through	O
+the	O
+game	O
+'s	O
+gacha	B-CreativeWorks
+system	O
+.	O
+
+	
+
+	
+anxiety	O
+is	O
+featured	O
+in	O
+the	O
+2016	O
+video	O
+game	O
+forza	B-CreativeWorks
+horizon	I-CreativeWorks
+3	I-CreativeWorks
+.	O
+
+	
+
+	
+it	O
+used	O
+a	O
+different	O
+graphics	B-Product
+engine	I-Product
+.	O
+
+	
+
+	
+credits	O
+are	O
+adapted	O
+from	O
+tidal	B-CreativeWorks
+.	O
+
+	
+
+	
+word	O
+processor	B-Product
+for	O
+producing	O
+and	O
+editing	O
+any	O
+sort	O
+of	O
+printable	O
+material	O
+
+	
+
+	
+eve	O
+a	O
+playable	O
+character	O
+in	O
+elsword	B-CreativeWorks
+.	O
+
+	
+
+	
+minerva	O
+a	O
+character	O
+in	O
+the	O
+final	O
+cutscene	O
+of	O
+assassin	O
+'s	O
+creed	B-Person
+ii	I-Person
+
+	
+
+	
+the	O
+publisher	O
+also	O
+offers	O
+a	O
+few	O
+apps	B-CreativeWorks
+.	O
+
+	
+
+	
+after	O
+his	O
+performance	O
+in	O
+star	B-CreativeWorks
+wars	I-CreativeWorks
+:	I-CreativeWorks
+empire	I-CreativeWorks
+at	I-CreativeWorks
+war	I-CreativeWorks
+he	O
+was	O
+succeeded	O
+by	O
+matt	B-Person
+sloan	I-Person
+.	O
+
+	
+
+	
+the	O
+series	O
+is	O
+also	O
+available	O
+for	O
+digital	O
+download	O
+on	O
+itunes	B-CreativeWorks
+.	O
+
+	
+
+	
+it	O
+was	O
+originally	O
+released	O
+for	O
+the	O
+amiga	B-Group
+in	O
+1988	O
+and	O
+was	O
+ported	O
+for	O
+the	O
+atari	B-Product
+st	I-Product
+commodore	B-Product
+64	I-Product
+and	O
+ms-dos	B-Product
+in	O
+1989	O
+.	O
+
+	
+
+	
+the	O
+game	O
+planescape	B-CreativeWorks
+:	I-CreativeWorks
+torment	I-CreativeWorks
+was	O
+released	O
+in	O
+1999	O
+and	O
+is	O
+frequently	O
+cited	O
+as	O
+among	O
+the	O
+best	O
+written	O
+games	O
+in	O
+history	O
+.	O
+
+	
+
+	
+this	O
+allowed	O
+him	O
+to	O
+focus	O
+on	O
+creating	O
+his	O
+next	O
+company	O
+telegram	B-CreativeWorks
+focused	O
+on	O
+an	O
+encrypted	O
+messaging	O
+service	O
+of	O
+the	O
+same	O
+name	O
+.	O
+
+	
+
+	
+he	O
+moved	O
+to	O
+twitch	B-Group
+under	O
+the	O
+same	O
+name	O
+.	O
+
+	
+
+	
+it	O
+shipped	O
+150,000	O
+copies	O
+in	O
+its	O
+first	O
+month	O
+of	O
+release	O
+at	O
+which	O
+time	O
+it	O
+was	O
+on	O
+track	O
+to	O
+top	O
+the	O
+sales	O
+of	O
+caesar	B-Person
+ii	I-Person
+.	O
+
+	
+
+	
+os/360	B-Product
+assemblers	I-Product
+were	O
+originally	O
+designated	O
+according	O
+to	O
+their	O
+memory	O
+requirements	O
+.	O
+
+	
+
+	
+k	O
+meleon	B-CreativeWorks
+'s	I-CreativeWorks
+macros	O
+are	O
+a	O
+type	O
+of	O
+small	O
+browser	O
+extension	O
+that	O
+can	O
+be	O
+opened	O
+in	O
+a	O
+text	O
+editor	O
+by	O
+end	O
+users	O
+.	O
+
+	
+
+	
+passing	B-CreativeWorks
+at	I-CreativeWorks
+the	I-CreativeWorks
+internet	I-CreativeWorks
+archive	I-CreativeWorks
+(	O
+scanned	O
+book	O
+original	O
+edition	O
+)	O
+
+	
+
+	
+gallon	B-Person
+smashing	I-Person
+gained	O
+popularity	O
+in	O
+2013	O
+after	O
+three	O
+teenagers	O
+from	O
+vienna	B-Location
+,	I-Location
+virginia	I-Location
+posted	O
+videos	O
+of	O
+the	O
+act	O
+on	O
+their	O
+youtube	B-CreativeWorks
+channel	O
+.	O
+
+	
+
+	
+diagram	O
+is	O
+a	O
+style	O
+file	O
+for	O
+latex	B-CreativeWorks
+for	O
+typesetting	O
+chess	O
+diagrams	O
+.	O
+
+	
+
+	
+also	O
+working	O
+to	O
+this	O
+end	O
+ubisoft	B-Group
+montreal	I-Group
+were	O
+supervising	O
+the	O
+online	O
+multiplayer	O
+portion	O
+of	O
+the	O
+game	O
+.	O
+
+	
+
+	
+the	O
+game	O
+spawned	O
+two	O
+semi	O
+sequels	O
+dark	B-CreativeWorks
+rift	I-CreativeWorks
+and	O
+cardinal	B-CreativeWorks
+syn	I-CreativeWorks
+.	O
+
+	
+
+	
+although	O
+it	O
+was	O
+smaller	O
+than	O
+the	O
+rijksmuseum	B-Location
+and	O
+the	O
+wereldmuseum	B-Location
+it	O
+was	O
+not	O
+less	O
+important	O
+.	O
+
+	
+
+	
+wellington	O
+won	O
+16	O
+to	O
+11	O
+with	O
+4000	O
+spectators	O
+on	O
+hand	O
+at	O
+athletic	B-Location
+park	I-Location
+.	O
+
+	
+
+	
+since	O
+1967	O
+they	O
+are	O
+displayed	O
+as	O
+a	O
+part	O
+of	O
+diamond	B-Product
+fund	I-Product
+permanent	O
+exposition	O
+.	O
+
+	
+
+	
+his	O
+official	O
+records	O
+which	O
+were	O
+compiled	O
+by	O
+the	O
+virginia	B-Group
+historical	I-Group
+society	I-Group
+in	O
+1883	O
+are	O
+left	O
+in	O
+five	O
+volumes	O
+.	O
+
+	
+
+	
+the	O
+maximum	O
+payload	O
+capacities	O
+are	O
+approximately	O
+to	O
+low	B-Location
+earth	I-Location
+orbit	I-Location
+(	O
+for	O
+cz	O
+5b	O
+)	O
+and	O
+approximately	O
+to	O
+geostationary	B-Location
+transfer	I-Location
+orbit	I-Location
+(	O
+for	O
+cz	O
+5	O
+)	O
+.	O
+
+	
+
+	
+unoosa	O
+'s	O
+headquarters	O
+are	O
+located	O
+at	O
+the	O
+united	B-Group
+nations	I-Group
+office	I-Group
+at	O
+vienna	B-Location
+
+	
+
+	
+the	O
+historic	B-Location
+station	I-Location
+building	I-Location
+in	O
+2017	O
+following	O
+the	O
+closure	O
+of	O
+the	O
+north	B-Location
+woolwich	I-Location
+old	I-Location
+station	I-Location
+museum	I-Location
+
+	
+
+	
+it	O
+also	O
+oversees	O
+the	O
+wereldmuseum	B-Location
+in	O
+rotterdam	B-Location
+whose	O
+collection	O
+belongs	O
+to	O
+that	O
+city	O
+.	O
+
+	
+
+	
+received	O
+a	O
+star	O
+on	O
+the	O
+hollywood	B-Location
+walk	I-Location
+of	I-Location
+fame	I-Location
+in	O
+2008	O
+.	O
+
+	
+
+	
+walters	O
+was	O
+inducted	O
+into	O
+the	O
+canadian	B-Group
+golf	I-Group
+hall	I-Group
+of	I-Group
+fame	I-Group
+in	O
+2008	O
+.	O
+
+	
+
+	
+fewer	O
+than	O
+2,000	O
+photographic	O
+plates	O
+have	O
+survived	O
+and	O
+are	O
+currently	O
+held	O
+by	O
+the	O
+munich	B-Location
+stadtmuseum	I-Location
+.	O
+
+	
+
+	
+one	O
+of	O
+her	O
+anchors	O
+(	O
+along	O
+with	O
+one	O
+of	O
+ark	B-Person
+royal	I-Person
+s	O
+)	O
+stands	O
+guard	O
+at	O
+the	O
+entrance	O
+to	O
+the	O
+fleet	B-Location
+air	I-Location
+arm	I-Location
+museum	I-Location
+in	O
+yeovilton	B-Location
+.	O
+
+	
+
+	
+brothers	O
+was	O
+awarded	O
+a	O
+football	O
+scholarship	O
+to	O
+vanderbilt	B-Group
+university	I-Group
+.	O
+
+	
+
+	
+vada	O
+or	O
+udid	O
+vada	O
+also	O
+contain	O
+black	O
+gram	O
+and	O
+are	O
+made	O
+from	O
+soaked	O
+batter	O
+and	O
+deep	O
+fried	O
+in	O
+cooking	B-Product
+oil	I-Product
+.	O
+
+	
+
+	
+a	O
+type	O
+of	O
+pizza	O
+with	O
+a	O
+thick	O
+soft	O
+crust	O
+topped	O
+with	O
+tomato	O
+sauce	O
+onions	O
+caciocavallo	O
+cheese	O
+and	O
+anchovies	O
+
+	
+
+	
+rice	O
+puddings	O
+(	O
+various	O
+)	O
+(	O
+esp	O
+.	O
+with	O
+black	O
+poppy	O
+seeds	O
+)	O
+
+	
+
+	
+the	O
+buttocks	O
+are	O
+salted	O
+and	O
+pressed	O
+in	O
+order	O
+to	O
+eventually	O
+produce	O
+ham	B-Product
+.	O
+
+	
+
+	
+lumb	O
+appeared	O
+in	O
+television	O
+advertisements	O
+for	O
+fry	B-Group
+'s	I-Group
+turkish	B-CreativeWorks
+delight	I-CreativeWorks
+.	O
+
+	
+
+	
+lunch	O
+includes	O
+rice	O
+sambar	B-Product
+curd	O
+kuzhambu	B-Product
+and	O
+rasam	B-Product
+.	O
+
+	
+
+	
+beignet	O
+—	O
+a	O
+square	O
+shaped	O
+pastry	B-Product
+made	O
+with	O
+deep	O
+fried	O
+dough	O
+and	O
+topped	O
+with	O
+powdered	O
+sugar	O
+.	O
+
+	
+
+	
+donkeys	O
+obtain	O
+most	O
+of	O
+their	O
+energy	O
+from	O
+structural	O
+carbohydrates	O
+.	O
+
+	
+
+	
+in	O
+1994	O
+the	O
+flavr	B-Product
+savr	I-Product
+tomato	I-Product
+was	O
+released	O
+the	O
+first	O
+commercialized	O
+genetically	O
+modified	O
+food	O
+.	O
+
+	
+
+	
+volvopluteus	O
+gloiocephalus	B-Medical
+is	O
+edible	O
+although	O
+considered	O
+watery	O
+and	O
+poor	O
+in	O
+quality	O
+.	O
+
+	
+
+	
+fitness	O
+a	O
+brand	O
+of	O
+breakfast	O
+cereals	O
+and	O
+granola	B-Product
+bars	O
+
+	
+
+	
+during	O
+the	O
+19th	O
+century	O
+it	O
+became	O
+a	O
+fashionable	O
+place	O
+to	O
+buy	O
+cakes	O
+and	O
+ice	O
+cream	O
+and	O
+was	O
+well	O
+known	O
+for	O
+its	O
+range	O
+of	O
+multi	O
+tiered	O
+wedding	B-Product
+cakes	I-Product
+.	O
+
+	
+
+	
+the	O
+wood	O
+has	O
+a	O
+characteristic	O
+caramel	B-Medical
+odour	O
+.	O
+
+	
+
+	
+the	O
+city	O
+is	O
+most	O
+well	O
+known	O
+for	O
+its	O
+chili	B-Product
+festival	O
+held	O
+every	O
+autumn	O
+which	O
+draws	O
+over	O
+a	O
+thousand	O
+people	O
+from	O
+the	O
+surrounding	O
+area	O
+.	O
+
+	
+
+	
+in	O
+the	O
+u.s.	B-CreativeWorks
+the	O
+single	O
+was	O
+released	O
+in	O
+december	O
+2001	O
+with	O
+désenchantée	O
+as	O
+a	O
+double	O
+a	O
+single	O
+.	O
+
+	
+
+	
+in	O
+1908	O
+he	O
+conducted	O
+the	O
+paris	O
+premiere	O
+of	O
+modest	B-Person
+mussorgsky	I-Person
+'s	O
+opera	O
+boris	B-CreativeWorks
+godunov	I-CreativeWorks
+.	O
+
+	
+
+	
+upon	O
+completion	O
+of	O
+the	O
+music	O
+the	O
+band	O
+plays	O
+o	O
+canada	O
+followed	O
+by	O
+god	B-Group
+save	I-Group
+the	I-Group
+queen	I-Group
+.	O
+
+	
+
+	
+this	O
+is	O
+followed	O
+by	O
+the	B-CreativeWorks
+sanctus	I-CreativeWorks
+which	O
+is	O
+sung	O
+by	O
+the	O
+congregation	O
+.	O
+
+	
+
+	
+all	B-CreativeWorks
+er	I-CreativeWorks
+nothin'	I-CreativeWorks
+(	O
+grahame	B-Person
+nelson	I-Person
+)	O
+–	O
+2	O
+:	O
+59	O
+
+	
+
+	
+il	O
+re	O
+pastore	O
+(	O
+pietro	O
+metastasio	O
+)	O
+(	O
+spring	O
+1756	O
+cremona	O
+)	O
+
+	
+
+	
+i	B-CreativeWorks
+pity	I-CreativeWorks
+the	I-CreativeWorks
+fool	I-CreativeWorks
+(	O
+malone	O
+)	O
+–	O
+3	O
+:	O
+36	O
+
+	
+
+	
+little	O
+bad	B-Group
+girl	I-Group
+sweat	I-Group
+where	O
+them	O
+girls	O
+at	O
+who	B-CreativeWorks
+'s	I-CreativeWorks
+that	I-CreativeWorks
+chick	I-CreativeWorks
+?	I-CreativeWorks
+without	O
+you	O
+
+	
+
+	
+blacksmoke	B-Group
+produced	O
+two	O
+versions	O
+appearing	O
+within	O
+the	O
+movie	O
+and	O
+on	O
+the	O
+fully	O
+loaded	O
+.	O
+
+	
+
+	
+it	O
+was	O
+released	O
+as	O
+the	O
+lead	O
+single	O
+from	O
+his	O
+debut	O
+studio	O
+album	O
+before	B-CreativeWorks
+the	I-CreativeWorks
+storm	I-CreativeWorks
+.	O
+
+	
+
+	
+adele	B-CreativeWorks
+–	O
+someone	B-CreativeWorks
+like	I-CreativeWorks
+you	I-CreativeWorks
+(	O
+director	O
+of	O
+photography	O
+:	O
+david	B-Person
+johnson	I-Person
+)	O
+
+	
+
+	
+the	O
+album	O
+pisces	B-CreativeWorks
+,	I-CreativeWorks
+aquarius	I-CreativeWorks
+,	I-CreativeWorks
+capricorn	I-CreativeWorks
+&	I-CreativeWorks
+jones	I-CreativeWorks
+ltd.	I-CreativeWorks
+sold	O
+over	O
+five	O
+million	O
+copies	O
+.	O
+
+	
+
+	
+reverse	O
+is	O
+the	O
+fourth	O
+album	O
+of	O
+the	O
+progressive	O
+metal	O
+band	O
+eldritch	B-Group
+containing	O
+a	O
+cover	O
+of	O
+my	B-Group
+sharona	I-Group
+.	O
+
+	
+
+	
+all	O
+u.d.o.	O
+releases	O
+from	O
+steelfactory	B-Group
+onwards	I-Group
+
+	
+
+	
+america	B-CreativeWorks
+(	O
+paul	O
+simon	O
+)	O
+(	O
+originally	O
+by	O
+simon	B-Group
+&	I-Group
+garfunkel	I-Group
+)	O
+
+	
+
+	
+it	O
+is	O
+considered	O
+as	O
+a	O
+second	O
+national	O
+anthem	O
+of	O
+hungary	B-Location
+beside	O
+the	O
+himnusz	B-Product
+.	O
+
+	
+
+	
+the	O
+tour	O
+was	O
+in	O
+support	O
+of	O
+his	O
+ninth	O
+studio	O
+album	O
+wheelhouse	B-CreativeWorks
+and	O
+was	O
+presented	O
+by	O
+cracker	B-Person
+barrel	I-Person
+.	O
+
+	
+
+	
+earth	O
+song	O
+(	O
+hani	B-Person
+'s	O
+club	O
+experience	O
+)	O
+–	O
+7	O
+:	O
+55	O
+
+	
+
+	
+jordu	B-CreativeWorks
+(	O
+duke	B-Person
+jordan	I-Person
+)	O
+–	O
+10	O
+:	O
+38	O
+
+	
+
+	
+the	O
+barry	B-Person
+manilow	I-Person
+song	O
+copacabana	B-CreativeWorks
+is	O
+named	O
+after	O
+and	O
+set	O
+in	O
+the	O
+club	O
+.	O
+
+	
+
+	
+old	B-CreativeWorks
+devil	I-CreativeWorks
+moon	I-CreativeWorks
+(	O
+burton	B-Person
+lane	I-Person
+yip	B-Person
+harburg	I-Person
+)	O
+6	O
+:	O
+45	O
+
+	
+
+	
+public	B-Group
+enemy	I-Group
+sampled	O
+the	O
+get	B-Group
+in	I-Group
+that	I-Group
+cell	I-Group
+nigger	I-Group
+in	O
+their	O
+song	O
+black	B-CreativeWorks
+steel	I-CreativeWorks
+in	I-CreativeWorks
+the	I-CreativeWorks
+hour	I-CreativeWorks
+of	I-CreativeWorks
+chaos	I-CreativeWorks
+.	O
+
+	
+
+	
+2017	B-CreativeWorks
+:	I-CreativeWorks
+she	I-CreativeWorks
+rocks	I-CreativeWorks
+,	I-CreativeWorks
+vol.	I-CreativeWorks
+1	I-CreativeWorks
+“	O
+a	O
+matter	O
+of	O
+perception	O
+”	O
+
+	
+
+	
+don't	B-CreativeWorks
+save	I-CreativeWorks
+it	I-CreativeWorks
+all	I-CreativeWorks
+for	I-CreativeWorks
+christmas	I-CreativeWorks
+day	I-CreativeWorks
+(	O
+bonus	O
+track	O
+)	O
+4	O
+:	O
+44	O
+
+	
+
+	
+the	B-CreativeWorks
+shadow	I-CreativeWorks
+of	I-CreativeWorks
+your	I-CreativeWorks
+smile	I-CreativeWorks
+(	O
+johnny	B-Person
+mandel	I-Person
+paul	B-Person
+francis	B-Person
+webster	I-Person
+)	O
+–	O
+2	O
+:	O
+15	O
+
+	
+
+	
+summertime	B-CreativeWorks
+(	O
+george	B-Person
+gershwin	I-Person
+ira	B-Person
+gershwin	I-Person
+dubose	B-Person
+heyward	I-Person
+)	O
+5	O
+:	O
+49	O
+
+	
+
+	
+tha	B-Person
+carter	I-Person
+iii	I-Person
+(	O
+as	O
+producer	O
+and	O
+featured	O
+artist	O
+)	O
+
+	
+
+	
+donna	O
+summer	B-Group
+love	I-Group
+'s	O
+about	B-CreativeWorks
+to	I-CreativeWorks
+change	I-CreativeWorks
+my	I-CreativeWorks
+heart	I-CreativeWorks
+(	O
+pwl	O
+7	O
+remix	O
+)	O
+
+	
+
+	
+in	B-CreativeWorks
+the	I-CreativeWorks
+wee	I-CreativeWorks
+small	I-CreativeWorks
+hours	I-CreativeWorks
+of	I-CreativeWorks
+the	I-CreativeWorks
+morning	I-CreativeWorks
+(	O
+bob	B-Person
+hilliard	I-Person
+david	B-Person
+mann	I-Person
+)	O
+–	O
+3	O
+:	O
+16	O
+
+	
+
+	
+it	O
+is	O
+the	O
+composer	O
+'s	O
+final	O
+completed	O
+score	O
+for	O
+orchestra	O
+and	O
+was	O
+composed	O
+in	O
+the	O
+summer	O
+of	O
+1965	O
+during	O
+work	O
+on	O
+his	O
+requiem	O
+canticles	B-CreativeWorks
+.	O
+
+	
+
+	
+pump	B-CreativeWorks
+up	I-CreativeWorks
+the	I-CreativeWorks
+jam	I-CreativeWorks
+(	O
+terry	B-Person
+dome	I-Person
+mix	O
+)	O
+(	O
+5	O
+:	O
+26	O
+)	O
+(	O
+kamosi	B-Person
+bogaert	O
+)	O
+
+	
+
+	
+ladybird	B-CreativeWorks
+(	O
+tadd	B-Person
+dameron	I-Person
+)	O
+–	O
+20	O
+:	O
+11	O
+
+	
+
+	
+the	O
+final	O
+four	O
+crews	O
+kicked	O
+off	O
+the	O
+show	O
+with	O
+a	O
+group	O
+number	O
+to	O
+massive	O
+attack	O
+featuring	O
+sean	B-Person
+garrett	I-Person
+.	O
+
+	
+
+	
+he	O
+shared	O
+his	O
+nomination	O
+with	O
+lon	B-Person
+bender	I-Person
+.	O
+
+	
+
+	
+she	O
+joined	O
+sheryl	B-Person
+sandberg	I-Person
+'s	O
+movement	O
+to	O
+encourage	O
+young	O
+women	O
+to	O
+be	O
+more	O
+assertive	O
+in	O
+professional	O
+interactions	O
+.	O
+
+	
+
+	
+description	O
+the	O
+instrument	O
+made	O
+by	O
+john	B-Person
+isaac	I-Person
+hawkins	I-Person
+
+	
+
+	
+alice	B-Person
+agogino	I-Person
+leader	O
+in	O
+engineering	O
+diversity	O
+
+	
+
+	
+the	O
+movie	O
+was	O
+loosely	O
+based	O
+on	O
+the	O
+career	O
+of	O
+oil	B-Group
+well	I-Group
+firefighter	O
+red	B-Person
+adair	I-Person
+.	O
+
+	
+
+	
+karsten	B-Person
+solheim	I-Person
+(	O
+1911	O
+–	O
+2000	O
+)	O
+–	O
+creator	O
+and	O
+founder	O
+of	O
+ping	B-Group
+
+	
+
+	
+the	O
+pilot	O
+robert	B-Person
+kronfeld	I-Person
+initiated	O
+a	O
+stall	O
+that	O
+progressed	O
+into	O
+an	O
+uncontrollable	O
+dive	O
+that	O
+caused	O
+both	O
+crew	O
+to	O
+lose	O
+consciousness	O
+.	O
+
+	
+
+	
+:	O
+fanny	B-Person
+gates	I-Person
+further	O
+investigated	O
+the	O
+properties	O
+of	O
+radiation	O
+.	O
+
+	
+
+	
+it	O
+was	O
+designed	O
+by	O
+architect	O
+eugenius	B-Person
+birch	I-Person
+as	O
+a	O
+place	O
+for	O
+seaside	O
+visitors	O
+to	O
+enjoy	O
+fresh	O
+sea	O
+air	O
+.	O
+
+	
+
+	
+robert	B-Person
+taylor	I-Person
+computer	O
+scientist	O
+(	O
+b	O
+.	O
+1932	O
+)	O
+
+	
+
+	
+mto	O
+was	O
+established	O
+by	O
+arati	B-Person
+prabhakar	I-Person
+.	O
+
+	
+
+	
+built	O
+to	O
+a	O
+design	O
+by	O
+william	B-Person
+wardell	I-Person
+from	O
+a	O
+foundation	O
+stone	O
+laid	O
+in	O
+1868	O
+the	O
+spires	O
+of	O
+the	O
+cathedral	O
+were	O
+not	O
+finally	O
+added	O
+until	O
+the	O
+year	O
+2000	O
+.	O
+
+	
+
+	
+vladimir	B-Person
+simonov	I-Person
+undertook	O
+the	O
+job	O
+of	O
+developing	O
+an	O
+underwater	B-Product
+assault	I-Product
+rifle	I-Product
+.	O
+
+	
+
+	
+mangini	O
+first	O
+caught	O
+the	O
+attention	O
+of	O
+bill	B-Person
+belichick	I-Person
+under	O
+whom	O
+he	O
+would	O
+coach	O
+for	O
+nine	O
+seasons	O
+as	O
+a	O
+23	O
+year	O
+old	O
+ball	O
+boy	O
+with	O
+the	O
+cleveland	B-Group
+browns	I-Group
+.	O
+
+	
+
+	
+troels	B-Person
+bech	I-Person
+(	O
+born	O
+1966	O
+in	O
+svendborg	B-Location
+)	O
+a	O
+former	O
+footballer	O
+with	O
+177	O
+caps	O
+;	O
+sports	O
+director	O
+for	O
+brøndby	B-Group
+if	I-Group
+
+	
+
+	
+he	O
+would	O
+return	O
+to	O
+his	O
+alma	O
+mater	O
+as	O
+a	O
+full	O
+assistant	O
+coach	O
+in	O
+2005	O
+under	O
+ben	B-Person
+braun	I-Person
+.	O
+
+	
+
+	
+tommy	B-Person
+tuberville	I-Person
+—	O
+american	B-Group
+football	O
+coach	O
+and	O
+former	O
+player	O
+.	O
+
+	
+
+	
+however	O
+he	O
+then	O
+struggled	O
+with	O
+injuries	O
+and	O
+was	O
+released	O
+by	O
+new	O
+manager	O
+jürgen	B-Person
+klopp	I-Person
+after	O
+his	O
+contract	O
+expired	O
+in	O
+summer	O
+2016	O
+.	O
+
+	
+
+	
+in	O
+its	O
+first	O
+season	O
+under	O
+head	O
+coach	O
+j.	B-Person
+burton	I-Person
+rix	I-Person
+the	O
+team	O
+compiled	O
+an	O
+overall	O
+record	O
+of	O
+3	O
+–	O
+2	O
+–	O
+3	O
+and	O
+outscored	O
+opponents	O
+by	O
+a	O
+total	O
+of	O
+74	O
+to	O
+49	O
+.	O
+
+	
+
+	
+hossein	B-Person
+faraki	I-Person
+was	O
+awarded	O
+as	O
+the	O
+best	O
+coach	O
+of	O
+the	O
+season	O
+.	O
+
+	
+
+	
+in	O
+1921	O
+the	O
+first	O
+full	O
+time	O
+manager	O
+dori	B-Person
+kürschner	I-Person
+was	O
+appointed	O
+.	O
+
+	
+
+	
+six	O
+minutes	O
+later	O
+in	O
+the	O
+81st	O
+minute	O
+of	O
+play	O
+alejandro	B-Person
+villanueva	I-Person
+scored	O
+the	O
+equalizer	O
+.	O
+
+	
+
+	
+they	O
+were	O
+led	O
+by	O
+eleventh	O
+year	O
+head	O
+coach	O
+rod	B-Person
+reed	I-Person
+and	O
+played	O
+their	O
+home	O
+games	O
+at	O
+hale	B-Location
+stadium	I-Location
+.	O
+
+	
+
+	
+she	O
+studied	O
+for	O
+the	O
+award	O
+alongside	O
+hope	B-Person
+powell	I-Person
+as	O
+the	O
+only	O
+two	O
+women	O
+in	O
+a	O
+group	O
+of	O
+male	O
+candidates	O
+.	O
+
+	
+
+	
+the	O
+team	O
+was	O
+coached	O
+by	O
+geno	B-Person
+auriemma	I-Person
+.	O
+
+	
+
+	
+tommy	B-Person
+wright	I-Person
+was	O
+kept	O
+as	O
+manager	O
+and	O
+remained	O
+for	O
+the	O
+season	O
+.	O
+
+	
+
+	
+brown	O
+is	O
+the	O
+only	O
+living	O
+son	O
+of	O
+paul	B-Person
+brown	I-Person
+.	O
+
+	
+
+	
+roxy	O
+music	O
+:	O
+virginia	B-Person
+plain	I-Person
+love	B-CreativeWorks
+is	I-CreativeWorks
+the	I-CreativeWorks
+drug	I-CreativeWorks
+do	B-CreativeWorks
+the	I-CreativeWorks
+strand	I-CreativeWorks
+jealous	B-CreativeWorks
+guy	I-CreativeWorks
+(	O
+b	O
+19	O
+:	O
+37	O
+)	O
+
+	
+
+	
+in	O
+2012	O
+tame	B-Person
+impala	I-Person
+won	O
+the	O
+award	O
+for	O
+a	O
+second	O
+time	O
+this	O
+time	O
+with	O
+lonerism	O
+.	O
+
+	
+
+	
+john	B-Person
+baker	I-Person
+saunders	I-Person
+founding	O
+member	O
+and	O
+bassist	O
+for	O
+the	O
+grunge	O
+rock	O
+supergroup	O
+mad	B-Group
+season	I-Group
+
+	
+
+	
+performed	O
+live	O
+in	O
+hull	B-Location
+with	O
+the	O
+bbc	B-Group
+philharmonic	I-Group
+
+	
+
+	
+speake	O
+studied	O
+classical	O
+saxophone	O
+at	O
+trinity	B-Group
+college	I-Group
+of	I-Group
+music	I-Group
+.	O
+
+	
+
+	
+it	O
+was	O
+used	O
+for	O
+the	O
+filming	O
+of	O
+the	O
+spice	B-Group
+girls	I-Group
+1996	O
+video	O
+wannabe	B-CreativeWorks
+.	O
+
+	
+
+	
+he	O
+currently	O
+plays	O
+keyboards	O
+and	O
+guitar	O
+for	O
+stephen	B-Person
+malkmus	I-Person
+and	O
+the	B-Group
+jicks	I-Group
+.	O
+
+	
+
+	
+x-press	B-CreativeWorks
+2	I-CreativeWorks
+–	O
+arrangement	O
+production	O
+art	O
+direction	O
+design	O
+
+	
+
+	
+adam	B-Person
+schlesinger	I-Person
+(	O
+1967	O
+–	O
+2020	O
+)	O
+musician	O
+bass	O
+player	O
+for	O
+fountains	B-Group
+of	I-Group
+wayne	I-Group
+and	I-Group
+ivy	I-Group
+
+	
+
+	
+26	O
+–	O
+charles	B-Person
+neville	I-Person
+79	O
+american	B-Location
+r&b	O
+saxophonist	O
+(	O
+the	B-Group
+neville	I-Group
+brothers	I-Group
+)	O
+
+	
+
+	
+drive-by	B-Group
+truckers	I-Group
+southern	B-Group
+rock	I-Group
+opera	I-Group
+2	O
+×	O
+cd	O
+studio	O
+
+	
+
+	
+moonsie	O
+is	O
+mentioned	O
+in	O
+the	O
+lyrics	O
+of	O
+the	O
+timex	B-Group
+social	I-Group
+club	I-Group
+hit	O
+song	O
+rumors	B-CreativeWorks
+.	O
+
+	
+
+	
+it	O
+was	O
+written	O
+by	O
+the	O
+hardcore	O
+punk	O
+band	O
+bad	B-Group
+brains	I-Group
+and	O
+released	O
+on	O
+their	O
+1982	O
+album	O
+bad	B-CreativeWorks
+brains	I-CreativeWorks
+.	O
+
+	
+
+	
+regular	O
+guests	O
+tripod	B-Product
+often	O
+performed	O
+in	O
+this	O
+segment	O
+.	O
+
+	
+
+	
+rudd	O
+a	O
+harpist	O
+and	O
+pianist	O
+had	O
+been	O
+a	O
+member	O
+of	O
+the	O
+band	O
+renaissance	B-Group
+between	O
+1984	O
+87	O
+.	O
+
+	
+
+	
+tulin	O
+met	O
+billy	B-Person
+corgan	I-Person
+in	O
+2008	O
+when	O
+the	O
+latter	O
+was	O
+recording	O
+music	O
+with	O
+the	B-Group
+seeds	I-Group
+front	O
+man	O
+sky	B-Person
+saxon	I-Person
+.	O
+
+	
+
+	
+nick	O
+jonas	B-Group
+&	I-Group
+the	I-Group
+administration	I-Group
+(	O
+nick	B-Person
+jonas	I-Person
+went	O
+solo	O
+also	O
+pursuing	O
+an	O
+acting	O
+and	O
+modelling	O
+career	O
+)	O
+
+	
+
+	
+the	O
+song	O
+was	O
+covered	O
+by	O
+hall	B-Group
+&	I-Group
+oates	I-Group
+on	O
+their	O
+1991	O
+tribute	O
+album	O
+two	B-CreativeWorks
+rooms	I-CreativeWorks
+.	O
+
+	
+
+	
+de	O
+donde	O
+vengo	O
+yo	O
+by	O
+chocquibtown	B-Group
+
+	
+
+	
+these	O
+works	O
+were	O
+recorded	O
+in	O
+2008	O
+by	O
+the	O
+michigan	B-Group
+philharmonic	I-Group
+.	O
+
+	
+
+	
+reveal	O
+is	O
+an	O
+album	O
+by	O
+the	O
+new	B-Group
+wave	I-Group
+rock	O
+band	O
+fischer-z	B-Group
+.	O
+
+	
+
+	
+yorke	O
+cited	O
+remain	O
+in	O
+light	O
+by	O
+talking	B-Product
+heads	I-Product
+as	O
+a	O
+massive	O
+reference	O
+point	O
+.	O
+
+	
+
+	
+he	O
+is	O
+also	O
+leader	O
+of	O
+the	O
+multi	O
+genre	O
+outfit	O
+secret	B-Group
+chiefs	I-Group
+3	I-Group
+.	O
+
+	
+
+	
+soda	B-Group
+stereo	I-Group
+'s	O
+frontman	O
+gustavo	B-Person
+cerati	I-Person
+could	O
+foresee	O
+the	O
+musical	O
+trends	O
+putting	O
+his	O
+own	O
+band	O
+in	O
+front	O
+of	O
+it	O
+.	O
+
+	
+
+	
+millard	O
+is	O
+featured	O
+as	O
+a	O
+vocalist	O
+on	O
+i	B-CreativeWorks
+see	I-CreativeWorks
+love	I-CreativeWorks
+a	O
+2004	O
+single	O
+by	O
+third	B-Group
+day	I-Group
+and	O
+steven	B-Person
+curtis	I-Person
+chapman	I-Person
+.	O
+
+	
+
+	
+greg	B-Person
+puciato	I-Person
+singer	O
+of	O
+metal	O
+band	O
+the	B-Group
+dillinger	I-Group
+escape	I-Group
+plan	I-Group
+
+	
+
+	
+they	O
+grew	O
+up	O
+listening	O
+to	O
+outkast	B-Person
+gucci	I-Person
+mane	I-Person
+hot	B-Group
+boys	I-Group
+lil	B-Person
+wayne	I-Person
+and	O
+master	B-Person
+p	I-Person
+.	O
+
+	
+
+	
+rigid	O
+ladders	O
+were	O
+originally	O
+made	O
+of	O
+wood	O
+but	O
+in	O
+the	O
+20th	O
+century	O
+aluminium	B-Medical
+became	O
+more	O
+common	O
+because	O
+of	O
+its	O
+lighter	O
+weight	O
+.	O
+
+	
+
+	
+it	O
+has	O
+pinnate	O
+leaves	O
+long	O
+with	O
+four	O
+to	O
+eight	O
+egg	O
+shaped	O
+leaflets	O
+long	O
+and	O
+wide	O
+on	O
+petiolules	B-Medical
+long	O
+.	O
+
+	
+
+	
+within	O
+a	O
+nerve	O
+each	O
+axon	O
+is	O
+surrounded	O
+by	O
+a	O
+layer	O
+of	O
+connective	B-Medical
+tissue	I-Medical
+called	O
+the	O
+endoneurium	B-Medical
+.	O
+
+	
+
+	
+a	O
+caesarean	O
+section	O
+leaves	O
+a	O
+scar	O
+in	O
+the	O
+wall	O
+of	O
+the	O
+uterus	B-Medical
+which	O
+is	O
+considered	O
+weaker	O
+than	O
+the	O
+normal	O
+uterine	O
+wall	O
+.	O
+
+	
+
+	
+the	O
+flowers	O
+are	O
+dark	O
+purple	O
+to	O
+bluish	O
+purple	O
+narrow	O
+oblong	O
+helmet	B-Product
+shaped	O
+tall	O
+.	O
+
+	
+
+	
+pudendal	O
+nerve	O
+entrapment	O
+can	O
+occur	O
+when	O
+the	O
+pudendal	B-Medical
+nerve	I-Medical
+is	O
+compressed	O
+while	O
+it	O
+passes	O
+through	O
+the	O
+pudendal	B-Medical
+canal	I-Medical
+.	O
+
+	
+
+	
+the	O
+bark	B-Medical
+is	O
+gray	O
+and	O
+usually	O
+smooth	O
+.	O
+
+	
+
+	
+under	O
+rare	O
+conditions	O
+edema	O
+of	O
+the	O
+ciliary	B-Medical
+body	O
+can	O
+cause	O
+an	O
+anterior	O
+displacement	O
+of	O
+the	O
+lens	O
+inducing	O
+a	O
+myopia	O
+shift	O
+in	O
+refractive	O
+error	O
+.	O
+
+	
+
+	
+the	O
+flesh	B-Medical
+is	O
+yellowish	O
+thick	O
+and	O
+soft	O
+.	O
+
+	
+
+	
+the	O
+sessile	B-Medical
+pungent	B-Medical
+phyllodes	B-Medical
+have	O
+a	O
+narrowly	O
+triangular	O
+shape	O
+and	O
+are	O
+in	O
+length	O
+and	O
+wide	O
+with	O
+unequal	O
+base	O
+and	O
+a	O
+central	O
+midrib	O
+.	O
+
+	
+
+	
+the	O
+branches	O
+of	O
+this	O
+species	O
+are	O
+in	O
+diameter	O
+and	O
+reach	O
+in	O
+length	O
+and	O
+are	O
+covered	O
+with	O
+sparse	O
+villous	O
+hairs	O
+(	O
+trichomes	B-Medical
+)	O
+.	O
+
+	
+
+	
+in	O
+the	O
+human	O
+ear	O
+this	O
+is	O
+accomplished	O
+via	O
+the	O
+organs	O
+of	O
+the	O
+middle	B-Medical
+ear	I-Medical
+in	O
+conjunction	O
+with	O
+the	O
+hair	B-Medical
+cells	I-Medical
+and	O
+endolymph	B-Medical
+of	O
+your	O
+inner	O
+ear	O
+.	O
+
+	
+
+	
+the	O
+columella	B-Medical
+is	O
+subproduced	O
+at	O
+the	O
+base	O
+.	O
+
+	
+
+	
+regeneration	O
+is	O
+from	O
+fresh	O
+seed	O
+after	O
+removing	O
+the	O
+fleshy	O
+aril	B-Medical
+around	O
+the	O
+seed	O
+.	O
+
+	
+
+	
+the	O
+palpebral	O
+branches	O
+ascend	O
+deep	O
+to	O
+the	O
+orbicularis	B-Medical
+oculi	I-Medical
+and	O
+pierce	O
+the	O
+muscle	O
+to	O
+supply	O
+the	O
+skin	O
+of	O
+the	O
+lower	O
+eyelid	O
+.	O
+
+	
+
+	
+s	O
+cuspidatus	O
+inflorescences	O
+1	O
+.	O
+jpg	O
+|	O
+flowering	O
+heads	O
+(	O
+inflorescence	B-Medical
+)	O
+
+	
+
+	
+filtering	O
+facepiece	O
+respirator	B-Product
+(	O
+ffps	O
+)	O
+are	O
+disposable	O
+face	O
+masks	O
+produced	O
+from	O
+a	O
+whole	O
+piece	O
+of	O
+filtering	O
+material	O
+.	O
+
+	
+
+	
+the	O
+almond	B-Group
+holds	O
+petticoats	B-Product
+which	O
+she	O
+also	O
+sells	O
+.	O
+
+	
+
+	
+staple	O
+has	O
+a	O
+following	O
+as	O
+an	O
+underground	O
+streetwear	B-Product
+company	O
+.	O
+
+	
+
+	
+in	O
+which	O
+we	O
+see	O
+him	O
+without	O
+his	O
+trademark	O
+sunglasses	B-Product
+and	O
+his	O
+home	O
+interior	O
+along	O
+with	O
+an	O
+ageing	O
+dog	O
+that	O
+requires	O
+medication	O
+.	O
+
+	
+
+	
+coving	O
+often	O
+links	O
+the	O
+ceiling	O
+to	O
+the	O
+surrounding	O
+walls	O
+.	O
+
+	
+
+	
+they	O
+were	O
+provided	O
+with	O
+a	O
+uniform	O
+of	O
+blue	O
+frocks	O
+with	O
+white	O
+cuffs	B-Product
+and	O
+collars	B-Product
+.	O
+
+	
+
+	
+the	O
+members	O
+of	O
+the	O
+pipes	O
+and	O
+drums	O
+wear	O
+scarlet	O
+tunics	B-Product
+trousers	I-Product
+or	O
+a	O
+kilt	O
+shoes	O
+and	O
+a	O
+feather	O
+bonnet	O
+or	O
+glengarry	O
+cap	O
+.	O
+
+	
+
+	
+the	O
+driver	O
+and	O
+his	O
+passenger	O
+were	O
+reported	O
+as	O
+being	O
+men	O
+in	O
+their	O
+30s	O
+or	O
+40s	O
+both	O
+unkempt	O
+and	O
+at	O
+least	O
+one	O
+of	O
+them	O
+wearing	O
+just	O
+an	O
+undershirt	B-Product
+.	O
+
+	
+
+	
+file	O
+:	O
+amulet	O
+kilim	O
+motif	O
+.	O
+jpg	O
+|	O
+amulet	B-Product
+(	O
+muska	O
+)	O
+for	O
+protection	O
+and	O
+good	O
+luck	O
+
+	
+
+	
+petta	O
+was	O
+buried	O
+in	O
+her	O
+wedding	B-Product
+dress	I-Product
+.	O
+
+	
+
+	
+theodore	B-Person
+beza	I-Person
+produced	O
+the	O
+1574	O
+work	O
+right	O
+of	O
+magistrates	O
+;	O
+it	O
+was	O
+followed	O
+by	O
+the	O
+anonymous	O
+vindiciae	O
+contra	O
+tyrannos	B-Person
+.	O
+
+	
+
+	
+it	O
+is	O
+named	O
+after	O
+pope	B-Person
+julius	I-Person
+i	I-Person
+.	O
+
+	
+
+	
+his	O
+repudiation	O
+of	O
+the	O
+appointment	O
+opened	O
+the	O
+way	O
+for	O
+the	O
+appointment	O
+of	O
+jakub	B-Person
+świnka	I-Person
+in	O
+1283	O
+.	O
+
+	
+
+	
+he	O
+was	O
+replaced	O
+by	O
+alphonsus	B-Person
+j.	I-Person
+donlon	I-Person
+.	O
+
+	
+
+	
+athanasius	B-Person
+kircher	I-Person
+found	O
+the	O
+number	O
+of	O
+multiset	O
+permutations	O
+when	O
+one	O
+element	O
+can	O
+be	O
+repeated	O
+.	O
+
+	
+
+	
+ercole	B-Person
+gonzaga	I-Person
+born	O
+1506	O
+died	O
+1565	O
+.	O
+
+	
+
+	
+394	O
+epiphanius	B-Person
+of	I-Person
+salamis	I-Person
+(	O
+cyprus	O
+)	O
+attacks	O
+teachings	O
+of	O
+origen	O
+as	O
+heretical	O
+.	O
+
+	
+
+	
+he	O
+also	O
+claimed	O
+that	O
+he	O
+did	O
+not	O
+oppose	O
+pope	B-Person
+paul	I-Person
+vi	I-Person
+.	O
+
+	
+
+	
+muhammad	O
+went	O
+to	O
+the	O
+city	O
+of	O
+ta	B-Location
+if	O
+seeking	O
+refuge	O
+but	O
+they	O
+refused	O
+his	O
+message	O
+.	O
+
+	
+
+	
+dear	B-Person
+stream	I-Person
+dear	B-Person
+bank	I-Person
+soprano	O
+henry	B-Person
+vaughan	O
+;	O
+george	B-Person
+herbert	I-Person
+
+	
+
+	
+the	O
+name	O
+of	O
+his	O
+father	O
+might	O
+point	O
+to	O
+a	O
+familial	O
+relation	O
+with	O
+popes	B-Person
+:	I-Person
+felix	I-Person
+iii	I-Person
+(	O
+483	O
+–	O
+492	O
+)	O
+and	O
+gregory	B-Person
+i	I-Person
+(	O
+590	O
+–	O
+604	O
+)	O
+.	O
+
+	
+
+	
+this	O
+is	O
+the	O
+tablet	O
+that	O
+started	O
+jaussen	B-Group
+'s	O
+collection	O
+.	O
+
+	
+
+	
+he	O
+visited	O
+sebastian	B-Person
+kneipp	I-Person
+'s	O
+water	B-Location
+cure	I-Location
+sanatorium	I-Location
+in	O
+wörishofen	B-Location
+.	O
+
+	
+
+	
+adhesions	O
+form	O
+as	O
+a	O
+natural	O
+part	O
+of	O
+the	O
+body	O
+'s	O
+healing	O
+process	O
+after	O
+surgery	O
+in	O
+a	O
+similar	O
+way	O
+that	O
+a	O
+scar	B-Medical
+forms	O
+.	O
+
+	
+
+	
+it	O
+is	O
+more	O
+toxic	O
+to	O
+females	O
+than	O
+to	O
+males	O
+when	O
+administered	O
+via	O
+subcutaneous	O
+injection	O
+or	O
+intraperitoneal	O
+injection	O
+.	O
+
+	
+
+	
+brumpt	O
+is	O
+credited	O
+for	O
+introducing	O
+a	O
+technique	O
+known	O
+as	O
+xenodiagnosis	B-Medical
+into	O
+parasitological	O
+research	O
+.	O
+
+	
+
+	
+bosler	O
+began	O
+a	O
+new	O
+career	O
+teaching	O
+yoga	B-Product
+in	O
+1997	O
+at	O
+the	O
+age	O
+of	O
+seventy	O
+.	O
+
+	
+
+	
+tachyphylaxis	B-Medical
+and	O
+tolerance	O
+have	O
+been	O
+demonstrated	O
+with	O
+all	O
+drugs	O
+of	O
+this	O
+class	O
+.	O
+
+	
+
+	
+mcleod	O
+has	O
+been	O
+known	O
+to	O
+rely	O
+on	O
+meditation	B-Medical
+to	O
+deal	O
+with	O
+mental	O
+fatigue	O
+and	O
+mentally	O
+prepare	O
+for	O
+games	O
+.	O
+
+	
+
+	
+he	O
+became	O
+a	O
+televangelist	O
+and	O
+supporter	O
+of	O
+faith	O
+healing	O
+in	O
+the	O
+late	O
+1960s	O
+after	O
+reading	O
+a	O
+book	O
+by	O
+t.	B-Person
+l.	I-Person
+osborn	I-Person
+.	O
+
+	
+
+	
+neuroimaging	O
+techniques	O
+are	O
+used	O
+to	O
+investigate	O
+the	O
+activity	O
+of	O
+neural	B-Medical
+networks	O
+as	O
+well	O
+as	O
+the	O
+structure	O
+and	O
+function	O
+of	O
+the	O
+brain	O
+.	O
+
+	
+
+	
+again	O
+3d	O
+imaging	O
+using	O
+rotational	B-Product
+angiography	I-Product
+should	O
+be	O
+the	O
+concept	O
+of	O
+choice	O
+.	O
+
+	
+
+	
+the	O
+advanced	O
+life	B-Product
+support	I-Product
+protocols	O
+are	O
+partly	O
+integrated	O
+in	O
+the	O
+intermediate	O
+life	O
+support	O
+.	O
+
+	
+
+	
+the	O
+skeleton	O
+probably	O
+a	O
+girl	O
+aged	O
+between	O
+6	O
+and	O
+12	O
+under	O
+two	O
+flat	O
+stones	O
+in	O
+a	O
+shallow	O
+pit	O
+grave	O
+was	O
+revealed	O
+with	O
+the	O
+help	O
+of	O
+ct	B-Medical
+(cat)	I-Medical
+scan	O
+.	O
+
+	
+
+	
+bodmin	B-Location
+parkway	I-Location
+railway	I-Location
+station	O
+is	O
+1	O
+km	O
+to	O
+the	O
+north	O
+of	O
+the	O
+hamlet	O
+.	O
+
+	
+
+	
+«	O
+geologicheskaya	O
+»	O
+(	O
+«	O
+tsirk	O
+»	O
+stop	O
+)	O
+«	O
+chkalovskaya	O
+»	O
+(	O
+«	O
+avtovokzal	O
+»	O
+stop	O
+)	O
+
+	
+
+	
+the	O
+city	O
+is	O
+served	O
+by	O
+the	O
+seve	B-Location
+ballesteros–santander	I-Location
+airport	I-Location
+(	O
+sdr	O
+)	O
+located	O
+south	O
+of	O
+the	O
+city	O
+centre	O
+.	O
+
+	
+
+	
+the	O
+nearest	O
+airport	O
+with	O
+national	O
+service	O
+is	O
+albany	B-Location
+international	I-Location
+airport	I-Location
+.	O
+
+	
+
+	
+it	O
+is	O
+also	O
+contracted	O
+out	O
+to	O
+cfb	B-Group
+moose	I-Group
+jaw	I-Group
+to	O
+provide	O
+structural	O
+fire	O
+suppression	O
+services	O
+.	O
+
+	
+
+	
+shipdham	B-Location
+airfield	I-Location
+(	O
+formerly	O
+raf	B-Location
+shipdham	I-Location
+)	O
+is	O
+located	O
+east	O
+of	O
+the	O
+village	O
+.	O
+
+	
+
+	
+2	O
+tph	O
+to	O
+london	B-Location
+charing	O
+cross	O
+(	O
+non	O
+stop	O
+from	O
+to	O
+)	O
+
+	
+
+	
+there	O
+are	O
+also	O
+some	O
+infrequent	O
+services	O
+to	O
+dewsbury	B-Location
+via	O
+brighouse	B-Location
+.	O
+
+	
+
+	
+it	O
+is	O
+located	O
+near	O
+the	O
+ketchikan	B-Location
+international	I-Location
+airport	I-Location
+which	O
+also	O
+has	O
+its	O
+own	O
+seaplane	B-Product
+landing	O
+area	O
+.	O
+
+	
+
+	
+however	O
+he	O
+managed	O
+to	O
+get	O
+a	O
+transfer	O
+to	O
+pilot	O
+training	O
+and	O
+was	O
+soon	O
+himself	O
+an	O
+instructor	O
+at	O
+raf	B-Group
+cranwell	I-Group
+.	O
+
+	
+
+	
+in	O
+1995	O
+the	O
+first	O
+train	O
+station	O
+location	O
+opened	O
+at	O
+penn	B-Location
+station	I-Location
+in	O
+new	B-Location
+york	I-Location
+city	I-Location
+.	O
+
+	
+
+	
+the	O
+building	O
+is	O
+served	O
+by	O
+queen	B-Location
+'s	I-Location
+park	I-Location
+station	I-Location
+on	O
+the	O
+toronto	B-Group
+subway	I-Group
+.	O
+
+	
+
+	
+however	O
+current	O
+service	O
+patterns	O
+dictate	O
+that	O
+all	O
+passenger	B-Product
+rail	I-Product
+service	O
+on	O
+the	O
+line	O
+begins	O
+west	O
+at	O
+30th	B-Location
+street	I-Location
+station	I-Location
+.	O
+
+	
+
+	
+pau	O
+is	O
+served	O
+by	O
+the	O
+pau	B-Location
+pyrénées	I-Location
+airport	I-Location
+away	O
+.	O
+
+	
+
+	
+auraon	O
+can	O
+be	O
+accessed	O
+by	O
+road	O
+and	O
+does	O
+not	O
+have	O
+a	O
+railway	B-Location
+station	I-Location
+of	O
+its	O
+own	O
+.	O
+
+	
+
+	
+the	O
+market	O
+also	O
+had	O
+an	O
+extensive	O
+goods	B-Location
+depot	I-Location
+and	O
+a	O
+nearby	O
+railway	B-Location
+station.	O
+
+	
+
+	
+even	B-Person
+ferrari	I-Person
+had	O
+needed	O
+to	O
+sell	O
+his	O
+company	O
+to	O
+fiat	B-Group
+before	O
+making	O
+such	O
+a	O
+move	O
+.	O
+
+	
+
+	
+he	O
+rode	O
+a	O
+scott	B-Group
+motorcycle	O
+winning	O
+several	O
+trophies	O
+.	O
+
+	
+
+	
+so	O
+she	O
+sort	O
+of	O
+rocks	O
+in	O
+from	O
+out	O
+of	O
+town	O
+with	O
+a	O
+porsche	B-Product
+and	O
+some	O
+high	O
+heels	O
+and	O
+a	O
+bit	O
+of	O
+attitude	O
+.	O
+
+	
+
+	
+the	O
+final	O
+entry	O
+was	O
+from	O
+leyland	B-Location
+and	I-Location
+birmingham	I-Location
+railway	I-Location
+carriage	B-Group
+&	I-Group
+wagon	I-Group
+(	O
+brc&w	O
+)	O
+.	O
+
+	
+
+	
+infrastructure	O
+and	O
+its	O
+associated	O
+dealer	O
+network	O
+are	O
+currently	O
+placed	O
+under	O
+volkswagen	B-Group
+of	I-Group
+south	I-Group
+africa	I-Group
+.	O
+
+	
+
+	
+packard	B-Group
+motors	I-Group
+was	O
+the	O
+only	O
+sponsor	O
+initially	O
+.	O
+
+	
+
+	
+mhi	O
+is	O
+one	O
+of	O
+the	O
+core	O
+companies	O
+of	O
+the	O
+mitsubishi	B-Group
+group	I-Group
+and	O
+its	O
+automobile	O
+division	O
+is	O
+the	O
+predecessor	O
+of	O
+mitsubishi	B-Group
+motors	O
+.	O
+
+	
+
+	
+after	O
+2	O
+years	O
+of	O
+its	O
+3	O
+year	O
+program	O
+ford	B-Group
+had	O
+very	O
+little	O
+to	O
+show	O
+for	O
+its	O
+immense	O
+investment	O
+.	O
+
+	
+
+	
+however	O
+it	O
+suffered	O
+from	O
+reliability	O
+problems	O
+and	O
+a	O
+ford	B-Product
+engine	O
+was	O
+also	O
+tried	O
+in	O
+later	O
+years	O
+.	O
+
+	
+
+	
+he	O
+is	O
+best	O
+known	O
+for	O
+his	O
+work	O
+with	O
+car	O
+manufacturer	O
+panhard	B-Group
+.	O
+
+	
+
+	
+in	O
+2004	O
+student	O
+activism	O
+led	O
+to	O
+a	O
+campus	O
+wide	O
+ban	O
+on	O
+sales	O
+of	O
+coca-cola	B-Product
+products	O
+.	O
+
+	
+
+	
+crush	O
+a	O
+soft	B-Product
+drink	I-Product
+brand	O
+
+	
+
+	
+image	O
+:	O
+cappiello	O
+contratto	O
+.	O
+jpg	O
+|	O
+contratto	O
+(	O
+liquor	B-Product
+ad	O
+1922	B-CreativeWorks
+)	O
+
+	
+
+	
+vino	O
+a	O
+word	O
+for	O
+wine	B-Product
+in	O
+some	O
+languages	O
+
+	
+
+	
+popularly	O
+it	O
+is	O
+mixed	O
+with	O
+non	O
+alcoholic	O
+beverages	O
+like	O
+coca-cola	B-Product
+or	O
+fanta	B-Product
+.	O
+
+	
+
+	
+though	O
+breastfeeding	O
+helps	O
+prevent	O
+many	O
+kinds	O
+of	O
+sicknesses	O
+among	O
+infants	O
+caregivers	O
+often	O
+choose	O
+to	O
+use	O
+infant	B-Medical
+formula	I-Medical
+.	O
+
+	
+
+	
+liqueurs	B-Product
+produced	O
+from	O
+the	O
+colonial	O
+era	O
+are	O
+also	O
+commonly	O
+sold	O
+as	O
+wine	O
+.	O
+
+	
+
+	
+many	O
+of	O
+their	O
+traditions	O
+are	O
+still	O
+practiced	O
+such	O
+as	O
+ayahuasca	B-Medical
+medicine	O
+work	O
+.	O
+
+	
+
+	
+one	O
+herb	O
+is	O
+mixed	O
+with	O
+rice	B-Product
+wine	I-Product
+in	O
+equal	O
+parts	O
+and	O
+fermented	O
+for	O
+1	O
+–	O
+2	O
+days	O
+.	O
+
+	
+
+	
+thermos	O
+brand	O
+vacuum	O
+flask	O
+used	O
+for	O
+maintaining	O
+the	O
+temperature	O
+of	O
+fluids	O
+such	O
+as	O
+coffee	B-Product
+.	O
+]	O
+]	O
+
+	
+
+	
+english	O
+electric	O
+split	O
+the	O
+construction	O
+between	O
+vulcan	B-Location
+foundry	I-Location
+at	O
+newton-le-willows	B-Location
+and	O
+robert	B-Location
+stephenson	I-Location
+and	I-Location
+hawthorns	I-Location
+of	I-Location
+darlington	I-Location
+.	O
+
+	
+
+	
+twenty	O
+four	O
+fuselages	O
+of	O
+the	O
+f	O
+.	O
+k	O
+.	O
+51	O
+were	O
+assembled	O
+at	O
+aviolanda	B-Location
+.	O
+
+	
+
+	
+later	O
+in	O
+1911	O
+he	O
+joined	O
+the	O
+bristol	B-Group
+aeroplane	I-Group
+company	I-Group
+as	O
+a	O
+staff	O
+pilot	O
+but	O
+was	O
+soon	O
+recognised	O
+as	O
+a	O
+designer	O
+.	O
+
+	
+
+	
+mbda	O
+owned	O
+the	O
+guided	O
+weapons	O
+facilities	O
+.	O
+
+	
+
+	
+a	O
+beechcraft	B-Product
+18	I-Product
+and	O
+a	O
+convair	B-Product
+400	I-Product
+were	O
+both	O
+deliberately	O
+sunk	O
+about	O
+offshore	O
+to	O
+create	O
+a	O
+diving	O
+site	O
+.	O
+
+	
+
+	
+(	B-Person
+chikuhei	I-Person
+nakajima	I-Person
+founder	O
+of	O
+nakajima	B-Group
+aircraft	I-Group
+company	I-Group
+was	O
+a	O
+1912	O
+graduate	O
+.	O
+)	O
+
+	
+
+	
+he	O
+took	O
+the	O
+document	O
+from	O
+lockheed	B-Group
+corporation	I-Group
+before	O
+his	O
+retirement	O
+in	O
+1989	O
+.	O
+
+	
+
+	
+it	O
+was	O
+produced	O
+by	O
+lockheed	B-Group
+and	O
+made	O
+its	O
+first	O
+flight	O
+in	O
+1948	O
+.	O
+
+	
+
+	
+partnerships	O
+were	O
+promptly	O
+formed	O
+with	O
+various	O
+other	O
+aerospace	O
+companies	O
+on	O
+the	O
+programme	O
+including	O
+enaer	B-Group
+ogma	B-Group
+and	O
+boeing	B-Group
+.	O
+
+	
+
+	
+her	O
+father	O
+was	O
+initially	O
+a	O
+musician	O
+but	O
+later	O
+worked	O
+for	O
+lockheed	B-Group
+corporation	I-Group
+.	O
+
+	
+
+	
+the	O
+inhalation	O
+form	O
+presents	O
+with	O
+fever	B-Medical
+chest	O
+pain	O
+and	O
+shortness	O
+of	O
+breath	O
+.	O
+
+	
+
+	
+under	O
+his	O
+direction	O
+scientists	O
+cloned	O
+and	O
+sequenced	O
+hiv	B-Person
+.	O
+
+	
+
+	
+later	O
+:	O
+gummas	B-Medical
+(	O
+soft	O
+growths	O
+)	O
+neurological	O
+or	O
+heart	O
+symptoms	O
+.	O
+
+	
+
+	
+visibly	O
+shaken	O
+by	O
+her	O
+actions	O
+she	O
+goes	O
+into	O
+the	O
+bathroom	O
+to	O
+engage	O
+in	O
+self-harm	O
+by	O
+burning	O
+herself	O
+on	O
+the	O
+thighs	O
+with	O
+a	O
+cigarette	B-Product
+.	O
+
+	
+
+	
+this	O
+gene	O
+is	O
+deleted	O
+in	O
+williams	B-Medical
+syndrome	I-Medical
+a	O
+multisystem	O
+developmental	O
+disorder	O
+caused	O
+by	O
+the	O
+deletion	O
+of	O
+contiguous	O
+genes	O
+at	O
+7q11	O
+.	O
+23	O
+.	O
+
+	
+
+	
+in	O
+their	O
+use	O
+as	O
+medicine	O
+they	O
+are	O
+often	O
+inhaled	O
+for	O
+relief	O
+of	O
+angina	B-Medical
+and	O
+other	O
+heart	O
+related	O
+symptoms	O
+of	O
+disease	O
+.	O
+
+	
+
+	
+the	O
+median	O
+time	O
+to	O
+definitive	O
+repair	O
+from	O
+fistula	B-Medical
+onset	O
+was	O
+6	O
+months	O
+(	O
+range	O
+1	O
+day	O
+to	O
+28	O
+months	O
+)	O
+.	O
+
+	
+
+	
+dried	O
+up	O
+fruit	O
+slices	O
+are	O
+valued	O
+as	O
+a	O
+traditional	O
+remedy	O
+for	O
+dysentery	B-Medical
+.	O
+
+	
+
+	
+the	O
+most	O
+common	O
+symptoms	O
+for	O
+epithelial	O
+insertion	O
+of	O
+foreign	O
+objects	O
+are	O
+infection	O
+abscess	B-Medical
+formation	O
+or	O
+sepsis	B-Medical
+at	O
+the	O
+site	O
+of	O
+insertion	O
+.	O
+
+	
+
+	
+the	O
+most	O
+common	O
+adverse	O
+event	O
+is	O
+moderate	O
+to	O
+severe	O
+rash	B-Medical
+which	O
+occurs	O
+in	O
+up	O
+to	O
+20	O
+%	O
+of	O
+patients	O
+.	O
+
+	
+
+	
+roaming	O
+the	O
+fuchun	B-Location
+mountains	I-Location
+with	O
+huang	B-Person
+gongwang	I-Person
+
+	
+
+	
+file	O
+:	O
+tampuhan	O
+by	O
+juan	O
+luna	O
+.	O
+jpg	O
+|	O
+filipino	B-Location
+couple	O
+in	O
+tampuhan	O
+by	O
+juan	B-Person
+luna	I-Person
+
+	
+
+	
+he	O
+has	O
+created	O
+music	O
+pieces	O
+for	O
+theater	O
+dance	O
+installations	O
+television	O
+and	O
+films	O
+.	O
+
+	
+
+	
+four	B-Person
+handscrolls	I-Person
+(	O
+2	O
+5	O
+6	O
+7	O
+)	O
+
+	
+
+	
+file	O
+:	O
+bathers	O
+with	O
+a	O
+turtle	O
+.	O
+jpg	O
+|	O
+bathers	O
+with	O
+a	O
+turtle	O
+by	O
+henri	B-Person
+matisse	I-Person
+
+	
+
+	
+these	O
+paintings	O
+among	O
+them	O
+the	O
+feast	O
+of	O
+the	O
+gods	O
+and	O
+bacchus	O
+and	O
+ariadne	O
+were	O
+executed	O
+by	O
+giovanni	B-Person
+bellini	I-Person
+and	O
+titian	B-Person
+.	O
+
+	
+
+	
+its	O
+treasures	O
+include	O
+the	O
+mona	B-Person
+lisa	I-Person
+(	O
+la	O
+joconde	O
+)	O
+the	O
+venus	B-Person
+de	I-Person
+milo	I-Person
+statue	O
+liberty	O
+leading	O
+the	O
+people	O
+.	O
+
+	
+
+	
+inlay	O
+:	O
+the	O
+execution	O
+of	O
+lady	B-Person
+jane	I-Person
+grey	I-Person
+by	O
+paul	B-Person
+delaroche	I-Person
+1834	O
+
+	
+
+	
+animation	O
+still	O
+today	O
+bases	O
+some	O
+visual	O
+styles	O
+off	O
+of	O
+descending	O
+from	O
+the	O
+chōjū-jinbutsu-giga	B-CreativeWorks
+because	O
+of	O
+how	O
+effective	O
+the	O
+line	O
+work	O
+is	O
+.	O
+
+	
+
+	
+also	O
+he	O
+used	O
+often	O
+to	O
+be	O
+attributed	O
+as	O
+the	O
+painter	O
+of	O
+a	O
+famous	O
+early	O
+ukiyo	B-Product
+e	I-Product
+screen	O
+known	O
+as	O
+the	O
+hikone	O
+screen	O
+but	O
+this	O
+is	O
+now	O
+considered	O
+incorrect	O
+.	O
+
+	
+
+	
+the	O
+brand	O
+name	O
+was	O
+acquired	O
+by	O
+the	O
+retail	O
+company	O
+shinola	B-Group
+in	O
+2011	O
+.	O
+
+	
+
+	
+steve	B-Person
+sabol	I-Person
+–	O
+film	O
+producer	O
+and	O
+one	O
+of	O
+the	O
+founders	O
+of	O
+nfl	B-Group
+films	I-Group
+
+	
+
+	
+weir	O
+'s	O
+wonderful	O
+1887	O
+steinway	B-Product
+piano	O
+has	O
+now	O
+been	O
+fully	O
+restored	O
+.	O
+
+	
+
+	
+she	O
+won	O
+competitions	O
+sponsored	O
+by	O
+yamaha	B-Group
+kawai	I-Group
+and	O
+steinway	B-Group
+.	O
+
+	
+
+	
+a	O
+profoto	B-Product
+studio	I-Product
+light	O
+will	O
+be	O
+available	O
+as	O
+an	O
+accessory	O
+as	O
+well	O
+.	O
+
+	
+
+	
+he	O
+started	O
+the	O
+theatre	O
+group	O
+delfont	B-Group
+mackintosh	I-Group
+theatres	I-Group
+in	O
+1991	O
+.	O
+
+	
+
+	
+first	O
+full	O
+length	O
+production	O
+from	O
+nfl	B-Group
+films	O
+.	O
+
+	
+
+	
+in	O
+1832	O
+aged	O
+about	O
+23	O
+he	O
+took	O
+a	O
+position	O
+at	O
+robert	B-Group
+stephenson	I-Group
+and	I-Group
+company	I-Group
+newcastle	B-Location
+upon	I-Location
+tyne	I-Location
+.	O
+
+	
+
+	
+afpm	O
+represents	O
+companies	O
+including	O
+chevron	B-Group
+corporation	I-Group
+exxonmobil	B-Group
+koch	B-Group
+industries	I-Group
+marathon	B-Group
+petroleum	I-Group
+and	O
+valero	B-Group
+energy	I-Group
+.	O
+
+	
+
+	
+the	B-Group
+jockey	I-Group
+club	I-Group
+decided	O
+not	O
+to	O
+re	O
+run	O
+the	O
+race	O
+and	O
+as	O
+a	O
+result	O
+it	O
+has	O
+often	O
+been	O
+called	O
+the	O
+race	O
+that	O
+never	O
+was	O
+.	O
+
+	

@@ -1,0 +1,2 @@
+encoder_model: xlm-roberta-base
+pad_token_id: 1

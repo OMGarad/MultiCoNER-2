@@ -1,0 +1,2 @@
+encoder_model: bert-base-multilingual-cased
+pad_token_id: 0
