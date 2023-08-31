@@ -1,8 +1,9 @@
-# MultiCoNER-2
-For the SemEval 12: MultiCoNER-2 task
+# SemEval 2023 Task 2: MultiCoNER II: Multilingual Complex Named Entity Recognition
+
+All the code I developed for SemEval 2023 Task 2: MultiCoNER II: Multilingual Complex Named Entity Recognition
 
 
-###Running the Final Submission File
+####Running the Final Submission File
 ```
 python Final_Submission_File.py --test coarse-en-dev.conll --iob_tagging coarse --gpus 1 --encoder_model xlm-roberta-base --model /home/omkar/coarse_ner_baseline_models/XLMR_Base/xlmr_base_eng_coarse_ner_e10/lightning_logs/version_0  --max_length 500
 ```
